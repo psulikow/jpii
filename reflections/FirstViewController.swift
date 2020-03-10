@@ -335,131 +335,131 @@ class FirstViewController: UIViewController {
                             "20-03" : Days(title: "", reflection: "", url: "", saint: "Saint Salvator of Horta : 03/20", saintURL: "https://www.franciscanmedia.org/saint-salvator-of-horta/", saintDate: "20-03"),
 
 
-                            "21-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "21-03"),
+                            "21-03" : Days(title: "", reflection: "", url: "", saint: "Blessed John of Parma : 03/21", saintURL: "https://www.franciscanmedia.org/blessed-john-of-parma/", saintDate: "21-03"),
 
 
-                            "22-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "22-03"),
+                            "22-03" : Days(title: "", reflection: "", url: "", saint: "Saint Nicholas Owen : 03/22", saintURL: "https://www.franciscanmedia.org/saint-nicholas-owen/", saintDate: "22-03"),
 
 
-                            "23-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "23-03"),
+                            "23-03" : Days(title: "", reflection: "", url: "", saint: "Saint Turibius of Mogrovejo : 03/23", saintURL: "https://www.franciscanmedia.org/saint-turibius-of-mogrovejo/", saintDate: "23-03"),
 
 
-                            "24-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "24-03"),
+                            "24-03" : Days(title: "", reflection: "", url: "", saint: "Saint Oscar Arnulfo Romero : 03/24", saintURL: "https://www.franciscanmedia.org/saint-oscar-arnulfo-romero/", saintDate: "24-03"),
 
 
-                            "25-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "25-03"),
+                            "25-03" : Days(title: "", reflection: "", url: "", saint: "Annunciation of the Lord : 03/25", saintURL: "https://www.franciscanmedia.org/annunciation-of-the-lord/", saintDate: "25-03"),
 
 
-                            "26-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "26-03"),
+                            "26-03" : Days(title: "", reflection: "", url: "", saint: "Saint Catherine of Genoa : 03/26", saintURL: "https://www.franciscanmedia.org/saint-catherine-of-genoa/", saintDate: "26-03"),
 
 
-                            "27-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "27-03"),
+                            "27-03" : Days(title: "", reflection: "", url: "", saint: "Lazarus : 03/27", saintURL: "https://www.franciscanmedia.org/lazarus/", saintDate: "27-03"),
 
 
-                            "28-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "28-03"),
+                            "28-03" : Days(title: "", reflection: "", url: "", saint: "Saint Catharine of Bologna : 03/28", saintURL: "https://www.franciscanmedia.org/saint-catharine-of-bologna/", saintDate: "28-03"),
 
 
-                            "29-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "29-03"),
+                            "29-03" : Days(title: "", reflection: "", url: "", saint: "Saint Ludovico of Casoria : 03/29", saintURL: "https://www.franciscanmedia.org/saint-ludovico-of-casoria/", saintDate: "29-03"),
 
 
-                            "30-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "30-03"),
+                            "30-03" : Days(title: "", reflection: "", url: "", saint: "Saint Peter Regalado : 03/30", saintURL: "https://www.franciscanmedia.org/saint-peter-regalado/", saintDate: "30-03"),
 
 
-                            "31-03" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "31-03"),
+                            "31-03" : Days(title: "", reflection: "", url: "", saint: "Saint Stephen of Mar Saba : 03/31", saintURL: "https://www.franciscanmedia.org/saint-stephen-of-mar-saba/", saintDate: "31-03"),
 
 
 
 
 
 
-                            "01-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "01-04"),
+                            "01-04" : Days(title: "", reflection: "", url: "", saint: "Saint Hugh of Grenoble : 04/01", saintURL: "https://www.franciscanmedia.org/saint-hugh-of-grenoble/", saintDate: "01-04"),
 
 
-                            "02-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "02-04"),
+                            "02-04" : Days(title: "", reflection: "", url: "", saint: "Saint Francis of Paola : 04/02", saintURL: "https://www.franciscanmedia.org/saint-francis-of-paola/", saintDate: "02-04"),
 
 
-                            "03-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "03-04"),
+                            "03-04" : Days(title: "", reflection: "", url: "", saint: "Saint Benedict the African : 04/03", saintURL: "https://www.franciscanmedia.org/saint-benedict-the-african/", saintDate: "03-04"),
 
 
-                            "04-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "04-04"),
+                            "04-04" : Days(title: "", reflection: "", url: "", saint: "Saint Isidore of Seville : 04/04", saintURL: "https://www.franciscanmedia.org/saint-isidore-of-seville/", saintDate: "04-04"),
 
 
-                            "05-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "05-04"),
+                            "05-04" : Days(title: "", reflection: "", url: "", saint: "Saint Vincent Ferrer : 04/05", saintURL: "https://www.franciscanmedia.org/saint-vincent-ferrer/", saintDate: "05-04"),
 
 
-                            "06-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "06-04"),
+                            "06-04" : Days(title: "", reflection: "", url: "", saint: "Saint Crescentia Hoess : 04/06", saintURL: "https://www.franciscanmedia.org/saint-crescentia-hoess/", saintDate: "06-04"),
 
 
-                            "07-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "07-04"),
+                            "07-04" : Days(title: "", reflection: "", url: "", saint: "Saint John Baptist de La Salle : 04/07", saintURL: "https://www.franciscanmedia.org/saint-john-baptist-de-la-salle/", saintDate: "07-04"),
 
 
-                            "08-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "08-04"),
+                            "08-04" : Days(title: "", reflection: "", url: "", saint: "Saint Julie Billiart : 04/08", saintURL: "https://www.franciscanmedia.org/saint-julie-billiart/", saintDate: "08-04"),
 
 
-                            "09-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "09-04"),
+                            "09-04" : Days(title: "", reflection: "", url: "", saint: "Saint Casilda : 04/09", saintURL: "https://www.franciscanmedia.org/saint-casilda/", saintDate: "09-04"),
 
 
-                            "10-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "10-04"),
+                            "10-04" : Days(title: "", reflection: "", url: "", saint: "Saint Magdalen of Canossa : 04/10", saintURL: "https://www.franciscanmedia.org/saint-magdalen-of-canossa/", saintDate: "10-04"),
 
 
-                            "11-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "11-04"),
+                            "11-04" : Days(title: "", reflection: "", url: "", saint: "Saint Stanislaus : 04/11", saintURL: "https://www.franciscanmedia.org/saint-stanislaus/", saintDate: "11-04"),
 
 
-                            "12-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "12-04"),
+                            "12-04" : Days(title: "", reflection: "", url: "", saint: "Saint Teresa of Los Andes : 04/12", saintURL: "https://www.franciscanmedia.org/saint-teresa-of-los-andes/", saintDate: "12-04"),
 
 
-                            "13-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "13-04"),
+                            "13-04" : Days(title: "", reflection: "", url: "", saint: "Saint Martin I : 04/13", saintURL: "https://www.franciscanmedia.org/saint-martin-i/", saintDate: "13-04"),
 
 
-                            "14-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "14-04"),
+                            "14-04" : Days(title: "", reflection: "", url: "", saint: "Blessed Peter Gonzalez : 04/14", saintURL: "https://www.franciscanmedia.org/blessed-peter-gonzalez/", saintDate: "14-04"),
 
 
-                            "15-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "15-04"),
+                            "15-04" : Days(title: "", reflection: "", url: "", saint: "Blessed Caesar de Bus : 04/15", saintURL: "https://www.franciscanmedia.org/blessed-caesar-de-bus/", saintDate: "15-04"),
 
 
-                            "16-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "16-04"),
+                            "16-04" : Days(title: "", reflection: "", url: "", saint: "Saint Bernadette Soubirous : 04/16", saintURL: "https://www.franciscanmedia.org/saint-bernadette-soubirous/", saintDate: "16-04"),
 
 
-                            "17-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "17-04"),
+                            "17-04" : Days(title: "", reflection: "", url: "", saint: "Saint Benedict Joseph Labre : 04/17", saintURL: "https://www.franciscanmedia.org/saint-benedict-joseph-labre/", saintDate: "17-04"),
 
 
-                            "18-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "18-04"),
+                            "18-04" : Days(title: "", reflection: "", url: "", saint: "Blessed James Oldo : 04/18", saintURL: "https://www.franciscanmedia.org/blessed-james-oldo/", saintDate: "18-04"),
 
 
-                            "19-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "19-04"),
+                            "19-04" : Days(title: "", reflection: "", url: "", saint: "Saint Gianna Beretta Molla : 04/19", saintURL: "https://www.franciscanmedia.org/saint-gianna-beretta-molla/", saintDate: "19-04"),
 
 
-                            "20-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "20-04"),
+                            "20-04" : Days(title: "", reflection: "", url: "", saint: "Saint Conrad of Parzham : 04/20", saintURL: "https://www.franciscanmedia.org/saint-conrad-of-parzham/", saintDate: "20-04"),
 
 
-                            "21-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "21-04"),
+                            "21-04" : Days(title: "", reflection: "", url: "", saint: "Saint Anselm : 04/21", saintURL: "https://www.franciscanmedia.org/saint-anselm/", saintDate: "21-04"),
 
 
-                            "22-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "22-04"),
+                            "22-04" : Days(title: "", reflection: "", url: "", saint: "Saint Adalbert of Prague : 04/22", saintURL: "https://www.franciscanmedia.org/saint-adalbert-of-prague/", saintDate: "22-04"),
 
 
-                            "23-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "23-04"),
+                            "23-04" : Days(title: "", reflection: "", url: "", saint: "Saint George : 04/23", saintURL: "https://www.franciscanmedia.org/saint-george/", saintDate: "23-04"),
 
 
-                            "24-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "24-04"),
+                            "24-04" : Days(title: "", reflection: "", url: "", saint: "https://www.franciscanmedia.org/saint-fidelis-of-sigmaringen/", saintURL: "Saint Fidelis of Sigmaringen", saintDate: "24-04"),
 
 
-                            "25-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "25-04"),
+                            "25-04" : Days(title: "", reflection: "", url: "", saint: "Saint Mark : 04/25", saintURL: "https://www.franciscanmedia.org/saint-mark/", saintDate: "25-04"),
 
 
-                            "26-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "26-04"),
+                            "26-04" : Days(title: "", reflection: "", url: "", saint: "Saint Pedro de San José Betancur : 04/26", saintURL: "https://www.franciscanmedia.org/saint-pedro-de-san-jos-eacute-betancur/", saintDate: "26-04"),
 
 
-                            "27-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "27-04"),
+                            "27-04" : Days(title: "", reflection: "", url: "", saint: "Saint Louis Mary Grignion de Montfort : 04/27", saintURL: "https://www.franciscanmedia.org/saint-louis-mary-grignion-de-montfort/", saintDate: "27-04"),
 
 
-                            "28-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "28-04"),
+                            "28-04" : Days(title: "", reflection: "", url: "", saint: "Saint Peter Chanel : 04/28", saintURL: "https://www.franciscanmedia.org/saint-peter-chanel/", saintDate: "28-04"),
 
 
-                            "29-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "29-04"),
+                            "29-04" : Days(title: "", reflection: "", url: "", saint: "Saint Catherine of Siena : 04/29", saintURL: "https://www.franciscanmedia.org/saint-catherine-of-siena/", saintDate: "29-04"),
 
 
-                            "30-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "30-04"),
+                            "30-04" : Days(title: "", reflection: "", url: "", saint: "Saint Pius V : 04/31", saintURL: "https://www.franciscanmedia.org/saint-pius-v/", saintDate: "30-04"),
 
 
                             "31-04" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "31-04"),
