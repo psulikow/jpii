@@ -759,91 +759,91 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "01-08"),
+                             "01-08" : Days(title: "", reflection: "", url: "", saint: "Saint Alphonsus Liguori : 08/01", saintURL: "https://www.franciscanmedia.org/saint-alphonsus-liguori/", saintDate: "01-08"),
 
 
-                             "02-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "02-08"),
+                             "02-08" : Days(title: "", reflection: "", url: "", saint: "Saint Eusebius of Vercelli : 08/02", saintURL: "https://www.franciscanmedia.org/saint-eusebius-of-vercelli/", saintDate: "02-08"),
 
 
-                             "03-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "03-08"),
+                             "03-08" : Days(title: "", reflection: "", url: "", saint: "Saint Peter Julian Eymard : 08/03", saintURL: "https://www.franciscanmedia.org/saint-peter-julian-eymard/", saintDate: "03-08"),
 
 
-                             "04-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "04-08"),
+                             "04-08" : Days(title: "", reflection: "", url: "", saint: "Saint John Vianney : 08/04", saintURL: "https://www.franciscanmedia.org/saint-john-vianney/", saintDate: "04-08"),
 
 
-                             "05-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "05-08"),
+                             "05-08" : Days(title: "", reflection: "", url: "", saint: "Dedication of Saint Mary Major Basilica : 08/05", saintURL: "https://www.franciscanmedia.org/dedication-of-saint-mary-major-basilica/", saintDate: "05-08"),
 
 
-                             "06-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "06-08"),
+                             "06-08" : Days(title: "", reflection: "", url: "", saint: "Transfiguration of the Lord : 08/06", saintURL: "https://www.franciscanmedia.org/transfiguration-of-the-lord/", saintDate: "06-08"),
 
 
-                             "07-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "07-08"),
+                             "07-08" : Days(title: "", reflection: "", url: "", saint: "Saint Cajetan : 08/07", saintURL: "https://www.franciscanmedia.org/saint-cajetan/", saintDate: "07-08"),
 
 
-                             "08-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "08-08"),
+                             "08-08" : Days(title: "", reflection: "", url: "", saint: "Saint Dominic : 08/08", saintURL: "https://www.franciscanmedia.org/saint-dominic/", saintDate: "08-08"),
 
 
-                             "09-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "09-08"),
+                             "09-08" : Days(title: "", reflection: "", url: "", saint: "Saint Teresa Benedicta of the Cross : 08/09", saintURL: "https://www.franciscanmedia.org/saint-teresa-benedicta-of-the-cross-edith-stein/", saintDate: "09-08"),
 
 
-                             "10-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "10-08"),
+                             "10-08" : Days(title: "", reflection: "", url: "", saint: "Saint Lawrence : 08/10", saintURL: "https://www.franciscanmedia.org/saint-lawrence/", saintDate: "10-08"),
 
 
-                             "11-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "11-08"),
+                             "11-08" : Days(title: "", reflection: "", url: "", saint: "Saint Clare of Assisi : 08/11", saintURL: "https://www.franciscanmedia.org/saint-clare-of-assisi/", saintDate: "11-08"),
 
 
-                             "12-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "12-08"),
+                             "12-08" : Days(title: "", reflection: "", url: "", saint: "Saint Jane Frances de Chantal : 08/12", saintURL: "https://www.franciscanmedia.org/saint-jane-frances-de-chantal/", saintDate: "12-08"),
 
 
-                             "13-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "13-08"),
+                             "13-08" : Days(title: "", reflection: "", url: "", saint: "Saints Pontian and Hippolytus : 08/13", saintURL: "https://www.franciscanmedia.org/saints-pontian-and-hippolytus/", saintDate: "13-08"),
 
 
-                             "14-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "14-08"),
+                             "14-08" : Days(title: "", reflection: "", url: "", saint: "Saint Maximilian Mary Kolbe : 08/14", saintURL: "https://www.franciscanmedia.org/saint-maximilian-mary-kolbe/", saintDate: "14-08"),
 
 
-                             "15-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "15-08"),
+                             "15-08" : Days(title: "", reflection: "", url: "", saint: "Solemnity of the Assumption of Mary : 08/15", saintURL: "https://www.franciscanmedia.org/solemnity-of-the-assumption-of-mary/", saintDate: "15-08"),
 
 
-                             "16-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "16-08"),
+                             "16-08" : Days(title: "", reflection: "", url: "", saint: "Saint Stephen of Hungary : 08/16", saintURL: "https://www.franciscanmedia.org/saint-stephen-of-hungary/", saintDate: "16-08"),
 
 
-                             "17-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "17-08"),
+                             "17-08" : Days(title: "", reflection: "", url: "", saint: "Saint Joan of the Cross : 08/17", saintURL: "https://www.franciscanmedia.org/saint-joan-of-the-cross/", saintDate: "17-08"),
 
 
-                             "18-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "18-08"),
+                             "18-08" : Days(title: "", reflection: "", url: "", saint: "Saint Louis of Toulouse : 08/18", saintURL: "https://www.franciscanmedia.org/saint-louis-of-toulouse/", saintDate: "18-08"),
 
 
-                             "19-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "19-08"),
+                             "19-08" : Days(title: "", reflection: "", url: "", saint: "Saint John Eudes : 08/19", saintURL: "https://www.franciscanmedia.org/saint-john-eudes/", saintDate: "19-08"),
 
 
-                             "20-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "20-08"),
+                             "20-08" : Days(title: "", reflection: "", url: "", saint: "Saint Bernard of Clairvaux : 08/20", saintURL: "https://www.franciscanmedia.org/saint-bernard-of-clairvaux/", saintDate: "20-08"),
 
 
-                             "21-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "21-08"),
+                             "21-08" : Days(title: "", reflection: "", url: "", saint: "Saint Pius X : 08/21", saintURL: "https://www.franciscanmedia.org/saint-pius-x/", saintDate: "21-08"),
 
 
-                             "22-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "22-08"),
+                             "22-08" : Days(title: "", reflection: "", url: "", saint: "Queenship of Mary : 08/22", saintURL: "https://www.franciscanmedia.org/queenship-of-mary/", saintDate: "22-08"),
 
 
-                             "23-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "23-08"),
+                             "23-08" : Days(title: "", reflection: "", url: "", saint: "Saint Rose of Lima : 08/23", saintURL: "https://www.franciscanmedia.org/saint-rose-of-lima/", saintDate: "23-08"),
 
 
-                             "24-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "24-08"),
+                             "24-08" : Days(title: "", reflection: "", url: "", saint: "Saint Bartholomew : 08/24", saintURL: "https://www.franciscanmedia.org/saint-bartholomew/", saintDate: "24-08"),
 
 
-                             "25-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "25-08"),
+                             "25-08" : Days(title: "", reflection: "", url: "", saint: "Saint Louis of France : 08/25", saintURL: "https://www.franciscanmedia.org/saint-louis-of-france/", saintDate: "25-08"),
 
 
-                             "26-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "26-08"),
+                             "26-08" : Days(title: "", reflection: "", url: "", saint: "Saint Joseph Calasanz : 08/26", saintURL: "https://www.franciscanmedia.org/saint-joseph-calasanz/", saintDate: "26-08"),
 
 
-                             "27-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "27-08"),
+                             "27-08" : Days(title: "", reflection: "", url: "", saint: "Saint Monica : 08/27", saintURL: "https://www.franciscanmedia.org/saint-monica/", saintDate: "27-08"),
 
 
-                             "28-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "28-08"),
+                             "28-08" : Days(title: "", reflection: "", url: "", saint: "Saint Augustine of Hippo : 08/28", saintURL: "https://www.franciscanmedia.org/saint-augustine-of-hippo/", saintDate: "28-08"),
 
 
-                             "29-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "29-08"),
+                             "29-08" : Days(title: "", reflection: "", url: "", saint: "Martyrdom of John the Baptist : 08/29", saintURL: "https://www.franciscanmedia.org/martyrdom-of-john-the-baptist/", saintDate: "29-08"),
 
 
                              "30-08" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "30-08"),
