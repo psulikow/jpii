@@ -469,97 +469,97 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "01-05"),
+                             "01-05" : Days(title: "", reflection: "", url: "", saint: "Saint Joseph the Worker : 05/01", saintURL: "https://www.franciscanmedia.org/saint-joseph-the-worker/", saintDate: "01-05"),
 
 
-                             "02-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "02-05"),
+                             "02-05" : Days(title: "", reflection: "", url: "", saint: "Saint Athanasius : 05/02", saintURL: "https://www.franciscanmedia.org/saint-athanasius/", saintDate: "02-05"),
 
 
-                             "03-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "03-05"),
+                             "03-05" : Days(title: "", reflection: "", url: "", saint: "Saints Philip and James : 05/03", saintURL: "https://www.franciscanmedia.org/saints-philip-and-james/", saintDate: "03-05"),
 
 
-                             "04-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "04-05"),
+                             "04-05" : Days(title: "", reflection: "", url: "", saint: "Blessed Michael Giedroyc : 05/04", saintURL: "https://www.franciscanmedia.org/blessed-michael-giedroyc/", saintDate: "04-05"),
 
 
-                             "05-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "05-05"),
+                             "05-05" : Days(title: "", reflection: "", url: "", saint: "Saint Hilary of Arles : 05/05", saintURL: "https://www.franciscanmedia.org/saint-hilary-of-arles/", saintDate: "05-05"),
 
 
-                             "06-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "06-05"),
+                             "06-05" : Days(title: "", reflection: "", url: "", saint: "Saints Marian and James : 05/06", saintURL: "https://www.franciscanmedia.org/saints-marian-and-james/", saintDate: "06-05"),
 
 
-                             "07-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "07-05"),
+                             "07-05" : Days(title: "", reflection: "", url: "", saint: "Saint Rose Venerini : 05/07", saintURL: "https://www.franciscanmedia.org/saint-rose-venerini/", saintDate: "07-05"),
 
 
-                             "08-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "08-05"),
+                             "08-05" : Days(title: "", reflection: "", url: "Saint Peter of Tarentaise : 05/08", saint: "https://www.franciscanmedia.org/saint-peter-of-tarentaise/", saintURL: "", saintDate: "08-05"),
 
 
-                             "09-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "09-05"),
+                             "09-05" : Days(title: "", reflection: "", url: "", saint: "Saint John of Avila : 05/09", saintURL: "https://www.franciscanmedia.org/saint-john-of-avila/", saintDate: "09-05"),
 
 
-                             "10-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "10-05"),
+                             "10-05" : Days(title: "", reflection: "", url: "", saint: "Saint Damien de Veuster of Moloka’i : 05/10", saintURL: "https://www.franciscanmedia.org/saint-damien-de-veuster-of-moloka-i/", saintDate: "10-05"),
 
 
-                             "11-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "11-05"),
+                             "11-05" : Days(title: "", reflection: "", url: "", saint: "Saint Ignatius of Laconi : 05/11", saintURL: "https://www.franciscanmedia.org/saint-ignatius-of-laconi/", saintDate: "11-05"),
 
 
-                             "12-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "12-05"),
+                             "12-05" : Days(title: "", reflection: "", url: "", saint: "Saint Leopold Mandic : 05/12", saintURL: "https://www.franciscanmedia.org/saint-leopold-mandic/", saintDate: "12-05"),
 
 
-                             "13-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "13-05"),
+                             "13-05" : Days(title: "", reflection: "", url: "", saint: "Our Lady of Fatima : 05/13", saintURL: "https://www.franciscanmedia.org/our-lady-of-fatima/", saintDate: "13-05"),
 
 
-                             "14-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "14-05"),
+                             "14-05" : Days(title: "", reflection: "", url: "", saint: "Saint Matthias : 05/14", saintURL: "https://www.franciscanmedia.org/saint-matthias/", saintDate: "14-05"),
 
 
-                             "15-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "15-05"),
+                             "15-05" : Days(title: "", reflection: "", url: "", saint: "Saint Isidore the Farmer : 05/15", saintURL: "https://www.franciscanmedia.org/saint-isidore-the-farmer/", saintDate: "15-05"),
 
 
-                             "16-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "16-05"),
+                             "16-05" : Days(title: "", reflection: "", url: "", saint: "Saint Margaret of Cortona : 05/16", saintURL: "https://www.franciscanmedia.org/saint-margaret-of-cortona/", saintDate: "16-05"),
 
 
-                             "17-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "17-05"),
+                             "17-05" : Days(title: "", reflection: "", url: "", saint: "Saint Paschal Baylon : 05/17", saintURL: "https://www.franciscanmedia.org/saint-paschal-baylon/", saintDate: "17-05"),
 
 
-                             "18-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "18-05"),
+                             "18-05" : Days(title: "", reflection: "", url: "", saint: "Saint John I : 05/18", saintURL: "https://www.franciscanmedia.org/saint-john-i/", saintDate: "18-05"),
 
 
-                             "19-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "19-05"),
+                             "19-05" : Days(title: "", reflection: "", url: "", saint: "Saint Theophilus of Corte : 05/19", saintURL: "https://www.franciscanmedia.org/saint-theophilus-of-corte/", saintDate: "19-05"),
 
 
-                             "20-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "20-05"),
+                             "20-05" : Days(title: "", reflection: "", url: "", saint: "Saint Bernardine of Siena : 05/20", saintURL: "https://www.franciscanmedia.org/saint-bernardine-of-siena/", saintDate: "20-05"),
 
 
-                             "21-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "21-05"),
+                             "21-05" : Days(title: "", reflection: "", url: "", saint: "Saint Cristóbal Magallanes and Companions : 05/21", saintURL: "https://www.franciscanmedia.org/saint-crisaint-oacute-bal-magallanes-and-companions/", saintDate: "21-05"),
 
 
-                             "22-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "22-05"),
+                             "22-05" : Days(title: "", reflection: "", url: "", saint: "Saint Rita of Cascia : 05/22", saintURL: "https://www.franciscanmedia.org/saint-rita-of-cascia/", saintDate: "22-05"),
 
 
-                             "23-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "23-05"),
+                             "23-05" : Days(title: "", reflection: "", url: "", saint: "Saint Gregory VII : 05/23", saintURL: "https://www.franciscanmedia.org/saint-gregory-vii/", saintDate: "23-05"),
 
 
-                             "24-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "24-05"),
+                             "24-05" : Days(title: "", reflection: "", url: "", saint: "Saint Mary Magdalene de’ Pazzi : 05/24", saintURL: "https://www.franciscanmedia.org/saint-mary-magdalene-de-pazzi/", saintDate: "24-05"),
 
 
-                             "25-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "25-05"),
+                             "25-05" : Days(title: "", reflection: "", url: "", saint: "Saint Bede the Venerable : 05/25", saintURL: "https://www.franciscanmedia.org/saint-bede-the-venerable/", saintDate: "25-05"),
 
 
-                             "26-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "26-05"),
+                             "26-05" : Days(title: "", reflection: "", url: "", saint: "Saint Philip Neri : 05/26", saintURL: "https://www.franciscanmedia.org/saint-philip-neri/", saintDate: "26-05"),
 
 
-                             "27-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "27-05"),
+                             "27-05" : Days(title: "", reflection: "", url: "", saint: "Saint Augustine of Canterbury : 05/27", saintURL: "https://www.franciscanmedia.org/saint-augustine-of-canterbury/", saintDate: "27-05"),
 
 
-                             "28-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "28-05"),
+                             "28-05" : Days(title: "", reflection: "", url: "", saint: "Venerable Pierre Toussaint : 05/28", saintURL: "https://www.franciscanmedia.org/venerable-pierre-toussaint/", saintDate: "28-05"),
 
 
-                             "29-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "29-05"),
+                             "29-05" : Days(title: "", reflection: "", url: "", saint: "Saint Madeleine Sophie Barat : 05/29", saintURL: "https://www.franciscanmedia.org/saint-madeleine-sophie-barat/", saintDate: "29-05"),
 
 
-                             "30-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "30-05"),
+                             "30-05" : Days(title: "", reflection: "", url: "", saint: "Saint Joan of Arc : 05/30", saintURL: "https://www.franciscanmedia.org/saint-joan-of-arc/", saintDate: "30-05"),
 
 
-                             "31-05" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "31-05"),
+                             "31-05" : Days(title: "", reflection: "", url: "", saint: "Visitation of the Blessed Virgin Mary : 05/31", saintURL: "https://www.franciscanmedia.org/visitation/", saintDate: "31-05"),
 
 
 
