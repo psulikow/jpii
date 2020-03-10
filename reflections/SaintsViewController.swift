@@ -453,7 +453,7 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
          if let view = view {
                 title = view as! UILabel
           }
-        title.font = UIFont.systemFont(ofSize: 15, weight: UIFont.Weight.bold)
+        title.font = UIFont.systemFont(ofSize: 17, weight: UIFont.Weight.bold)
         title.textColor = UIColor.white
         title.text =  (daysOfTheYear["Days"]![DateFromRow.shared.globalDateFromRow]?.saint)
         title.textAlignment = .center

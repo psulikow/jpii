@@ -490,7 +490,7 @@ class FirstViewController: UIViewController {
                              "07-05" : Days(title: "", reflection: "", url: "", saint: "Saint Rose Venerini : 05/07", saintURL: "https://www.franciscanmedia.org/saint-rose-venerini/", saintDate: "07-05"),
 
 
-                             "08-05" : Days(title: "", reflection: "", url: "Saint Peter of Tarentaise : 05/08", saint: "https://www.franciscanmedia.org/saint-peter-of-tarentaise/", saintURL: "", saintDate: "08-05"),
+                             "08-05" : Days(title: "", reflection: "", url: "", saint: "Saint Peter of Tarentaise : 05/08", saintURL: "https://www.franciscanmedia.org/saint-peter-of-tarentaise/", saintDate: "08-05"),
 
 
                              "09-05" : Days(title: "", reflection: "", url: "", saint: "Saint John of Avila : 05/09", saintURL: "https://www.franciscanmedia.org/saint-john-of-avila/", saintDate: "09-05"),
