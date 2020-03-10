@@ -392,6 +392,8 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        let indexOfDate = datez.firstIndex(of: formatDate(date: Date()))
+        saintPicker.selectRow(indexOfDate!, inComponent: 0, animated: true)
 
         // Do any additional setup after loading the view.
     }
