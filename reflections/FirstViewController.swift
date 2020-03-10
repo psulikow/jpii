@@ -663,97 +663,97 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "01-07"),
+                             "01-07" : Days(title: "", reflection: "", url: "", saint: "Saint Junipero Serra : 07/01", saintURL: "https://www.franciscanmedia.org/saint-junipero-serra/", saintDate: "01-07"),
 
 
-                             "02-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "02-07"),
+                             "02-07" : Days(title: "", reflection: "", url: "", saint: "Saint Oliver Plunkett : 07/02", saintURL: "https://www.franciscanmedia.org/saint-oliver-plunkett/", saintDate: "02-07"),
 
 
-                             "03-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "03-07"),
+                             "03-07" : Days(title: "", reflection: "", url: "", saint: "Saint Thomas the Apostle : 07/03", saintURL: "https://www.franciscanmedia.org/saint-thomas-the-apostle/", saintDate: "03-07"),
 
 
-                             "04-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "04-07"),
+                             "04-07" : Days(title: "", reflection: "", url: "", saint: "Saint Elizabeth of Portugal : 07/04", saintURL: "https://www.franciscanmedia.org/saint-elizabeth-of-portugal/", saintDate: "04-07"),
 
 
-                             "05-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "05-07"),
+                             "05-07" : Days(title: "", reflection: "", url: "", saint: "Saint Anthony Zaccaria : 07/05", saintURL: "https://www.franciscanmedia.org/saint-anthony-zaccaria/", saintDate: "05-07"),
 
 
-                             "06-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "06-07"),
+                             "06-07" : Days(title: "", reflection: "", url: "", saint: "Saint Maria Goretti : 07/06", saintURL: "https://www.franciscanmedia.org/saint-maria-goretti/", saintDate: "06-07"),
 
 
-                             "07-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "07-07"),
+                             "07-07" : Days(title: "", reflection: "", url: "", saint: "Blessed Emmanuel Ruiz and Companions : 07/07", saintURL: "https://www.franciscanmedia.org/blessed-emmanuel-ruiz-and-companions/", saintDate: "07-07"),
 
 
-                             "08-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "08-07"),
+                             "08-07" : Days(title: "", reflection: "", url: "", saint: "Saint Gregory Grassi and Companions : 07/08", saintURL: "https://www.franciscanmedia.org/saint-gregory-grassi-and-companions/", saintDate: "08-07"),
 
 
-                             "09-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "09-07"),
+                             "09-07" : Days(title: "", reflection: "", url: "", saint: "Saint Augustine Zhao Rong and Companions : 07/09", saintURL: "https://www.franciscanmedia.org/saint-augustine-zhao-rong-and-companions/", saintDate: "09-07"),
 
 
-                             "10-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "10-07"),
+                             "10-07" : Days(title: "", reflection: "", url: "", saint: "Saint Veronica Giuliani : 07/10", saintURL: "https://www.franciscanmedia.org/saint-veronica-giuliani/", saintDate: "10-07"),
 
 
-                             "11-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "11-07"),
+                             "11-07" : Days(title: "", reflection: "", url: "", saint: "Saint Benedict : 07/11", saintURL: "https://www.franciscanmedia.org/saint-benedict/", saintDate: "11-07"),
 
 
-                             "12-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "12-07"),
+                             "12-07" : Days(title: "", reflection: "", url: "", saint: "Saints John Jones and John Wall : 07/12", saintURL: "https://www.franciscanmedia.org/saints-john-jones-and-john-wall/", saintDate: "12-07"),
 
 
-                             "13-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "13-07"),
+                             "13-07" : Days(title: "", reflection: "", url: "", saint: "Saint Henry : 07/13", saintURL: "https://www.franciscanmedia.org/saint-henry/", saintDate: "13-07"),
 
 
-                             "14-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "14-07"),
+                             "14-07" : Days(title: "", reflection: "", url: "", saint: "Saint Kateri Tekakwitha : 07/14", saintURL: "https://www.franciscanmedia.org/saint-kateri-tekakwitha/", saintDate: "14-07"),
 
 
-                             "15-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "15-07"),
+                             "15-07" : Days(title: "", reflection: "", url: "", saint: "Saint Bonaventure : 07/15", saintURL: "https://www.franciscanmedia.org/saint-bonaventure/", saintDate: "15-07"),
 
 
-                             "16-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "16-07"),
+                             "16-07" : Days(title: "", reflection: "", url: "", saint: "Our Lady of Mount Carmel : 07/16", saintURL: "https://www.franciscanmedia.org/our-lady-of-mount-carmel/", saintDate: "16-07"),
 
 
-                             "17-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "17-07"),
+                             "17-07" : Days(title: "", reflection: "", url: "", saint: "Saint Francis Solano : 07/17", saintURL: "https://www.franciscanmedia.org/saint-francis-solano/", saintDate: "17-07"),
 
 
-                             "18-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "18-07"),
+                             "18-07" : Days(title: "", reflection: "", url: "", saint: "Saint Camillus de Lellis : 07/18", saintURL: "https://www.franciscanmedia.org/saint-camillus-de-lellis/", saintDate: "18-07"),
 
 
-                             "19-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "19-07"),
+                             "19-07" : Days(title: "", reflection: "", url: "", saint: "Saint Mary MacKillop : 07/19", saintURL: "https://www.franciscanmedia.org/saint-mary-mackillop/", saintDate: "19-07"),
 
 
-                             "20-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "20-07"),
+                             "20-07" : Days(title: "", reflection: "", url: "", saint: "Saint Apollinaris : 07/20", saintURL: "https://www.franciscanmedia.org/saint-apollinaris/", saintDate: "20-07"),
 
 
-                             "21-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "21-07"),
+                             "21-07" : Days(title: "", reflection: "", url: "", saint: "Saint Lawrence of Brindisi : 07/21", saintURL: "https://www.franciscanmedia.org/saint-lawrence-of-brindisi/", saintDate: "21-07"),
 
 
-                             "22-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "22-07"),
+                             "22-07" : Days(title: "", reflection: "", url: "", saint: "Saint Mary Magdalene : 07/22", saintURL: "https://www.franciscanmedia.org/saint-mary-magdalene/", saintDate: "22-07"),
 
 
-                             "23-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "23-07"),
+                             "23-07" : Days(title: "", reflection: "", url: "", saint: "Saint Bridget of Sweden : 07/23", saintURL: "https://www.franciscanmedia.org/saint-bridget/", saintDate: "23-07"),
 
 
-                             "24-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "24-07"),
+                             "24-07" : Days(title: "", reflection: "", url: "", saint: "Saint Sharbel Makhluf : 07/24", saintURL: "https://www.franciscanmedia.org/saint-sharbel-makhluf/", saintDate: "24-07"),
 
 
-                             "25-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "25-07"),
+                             "25-07" : Days(title: "", reflection: "", url: "", saint: "Saint James the Apostle : 07/25", saintURL: "https://www.franciscanmedia.org/saint-james/", saintDate: "25-07"),
 
 
-                             "26-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "26-07"),
+                             "26-07" : Days(title: "", reflection: "", url: "", saint: "Saints Joachim and Anne : 07/26", saintURL: "https://www.franciscanmedia.org/saints-joachim-and-anne/", saintDate: "26-07"),
 
 
-                             "27-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "27-07"),
+                             "27-07" : Days(title: "", reflection: "", url: "", saint: "Blessed Antonio Lucci : 07/27", saintURL: "https://www.franciscanmedia.org/blessed-antonio-lucci/", saintDate: "27-07"),
 
 
-                             "28-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "28-07"),
+                             "28-07" : Days(title: "", reflection: "", url: "", saint: "Blessed Stanley Rother : 07/28", saintURL: "https://www.franciscanmedia.org/blessed-stanley-rother/", saintDate: "28-07"),
 
 
-                             "29-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "29-07"),
+                             "29-07" : Days(title: "", reflection: "", url: "", saint: "Saint Martha : 07/29", saintURL: "https://www.franciscanmedia.org/saint-martha/", saintDate: "29-07"),
 
 
-                             "30-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "30-07"),
+                             "30-07" : Days(title: "", reflection: "", url: "", saint: "Blessed Solanus Casey : 07/30", saintURL: "https://www.franciscanmedia.org/venerable-solanus-casey/", saintDate: "30-07"),
 
 
-                             "31-07" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "31-07"),
+                             "31-07" : Days(title: "", reflection: "", url: "", saint: "Saint Ignatius of Loyola : 07/31", saintURL: "https://www.franciscanmedia.org/saint-ignatius-of-loyola/", saintDate: "31-07"),
 
 
 
