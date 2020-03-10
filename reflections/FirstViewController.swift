@@ -566,94 +566,94 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "01-06"),
+                             "01-06" : Days(title: "", reflection: "", url: "", saint: "Saint Justin Martyr : 06/01", saintURL: "https://www.franciscanmedia.org/saint-justin/", saintDate: "01-06"),
 
 
-                             "02-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "02-06"),
+                             "02-06" : Days(title: "", reflection: "", url: "", saint: "Saints Marcellinus and Peter : 06/02", saintURL: "https://www.franciscanmedia.org/saints-marcellinus-and-peter/", saintDate: "02-06"),
 
 
-                             "03-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "03-06"),
+                             "03-06" : Days(title: "", reflection: "", url: "", saint: "Saint Charles Lwanga and Companions : 06/03", saintURL: "https://www.franciscanmedia.org/saints-charles-lwanga-and-companions/", saintDate: "03-06"),
 
 
-                             "04-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "04-06"),
+                             "04-06" : Days(title: "", reflection: "", url: "", saint: "Blessed Angeline of Marsciano : 06/04", saintURL: "https://www.franciscanmedia.org/blessed-angeline-of-marsciano/", saintDate: "04-06"),
 
 
-                             "05-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "05-06"),
+                             "05-06" : Days(title: "", reflection: "", url: "", saint: "Saint Boniface : 06/05", saintURL: "https://www.franciscanmedia.org/saint-boniface/", saintDate: "05-06"),
 
 
-                             "06-06" : Days(title: "Pope John Paul and Sister Lucia", reflection: "The institution of nuns and sisters, who devote themselves in various religious orders to the practice of a life of perfection, dates from the first ages of the Church, and women may claim with a certain pride that they were the first to embrace the religious state for its own sake, without regard to missionary work and ecclesiastical functions proper to men.\n\nTake a moment to reflect upon any experiences you may have had with a sister or nun.  Maybe you have at one time discerned the vocation of sisterhood. Take a moment to pray, pray for your own vocation and that of others, God is always listening.", url: "https://i.pinimg.com/564x/aa/21/4e/aa214e73d98232cb14581205a4bcb16d.jpg", saint: "", saintURL: "", saintDate: "06-06"),
+                             "06-06" : Days(title: "Pope John Paul and Sister Lucia", reflection: "The institution of nuns and sisters, who devote themselves in various religious orders to the practice of a life of perfection, dates from the first ages of the Church, and women may claim with a certain pride that they were the first to embrace the religious state for its own sake, without regard to missionary work and ecclesiastical functions proper to men.\n\nTake a moment to reflect upon any experiences you may have had with a sister or nun.  Maybe you have at one time discerned the vocation of sisterhood. Take a moment to pray, pray for your own vocation and that of others, God is always listening.", url: "https://i.pinimg.com/564x/aa/21/4e/aa214e73d98232cb14581205a4bcb16d.jpg", saint: "Saint Norbert : 06/06", saintURL: "https://www.franciscanmedia.org/saint-norbert/", saintDate: "06-06"),
 
 
-                             "07-06" : Days(title: "Our Lady of Fatima Pope John Paul II pictured here thanking the virgin for her intervention when he was shot (the bullet was added to her crown.", reflection: "Saint Pope John Paul II had a very close relationship with the Blessed Mother. He was convinced that Mary, in the form of Our Lady of Fatima, had personally redirected the bullet that hit him, saving his life. \n\nTake a moment to reflect upon what impact the Blessed Mother has had in your life and pray on what you can do to become closer to her.", url: "https://i.pinimg.com/564x/22/5d/50/225d506c3294ed968859637d03a7ad8b.jpg", saint: "", saintURL: "", saintDate: "07-06"),
+                             "07-06" : Days(title: "Our Lady of Fatima Pope John Paul II pictured here thanking the virgin for her intervention when he was shot (the bullet was added to her crown.", reflection: "Saint Pope John Paul II had a very close relationship with the Blessed Mother. He was convinced that Mary, in the form of Our Lady of Fatima, had personally redirected the bullet that hit him, saving his life. \n\nTake a moment to reflect upon what impact the Blessed Mother has had in your life and pray on what you can do to become closer to her.", url: "https://i.pinimg.com/564x/22/5d/50/225d506c3294ed968859637d03a7ad8b.jpg", saint: "Blessed Franz Jägerstätter : 06/07", saintURL: "https://www.franciscanmedia.org/blessed-franz-jagerstatter/", saintDate: "07-06"),
 
 
-                             "08-06" : Days(title: "Pope John Paul II and Cardinal Ratzinger.", reflection: "Pope Emeritus Benedict XVI, then Cardinal Joseph Ratzinger, was John Paul’s chief doctrinal officer for nearly a quarter of a century, and presided at John Paul’s funeral in 2005.\n\nPope Emeritus Benedict once said, \"True friends challenge us and help us to be faithful on our journey.\"\n\nTake a moment and reflect on a good friend of yours who has challenged you and lifted you toward Jesus.  Maybe take some time to pray for him or her and give thanks to God for putting them in your life.", url: "https://i.pinimg.com/564x/e3/85/4c/e3854ce4df621f80d25123d945784c0d.jpg", saint: "", saintURL: "", saintDate: "08-06"),
+                             "08-06" : Days(title: "Pope John Paul II and Cardinal Ratzinger.", reflection: "Pope Emeritus Benedict XVI, then Cardinal Joseph Ratzinger, was John Paul’s chief doctrinal officer for nearly a quarter of a century, and presided at John Paul’s funeral in 2005.\n\nPope Emeritus Benedict once said, \"True friends challenge us and help us to be faithful on our journey.\"\n\nTake a moment and reflect on a good friend of yours who has challenged you and lifted you toward Jesus.  Maybe take some time to pray for him or her and give thanks to God for putting them in your life.", url: "https://i.pinimg.com/564x/e3/85/4c/e3854ce4df621f80d25123d945784c0d.jpg", saint: "Saint William of York : 06/08", saintURL: "https://www.franciscanmedia.org/saint-william-of-york/", saintDate: "08-06"),
 
 
-                             "09-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "09-06"),
+                             "09-06" : Days(title: "", reflection: "", url: "", saint: "Saint Ephrem : 06/09", saintURL: "https://www.franciscanmedia.org/saint-ephrem/", saintDate: "09-06"),
 
 
-                             "10-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "10-06"),
+                             "10-06" : Days(title: "", reflection: "", url: "", saint: "Blessed Joachima : 06/10", saintURL: "https://www.franciscanmedia.org/blessed-joachima/", saintDate: "10-06"),
 
 
-                             "11-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "11-06"),
+                             "11-06" : Days(title: "", reflection: "", url: "", saint: "Saint Barnabas : 06/11", saintURL: "https://www.franciscanmedia.org/saint-barnabas/", saintDate: "11-06"),
 
 
-                             "12-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "12-06"),
+                             "12-06" : Days(title: "", reflection: "", url: "", saint: "Blessed Jolenta (Yolanda) of Poland : 06/12", saintURL: "https://www.franciscanmedia.org/blessed-jolenta-yolanda-of-poland/", saintDate: "12-06"),
 
 
-                             "13-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "13-06"),
+                             "13-06" : Days(title: "", reflection: "", url: "", saint: "Saint Anthony of Padua : 06/13", saintURL: "https://www.franciscanmedia.org/saint-anthony-of-padua/", saintDate: "13-06"),
 
 
-                             "14-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "14-06"),
+                             "14-06" : Days(title: "", reflection: "", url: "", saint: "Saint Albert Chmielowski : 06/14", saintURL: "https://www.franciscanmedia.org/saint-albert-chmielowski/", saintDate: "14-06"),
 
 
-                             "15-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "15-06"),
+                             "15-06" : Days(title: "", reflection: "", url: "", saint: "Saint Marguerite d’Youville : 06/15", saintURL: "https://www.franciscanmedia.org/saint-marguerite-d-youville/", saintDate: "15-06"),
 
 
-                             "16-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "16-06"),
+                             "16-06" : Days(title: "", reflection: "", url: "", saint: "Saint John Francis Regis : 06/16", saintURL: "https://www.franciscanmedia.org/saint-john-francis-regis/", saintDate: "16-06"),
 
 
-                             "17-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "17-06"),
+                             "17-06" : Days(title: "", reflection: "", url: "", saint: "Saint Joseph Cafasso : 06/17", saintURL: "https://www.franciscanmedia.org/saint-joseph-cafasso/", saintDate: "17-06"),
 
 
-                             "18-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "18-06"),
+                             "18-06" : Days(title: "", reflection: "", url: "", saint: "Venerable Matt Talbot : 06/18", saintURL: "https://www.franciscanmedia.org/venerable-matt-talbot/", saintDate: "18-06"),
 
 
-                             "19-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "19-06"),
+                             "19-06" : Days(title: "", reflection: "", url: "", saint: "Saint Romuald : 06/19", saintURL: "https://www.franciscanmedia.org/saint-romuald/", saintDate: "19-06"),
 
 
-                             "20-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "20-06"),
+                             "20-06" : Days(title: "", reflection: "", url: "", saint: "Saint Paulinus of Nola : 06/20", saintURL: "https://www.franciscanmedia.org/saint-paulinus-of-nola/", saintDate: "20-06"),
 
 
-                             "21-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "21-06"),
+                             "21-06" : Days(title: "", reflection: "", url: "", saint: "Saint Aloysius Gonzaga : 06/21", saintURL: "https://www.franciscanmedia.org/saint-aloysius-gonzaga/", saintDate: "21-06"),
 
 
-                             "22-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "22-06"),
+                             "22-06" : Days(title: "", reflection: "", url: "", saint: "Saint Thomas More : 06/22", saintURL: "https://www.franciscanmedia.org/saint-thomas-more/", saintDate: "22-06"),
 
 
-                             "23-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "23-06"),
+                             "23-06" : Days(title: "", reflection: "", url: "", saint: "Saint John Fisher : 06/23", saintURL: "https://www.franciscanmedia.org/saint-john-fisher/", saintDate: "23-06"),
 
 
-                             "24-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "24-06"),
+                             "24-06" : Days(title: "", reflection: "", url: "", saint: "Nativity of Saint John the Baptist : 06/24", saintURL: "https://www.franciscanmedia.org/solemnity-of-the-nativity-of-saint-john-the-baptist/", saintDate: "24-06"),
 
 
-                             "25-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "25-06"),
+                             "25-06" : Days(title: "", reflection: "", url: "", saint: "Blessed Jutta of Thuringia : 06/25", saintURL: "https://www.franciscanmedia.org/blessed-jutta-of-thuringia/", saintDate: "25-06"),
 
 
-                             "26-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "26-06"),
+                             "26-06" : Days(title: "", reflection: "", url: "", saint: "Blessed Raymond Lull : 06/26", saintURL: "https://www.franciscanmedia.org/blessed-raymond-lull/", saintDate: "26-06"),
 
 
-                             "27-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "27-06"),
+                             "27-06" : Days(title: "", reflection: "", url: "", saint: "Saint Cyril of Alexandria : 06/27", saintURL: "https://www.franciscanmedia.org/saint-cyril-of-alexandria/", saintDate: "27-06"),
 
 
-                             "28-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "28-06"),
+                             "28-06" : Days(title: "", reflection: "", url: "", saint: "Saint Irenaeus : 06/28", saintURL: "https://www.franciscanmedia.org/saint-irenaeus/", saintDate: "28-06"),
 
 
-                             "29-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "29-06"),
+                             "29-06" : Days(title: "", reflection: "", url: "", saint: "Solemnity of Saints Peter and Paul : 06/29", saintURL: "https://www.franciscanmedia.org/solemnity-of-saints-peter-and-paul/", saintDate: "29-06"),
 
 
-                             "30-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "30-06"),
+                             "30-06" : Days(title: "", reflection: "", url: "", saint: "First Martyrs of the Church of Rome : 06/30", saintURL: "https://www.franciscanmedia.org/firsaint-martyrs-of-the-church-of-rome/", saintDate: "30-06"),
 
 
                              "31-06" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "31-06"),
