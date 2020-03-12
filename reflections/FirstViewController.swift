@@ -1046,94 +1046,94 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "01-11"),
+                             "01-11" : Days(title: "", reflection: "", url: "", saint: "Solemnity of All Saints: 11/01", saintURL: "https://www.franciscanmedia.org/solemnity-of-all-saints/", saintDate: "01-11"),
 
 
-                             "02-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "02-11"),
+                             "02-11" : Days(title: "", reflection: "", url: "", saint: "Commemoration of All the Faithful Departed: 11/02", saintURL: "https://www.franciscanmedia.org/commemoration-of-all-the-faithful-departed/", saintDate: "02-11"),
 
 
-                             "03-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "03-11"),
+                             "03-11" : Days(title: "", reflection: "", url: "", saint: "Saint Martin de Porres: 11/03", saintURL: "https://www.franciscanmedia.org/saint-martin-de-porres/", saintDate: "03-11"),
 
 
-                             "04-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "04-11"),
+                             "04-11" : Days(title: "", reflection: "", url: "", saint: "Saint Charles Borromeo: 11/04", saintURL: "https://www.franciscanmedia.org/saint-charles-borromeo/", saintDate: "04-11"),
 
 
-                             "05-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "05-11"),
+                             "05-11" : Days(title: "", reflection: "", url: "", saint: "Saint Peter Chrysologus: 11/05", saintURL: "https://www.franciscanmedia.org/saint-peter-chrysologus/", saintDate: "05-11"),
 
 
-                             "06-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "06-11"),
+                             "06-11" : Days(title: "", reflection: "", url: "", saint: "Saint Nicholas Tavelic and Companions: 11/06", saintURL: "https://www.franciscanmedia.org/saint-nicholas-tavelic-and-companions/", saintDate: "06-11"),
 
 
-                             "07-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "07-11"),
+                             "07-11" : Days(title: "", reflection: "", url: "", saint: "Saint Didacus: 11/07", saintURL: "https://www.franciscanmedia.org/saint-didacus/", saintDate: "07-11"),
 
 
-                             "08-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "08-11"),
+                             "08-11" : Days(title: "", reflection: "", url: "", saint: "Blessed John Duns Scotus: 11/08", saintURL: "https://www.franciscanmedia.org/blessed-john-duns-scotus/", saintDate: "08-11"),
 
 
-                             "09-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "09-11"),
+                             "09-11" : Days(title: "", reflection: "", url: "", saint: "Dedication of St. John Lateran: 11/09", saintURL: "https://www.franciscanmedia.org/dedication-of-saint-john-lateran/", saintDate: "09-11"),
 
 
-                             "10-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "10-11"),
+                             "10-11" : Days(title: "", reflection: "", url: "", saint: "Saint Leo the Great: 11/10", saintURL: "https://www.franciscanmedia.org/saint-leo-the-great/", saintDate: "10-11"),
 
 
-                             "11-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "11-11"),
+                             "11-11" : Days(title: "", reflection: "", url: "", saint: "Saint Martin of Tours: 11/11", saintURL: "https://www.franciscanmedia.org/saint-martin-of-tours/", saintDate: "11-11"),
 
 
-                             "12-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "12-11"),
+                             "12-11" : Days(title: "", reflection: "", url: "", saint: "Saint Josaphat: 11/12", saintURL: "https://www.franciscanmedia.org/saint-josaphat/", saintDate: "12-11"),
 
 
-                             "13-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "13-11"),
+                             "13-11" : Days(title: "", reflection: "", url: "", saint: "Saint Frances Xavier Cabrini: 11/13", saintURL: "https://www.franciscanmedia.org/saint-frances-xavier-cabrini/", saintDate: "13-11"),
 
 
-                             "14-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "14-11"),
+                             "14-11" : Days(title: "", reflection: "", url: "", saint: "Saint Gertrude the Great: 11/14", saintURL: "https://www.franciscanmedia.org/saint-gertrude-the-great/", saintDate: "14-11"),
 
 
-                             "15-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "15-11"),
+                             "15-11" : Days(title: "", reflection: "", url: "", saint: "Saint Albert the Great: 11/15", saintURL: "https://www.franciscanmedia.org/saint-albert-the-great/", saintDate: "15-11"),
 
 
-                             "16-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "16-11"),
+                             "16-11" : Days(title: "", reflection: "", url: "", saint: "Saint Margaret of Scotland: 11/16", saintURL: "https://www.franciscanmedia.org/saint-margaret-of-scotland/", saintDate: "16-11"),
 
 
-                             "17-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "17-11"),
+                             "17-11" : Days(title: "", reflection: "", url: "", saint: "Saint Elizabeth of Hungary: 11/17", saintURL: "https://www.franciscanmedia.org/saint-elizabeth-of-hungary/", saintDate: "17-11"),
 
 
-                             "18-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "18-11"),
+                             "18-11" : Days(title: "", reflection: "", url: "", saint: "Dedication of Churches of Saints Peter and Paul: 11/18", saintURL: "https://www.franciscanmedia.org/dedication-of-churches-of-saints-peter-and-paul/", saintDate: "18-11"),
 
 
-                             "19-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "19-11"),
+                             "19-11" : Days(title: "", reflection: "", url: "", saint: "Saint Agnes of Assisi: 11/19", saintURL: "https://www.franciscanmedia.org/saint-agnes-of-assisi/", saintDate: "19-11"),
 
 
-                             "20-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "20-11"),
+                             "20-11" : Days(title: "", reflection: "", url: "", saint: "Saint Rose Philippine Duchesne: 11/20", saintURL: "https://www.franciscanmedia.org/saint-rose-philippine-duchesne/", saintDate: "20-11"),
 
 
-                             "21-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "21-11"),
+                             "21-11" : Days(title: "", reflection: "", url: "", saint: "Presentation of the Blessed Virgin Mary: 11/21", saintURL: "https://www.franciscanmedia.org/presentation-of-mary/", saintDate: "21-11"),
 
 
-                             "22-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "22-11"),
+                             "22-11" : Days(title: "", reflection: "", url: "", saint: "Saint Cecilia: 11/22", saintURL: "https://www.franciscanmedia.org/saint-cecilia/", saintDate: "22-11"),
 
 
-                             "23-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "23-11"),
+                             "23-11" : Days(title: "", reflection: "", url: "", saint: "Blessed Miguel Agustín Pro: 11/23", saintURL: "https://www.franciscanmedia.org/blessed-miguel-agusaint-iacute-n-pro/", saintDate: "23-11"),
 
 
-                             "24-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "24-11"),
+                             "24-11" : Days(title: "", reflection: "", url: "", saint: "Saint Andrew Dung-Lac and Companions: 11/24", saintURL: "https://www.franciscanmedia.org/saint-andrew-dung-lac-and-companions/", saintDate: "24-11"),
 
 
-                             "25-11" : Days(title: "BRISBANE, AUSTRALIA - NOVEMBER 25: Pope John Paul II holds a koala in his arms during his official visit to Oceania on November 25, 1986 in Brisbane, Australia.", reflection: "Saint Pope John Paul II once said, \"Freedom consists not in doing what we like, but in having the right to do what we ought.\"\n\nThis is a powerful statement that I am sure many of us struggle with.  Let us reflect for a moment on the things we have done in the last week.  How many of these things have been for the benefit of ourselves as opposed to others?", url: "https://i.pinimg.com/564x/bc/4e/cf/bc4ecf6149fd85f5ac3ddf0e87f20cf6.jpg", saint: "", saintURL: "", saintDate: "25-11"),
+                             "25-11" : Days(title: "BRISBANE, AUSTRALIA - NOVEMBER 25: Pope John Paul II holds a koala in his arms during his official visit to Oceania on November 25, 1986 in Brisbane, Australia.", reflection: "Saint Pope John Paul II once said, \"Freedom consists not in doing what we like, but in having the right to do what we ought.\"\n\nThis is a powerful statement that I am sure many of us struggle with.  Let us reflect for a moment on the things we have done in the last week.  How many of these things have been for the benefit of ourselves as opposed to others?", url: "https://i.pinimg.com/564x/bc/4e/cf/bc4ecf6149fd85f5ac3ddf0e87f20cf6.jpg", saint: "Saint Catherine of Alexandria: 11/25", saintURL: "https://www.franciscanmedia.org/saint-catherine-of-alexandria/", saintDate: "25-11"),
 
 
-                             "26-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "26-11"),
+                             "26-11" : Days(title: "", reflection: "", url: "", saint: "Saint Columban: 11/26", saintURL: "https://www.franciscanmedia.org/saint-columban/", saintDate: "26-11"),
 
 
-                             "27-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "27-11"),
+                             "27-11" : Days(title: "", reflection: "", url: "", saint: "Saint Francesco Antonio Fasani: 11/27", saintURL: "https://www.franciscanmedia.org/saint-francesco-antonio-fasani/", saintDate: "27-11"),
 
 
-                             "28-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "28-11"),
+                             "28-11" : Days(title: "", reflection: "", url: "", saint: "Saint James of the Marche: 11/28", saintURL: "https://www.franciscanmedia.org/saint-james-of-the-marche/", saintDate: "28-11"),
 
 
-                             "29-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "29-11"),
+                             "29-11" : Days(title: "", reflection: "", url: "", saint: "Saint Clement: 11/29", saintURL: "https://www.franciscanmedia.org/saint-clement/", saintDate: "29-11"),
 
 
-                             "30-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "30-11"),
+                             "30-11" : Days(title: "", reflection: "", url: "", saint: "Saint Andrew: 11/30", saintURL: "https://www.franciscanmedia.org/saint-andrew/", saintDate: "30-11"),
 
 
                              "31-11" : Days(title: "", reflection: "", url: "", saint: "", saintURL: "", saintDate: "31-11"),
