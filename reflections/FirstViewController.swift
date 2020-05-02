@@ -81,7 +81,7 @@ class FirstViewController: UIViewController {
         // Do any additional setup after loading the view.
                 
                     daysOfTheYear["Days"] = [
-                             "01-01" : Days(title: "Freedom consists not in doing what we like, but in having the right to do what we ought.", reflection: "", url: "1", saint: "Mary, Mother of God : 01/01", saintURL: "https://www.franciscanmedia.org/mary-mother-of-god/", saintDate: "01-01"),
+                             "01-01" : Days(title: "On this day in 1990 Pope John Paul II told us, \"When man turns his back on the Creator's plan, he provokes a disorder which has inevitable repercussions on the rest of the created order. If man is not at peace with God, then earth itself cannot be at peace.\"", reflection: "This was part of the MESSAGE OF HIS HOLINESS POPE JOHN PAUL II FOR THE CELEBRATION OF THE WORLD DAY OF PEACE", url: "1", saint: "Mary, Mother of God : 01/01", saintURL: "https://www.franciscanmedia.org/mary-mother-of-god/", saintDate: "01-01"),
 
 
                              "02-01" : Days(title: "Pope John Paul II once said, \"Have no fear of moving into the unknown. Simply step out fearlessly knowing that I am with you, therefore no harm can befall you; all is very, very well. Do this in complete faith and confidence.\"", reflection: "", url: "2", saint: "Saint Basil the Great : 01/02", saintURL: "https://www.franciscanmedia.org/saint-basil-the-great/", saintDate: "02-01"),
@@ -278,40 +278,40 @@ class FirstViewController: UIViewController {
                              "01-03" : Days(title: "Pope John Paul II once said, \"The heart is our hidden center, beyond the grasp of our reason and of others; only the Spirit of God can fathom the human heart and know it fully. The heart is the place of decision, deeper than our psychic drives. It is the place of truth, where we choose life or death. It is the place of encounter...\"", reflection: "", url: "63", saint: "Saint David of Wales: 03/01", saintURL: "https://www.franciscanmedia.org/saint-david-of-wales/", saintDate: "01-03"),
 
 
-                             "02-03" : Days(title: "", reflection: "", url: "64", saint: "Saint Agnes of Bohemia : 03/02", saintURL: "https://www.franciscanmedia.org/saint-agnes-of-bohemia/", saintDate: "02-03"),
+                             "02-03" : Days(title: "Pope John Paul II once said, \"To the family is entrusted the task of striving, first and foremost, to unleash the forces of good...\"", reflection: "", url: "64", saint: "Saint Agnes of Bohemia : 03/02", saintURL: "https://www.franciscanmedia.org/saint-agnes-of-bohemia/", saintDate: "02-03"),
 
 
-                             "03-03" : Days(title: "", reflection: "", url: "65", saint: "Saint Katharine Drexel : 03/03", saintURL: "https://www.franciscanmedia.org/saint-katharine-drexel/", saintDate: "03-03"),
+                             "03-03" : Days(title: "Pope John Paul II once said, \"Creating the human race in His own image and continually keeping it in being, God inscribed in the humanity of man and woman the vocation... of love and communion. Love is therefore the fundamental and innate vocation of every human being.\"", reflection: "", url: "65", saint: "Saint Katharine Drexel : 03/03", saintURL: "https://www.franciscanmedia.org/saint-katharine-drexel/", saintDate: "03-03"),
 
 
-                             "04-03" : Days(title: "", reflection: "", url: "66", saint: "Saint Casimir : 03/04", saintURL: "https://www.franciscanmedia.org/saint-casimir/", saintDate: "04-03"),
+                             "04-03" : Days(title: "On this day in 1979, in Redemptor hominis, Pope John Paul II wrote that man cannot live without love. He remains a being that is incomprehensible for himself, his life is senseless, if love is not revealed to him, if he does not encounter love, if he does not experience it and make it his own, if he does not participate intimately in it.", reflection: "Redemptor hominis is the name of the first encyclical written by Pope John Paul II. It lays a blueprint for his pontificate in its exploration of contemporary human problems and especially their proposed solutions found in a deeper understanding of the human person.", url: "66", saint: "Saint Casimir : 03/04", saintURL: "https://www.franciscanmedia.org/saint-casimir/", saintDate: "04-03"),
 
 
                              "05-03" : Days(title: "On this day in 2000, Pope John Paul said, \"Young friends, do not hesitate to follow the example of Pedro, who 'pleased God and was loved by him' and who, having come to perfection in so short a time, lived a full life.\"", reflection: "Pope John Paul II was refering to Pedro Calungsod: A 17-year-old Filipino catechist who was killed for his faith.  Pope John Paul II told us how strong Pedro's faith was from his chidhood years. How his faith inspired him to devote his teenage years to teaching the faith. Young or old, do not hesitate to follow the example of Pedro!", url: "67", saint: "Saint John Joseph of the Cross : 03/05", saintURL: "https://www.franciscanmedia.org/saint-john-joseph-of-the-cross/", saintDate: "05-03"),
 
 
-                             "06-03" : Days(title: "", reflection: "", url:"68", saint: "Saint Mary Ann of Jesus of Paredes : 03/06", saintURL: "https://www.franciscanmedia.org/saint-mary-ann-of-jesus-of-paredes/", saintDate: "06-03"),
+                             "06-03" : Days(title: "Pope John Paul II once said, \"But sometimes it is necessary to do that which is too much.\"", reflection: "", url:"68", saint: "Saint Mary Ann of Jesus of Paredes : 03/06", saintURL: "https://www.franciscanmedia.org/saint-mary-ann-of-jesus-of-paredes/", saintDate: "06-03"),
 
 
-                             "07-03" : Days(title: "", reflection: "", url: "69", saint: "Saints Perpetua and Felicity : 03/07", saintURL: "https://www.franciscanmedia.org/saints-perpetua-and-felicity/", saintDate: "07-03"),
+                             "07-03" : Days(title: "Pope John Paul II once said, \"The modern world, a world which has experienced marvelous achievements but which seems to have lost its sense of ultimate realities and of existence itself.\"", reflection: "", url: "69", saint: "Saints Perpetua and Felicity : 03/07", saintURL: "https://www.franciscanmedia.org/saints-perpetua-and-felicity/", saintDate: "07-03"),
 
 
-                             "08-03" : Days(title: "", reflection: "", url: "70", saint: "Saint John of God : 03/08", saintURL: "https://www.franciscanmedia.org/saint-john-of-god/", saintDate: "08-03"),
+                             "08-03" : Days(title: "Pope John Paul II once said, \"The vocation and mission of the faithful can only be understood in light of a renewed awareness of the Church as sacrament or sign and instrument of intimate union with God, of the unity of the whole of mankind, and of the personal duty to adhere more closely to her.\"", reflection: "", url: "70", saint: "Saint John of God : 03/08", saintURL: "https://www.franciscanmedia.org/saint-john-of-god/", saintDate: "08-03"),
 
 
-                             "09-03" : Days(title: "", reflection: "", url: "71", saint: "Saint Frances of Rome : 03/09", saintURL: "https://www.franciscanmedia.org/saint-frances-of-rome/", saintDate: "09-03"),
+                             "09-03" : Days(title: "Pope John Paul II once said, \"Yes, the civilization of love is possible; it is not a utopia. But it is only possible by a constant and ready reference to the \"Father from whom all fatherhood and motherhood on earth is named,\" from whom every human family comes.\"", reflection: "", url: "71", saint: "Saint Frances of Rome : 03/09", saintURL: "https://www.franciscanmedia.org/saint-frances-of-rome/", saintDate: "09-03"),
 
 
-                             "10-03" : Days(title: "", reflection: "", url: "72", saint: "Saint Dominic Savio : 03/10", saintURL: "https://www.franciscanmedia.org/saint-dominic-savio/", saintDate: "10-03"),
+                             "10-03" : Days(title: "Pope John Paul II once said, \"Only a socially just country has the right to exist.\"", reflection: "", url: "72", saint: "Saint Dominic Savio : 03/10", saintURL: "https://www.franciscanmedia.org/saint-dominic-savio/", saintDate: "10-03"),
 
 
-                             "11-03" : Days(title: "", reflection: "", url: "73", saint: "Saint John Ogilvie : 03/11", saintURL: "https://www.franciscanmedia.org/saint-john-ogilvie/", saintDate: "11-03"),
+                             "11-03" : Days(title: "Pope John Paul II once said, \"In the life of husband and wife together, fatherhood and motherhood represent such a sublime \"novelty\" and richness as can only be approached \"on one's knees\".\"", reflection: "", url: "73", saint: "Saint John Ogilvie : 03/11", saintURL: "https://www.franciscanmedia.org/saint-john-ogilvie/", saintDate: "11-03"),
 
 
-                             "12-03" : Days(title: "", reflection: "", url: "74", saint: "Blessed Angela Salawa : 03/12", saintURL: "https://www.franciscanmedia.org/blessed-angela-salawa/", saintDate: "12-03"),
+                             "12-03" : Days(title: "Pope John Paul II once said, \"Man matures through work which inspires him to difficult good.\"", reflection: "", url: "74", saint: "Blessed Angela Salawa : 03/12", saintURL: "https://www.franciscanmedia.org/blessed-angela-salawa/", saintDate: "12-03"),
 
 
-                             "13-03" : Days(title: "", reflection: "", url: "75", saint: "Saint Dominic Savio : 03/10", saintURL: "https://www.franciscanmedia.org/saint-dominic-savio/", saintDate: "10-03"),
+                             "13-03" : Days(title: "Pope John Paul II once said, \"The true Christian can nurture a trustful optimism, because he is certain of not walking alone. In sending us Jesus, the eternal Son made man, God has drawn near to each of us. In Christ he has become our travelling companion.\"", reflection: "", url: "75", saint: "Saint Dominic Savio : 03/10", saintURL: "https://www.franciscanmedia.org/saint-dominic-savio/", saintDate: "10-03"),
 
 
                              "14-03" : Days(title: "", reflection: "", url: "76", saint: "Saint John of God : 03/08", saintURL: "https://www.franciscanmedia.org/saint-john-of-god/", saintDate: "08-03"),
@@ -344,28 +344,28 @@ class FirstViewController: UIViewController {
                              "23-03" : Days(title: "Pope John Paul II once said, \"An effective proclamation of the Gospel in contemporary Western society will need to confront directly the widespread spirit of agnosticism and relativism which has cast doubt on reason's ability to know the truth, which alone satisfies the human heart's restless quest for meaning.\"", reflection: "", url: "85", saint: "Saint Turibius of Mogrovejo : 03/23", saintURL: "https://www.franciscanmedia.org/saint-turibius-of-mogrovejo/", saintDate: "23-03"),
 
 
-                             "24-03" : Days(title: "", reflection: "", url: "86", saint: "Saint Oscar Arnulfo Romero : 03/24", saintURL: "https://www.franciscanmedia.org/saint-oscar-arnulfo-romero/", saintDate: "24-03"),
+                             "24-03" : Days(title: "Pope John Paul II once said, \"The seriousness of ecological degradation lays bare the depth of man's moral crisis... Simplicity, moderation, and discipline as well as the spirit of sacrifice must become a part of everyday life.\"", reflection: "", url: "86", saint: "Saint Oscar Arnulfo Romero : 03/24", saintURL: "https://www.franciscanmedia.org/saint-oscar-arnulfo-romero/", saintDate: "24-03"),
 
 
                              "25-03" : Days(title: "On this day in 1995, Pope John Paul wrote, \"Humanity, its dignity and its balance, will depend at every moment and on every place on the globe,on who man is for woman and who woman is for man.\"", reflection: "EVANGELIUM VITAE: To the Bishops, Priests and Deacons, Men and Women religious lay Faithful and all People of Good Will on the Value and Inviolability of Human Life", url: "87", saint: "Annunciation of the Lord : 03/25", saintURL: "https://www.franciscanmedia.org/annunciation-of-the-lord/", saintDate: "25-03"),
 
 
-                             "26-03" : Days(title: "", reflection: "", url: "88", saint: "Saint Catherine of Genoa : 03/26", saintURL: "https://www.franciscanmedia.org/saint-catherine-of-genoa/", saintDate: "26-03"),
+                             "26-03" : Days(title: "Pope John Paul II once said, \"Freedom consists not in doing what we like, but in having the right to do what we ought.\"", reflection: "", url: "88", saint: "Saint Catherine of Genoa : 03/26", saintURL: "https://www.franciscanmedia.org/saint-catherine-of-genoa/", saintDate: "26-03"),
 
 
-                             "27-03" : Days(title: "", reflection: "", url: "89", saint: "Lazarus : 03/27", saintURL: "https://www.franciscanmedia.org/lazarus/", saintDate: "27-03"),
+                             "27-03" : Days(title: "Pope John Paul II once said, \"I encourage Christians regularly to visit Christ present in the Blessed Sacrament, for we are all called to abide in the presence of God.\"", reflection: "", url: "89", saint: "Lazarus : 03/27", saintURL: "https://www.franciscanmedia.org/lazarus/", saintDate: "27-03"),
 
 
-                             "28-03" : Days(title: "", reflection: "", url: "90", saint: "Saint Catharine of Bologna : 03/28", saintURL: "https://www.franciscanmedia.org/saint-catharine-of-bologna/", saintDate: "28-03"),
+                             "28-03" : Days(title: "Pope John Paul II once told us, \"The Eucharist is not only a particularly intense expression of the reality of the Church's life, but also in a sense its fountainhead. The Eucharist feeds and forms the Church: 'Because there is one bread, we who are many are one body, for we all partake of the one bread' (1 Cor 10:17, RSV). Because of this vital link with the sacrament of the Body and Blood of the Lord, the mystery of the Church is savored, proclaimed, and lived supremely in the Eucharist.\"", reflection: "", url: "90", saint: "Saint Catharine of Bologna : 03/28", saintURL: "https://www.franciscanmedia.org/saint-catharine-of-bologna/", saintDate: "28-03"),
 
 
-                             "29-03" : Days(title: "", reflection: "", url: "91", saint: "Saint Ludovico of Casoria : 03/29", saintURL: "https://www.franciscanmedia.org/saint-ludovico-of-casoria/", saintDate: "29-03"),
+                             "29-03" : Days(title: "Pope John Paul II tells us, \"The essential commitment and, above all, the visible grace and source of supernatural strength for the Church as the People of God is to persevere and advance constantly in Eucharistic life and Eucharistic piety and to develop spiritually in the climate of the Eucharist.\"", reflection: "", url: "91", saint: "Saint Ludovico of Casoria : 03/29", saintURL: "https://www.franciscanmedia.org/saint-ludovico-of-casoria/", saintDate: "29-03"),
 
 
-                             "30-03" : Days(title: "", reflection: "", url: "92", saint: "Saint Peter Regalado : 03/30", saintURL: "https://www.franciscanmedia.org/saint-peter-regalado/", saintDate: "30-03"),
+                             "30-03" : Days(title: "Pope John Paul II once said, \"The legal toleration of abortion or of euthanasia can in no way claim to be based on respect for the conscience of others, precisely because society has the right and the duty to protect itself against the abuses which can occur in the name of conscience and under the pretext of freedom.\"", reflection: "", url: "92", saint: "Saint Peter Regalado : 03/30", saintURL: "https://www.franciscanmedia.org/saint-peter-regalado/", saintDate: "30-03"),
 
 
-                             "31-03" : Days(title: "", reflection: "", url: "93", saint: "Saint Stephen of Mar Saba : 03/31", saintURL: "https://www.franciscanmedia.org/saint-stephen-of-mar-saba/", saintDate: "31-03"),
+                             "31-03" : Days(title: "Pope John Paul II tells us, \"The Rosary mystically transports us to Mary's side as she is busy watching over the human growth of Christ in the home of Nazareth. This enables her to train us and to mold us with the same care, until Christ is \"fully formed\" in us... Why should we not once more have recourse to the Rosary, with the same faith as those who have gone before us?\"", reflection: "", url: "93", saint: "Saint Stephen of Mar Saba : 03/31", saintURL: "https://www.franciscanmedia.org/saint-stephen-of-mar-saba/", saintDate: "31-03"),
 
 
 
