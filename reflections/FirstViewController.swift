@@ -566,94 +566,94 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-06" : Days(title: "", reflection: "", url: "35", saint: "Saint Justin Martyr : 06/01", saintURL: "https://www.franciscanmedia.org/saint-justin/", saintDate: "01-06"),
+                             "01-06" : Days(title: "Pope John Paul II once said, \"What does our generation owe to generations yet unborn? ...there is an order in the universe which must be respected, and... the human person, endowed with the capability of choosing freely, has a grave responsibility to preserve this order for the well-being of future generations.\"", reflection: "", url: "35", saint: "Saint Justin Martyr : 06/01", saintURL: "https://www.franciscanmedia.org/saint-justin/", saintDate: "01-06"),
 
 
-                             "02-06" : Days(title: "", reflection: "", url: "36", saint: "Saints Marcellinus and Peter : 06/02", saintURL: "https://www.franciscanmedia.org/saints-marcellinus-and-peter/", saintDate: "02-06"),
+                             "02-06" : Days(title: "Pope John Paul II once told us, \"Motherhood involves a special communion with the mystery of life, as it develops in the mother's womb. The mother is filled with wonder at this mystery of life, and 'understands' with unique intuition what is happening inside her. In the light of the 'beginning', the mother accepts and loves as a person the child she is carrying in her womb. This unique contact with the new human being developing within her gives rise to an attitude towards human beings - not only towards her own child, but every human being - which profoundly marks the woman's personality.\"", reflection: "If you like, let us say a prayer for all of the mothers we know.", url: "36", saint: "Saints Marcellinus and Peter : 06/02", saintURL: "https://www.franciscanmedia.org/saints-marcellinus-and-peter/", saintDate: "02-06"),
 
 
-                             "03-06" : Days(title: "", reflection: "", url: "37", saint: "Saint Charles Lwanga and Companions : 06/03", saintURL: "https://www.franciscanmedia.org/saints-charles-lwanga-and-companions/", saintDate: "03-06"),
+                             "03-06" : Days(title: "Pope John Paul II shares with us, \"The Rosary is my favorite prayer. A prayer so simple and so rich; from deepest heart, I exhort all to recite it.\"", reflection: "Is the rosary your favorite prayer? Don't forget you can pray the Rosary anywhere, even if not in full a decade can go a long way.", url: "37", saint: "Saint Charles Lwanga and Companions : 06/03", saintURL: "https://www.franciscanmedia.org/saints-charles-lwanga-and-companions/", saintDate: "03-06"),
 
 
-                             "04-06" : Days(title: "", reflection: "", url: "38", saint: "Blessed Angeline of Marsciano : 06/04", saintURL: "https://www.franciscanmedia.org/blessed-angeline-of-marsciano/", saintDate: "04-06"),
+                             "04-06" : Days(title: "Pope John Paul II once said, \"Once again, through myself, the Church, in the words of the well-known declaration Nostra Aetate, 'deplores the hatred, persecutions and displays of anti-Semitism directed against the Jews at any time and by anyone.' I repeat, 'By anyone.'\"", reflection: "If you wish, let us take a moment and pray for our brothers and sisters of Judaism.", url: "38", saint: "Blessed Angeline of Marsciano : 06/04", saintURL: "https://www.franciscanmedia.org/blessed-angeline-of-marsciano/", saintDate: "04-06"),
 
 
-                             "05-06" : Days(title: "", reflection: "", url: "39", saint: "Saint Boniface : 06/05", saintURL: "https://www.franciscanmedia.org/saint-boniface/", saintDate: "05-06"),
+                             "05-06" : Days(title: "Pope John Paul II tells us that, \"Treating a person as a means to an end, and an end moreover which in this case is pleasure, the maximization of pleasure, will always stand in the way of love.\"", reflection: "Is there anything blocking love between us and our significant others?", url: "39", saint: "Saint Boniface : 06/05", saintURL: "https://www.franciscanmedia.org/saint-boniface/", saintDate: "05-06"),
 
 
-                             "06-06" : Days(title: "Pope John Paul and Sister Lucia", reflection: "The institution of nuns and sisters, who devote themselves in various religious orders to the practice of a life of perfection, dates from the first ages of the Church, and women may claim with a certain pride that they were the first to embrace the religious state for its own sake, without regard to missionary work and ecclesiastical functions proper to men.\n\nTake a moment to reflect upon any experiences you may have had with a sister or nun.  Maybe you have at one time discerned the vocation of sisterhood. Take a moment to pray, pray for your own vocation and that of others, God is always listening.", url: "40", saint: "Saint Norbert : 06/06", saintURL: "https://www.franciscanmedia.org/saint-norbert/", saintDate: "06-06"),
+                             "06-06" : Days(title: "Pope John Paul II once said, \"No one else can want for me. No one can substitute his act of will for mine. It does sometimes happen that someone very much wants me to want what he wants. This is the moment when the impassable frontier between him and me, which is drawn by free will, becomes most obvious. I may not want that which he wants me to want - and in this precisely I am incommunicabilis. I am, and I must be, independent in my actions. All human relationships are posited on this fact.\"", reflection: "", url: "40", saint: "Saint Norbert : 06/06", saintURL: "https://www.franciscanmedia.org/saint-norbert/", saintDate: "06-06"),
 
 
-                             "07-06" : Days(title: "Our Lady of Fatima Pope John Paul II pictured here thanking the virgin for her intervention when he was shot (the bullet was added to her crown.", reflection: "Saint Pope John Paul II had a very close relationship with the Blessed Mother. He was convinced that Mary, in the form of Our Lady of Fatima, had personally redirected the bullet that hit him, saving his life. \n\nTake a moment to reflect upon what impact the Blessed Mother has had in your life and pray on what you can do to become closer to her.", url: "41", saint: "Blessed Franz Jägerstätter : 06/07", saintURL: "https://www.franciscanmedia.org/blessed-franz-jagerstatter/", saintDate: "07-06"),
+                             "07-06" : Days(title: "Pope John Paul II tells us, \"Motherhood implies from the beginning a special openness to the new person: and this is precisely the woman's 'part'. In this openness, in conceiving and giving birth to a child, the woman 'discovers herself through a sincere gift of self'.\"", reflection: "", url: "41", saint: "Blessed Franz Jägerstätter : 06/07", saintURL: "https://www.franciscanmedia.org/blessed-franz-jagerstatter/", saintDate: "07-06"),
 
 
-                             "08-06" : Days(title: "Pope John Paul II and Cardinal Ratzinger.", reflection: "Pope Emeritus Benedict XVI, then Cardinal Joseph Ratzinger, was John Paul’s chief doctrinal officer for nearly a quarter of a century, and presided at John Paul’s funeral in 2005.\n\nPope Emeritus Benedict once said, \"True friends challenge us and help us to be faithful on our journey.\"\n\nTake a moment and reflect on a good friend of yours who has challenged you and lifted you toward Jesus.  Maybe take some time to pray for him or her and give thanks to God for putting them in your life.", url: "42", saint: "Saint William of York : 06/08", saintURL: "https://www.franciscanmedia.org/saint-william-of-york/", saintDate: "08-06"),
+                             "08-06" : Days(title: "Pope John Paul II once said, \"The greatest deception, and the deepest source of unhappiness, is the illusion of finding life by excluding God, of finding freedom by excluding moral truths and personal responsibility.\"", reflection: "", url: "42", saint: "Saint William of York : 06/08", saintURL: "https://www.franciscanmedia.org/saint-william-of-york/", saintDate: "08-06"),
 
 
-                             "09-06" : Days(title: "", reflection: "", url: "43", saint: "Saint Ephrem : 06/09", saintURL: "https://www.franciscanmedia.org/saint-ephrem/", saintDate: "09-06"),
+                             "09-06" : Days(title: "Pope John Paul II reminds us, \"Euthanasia is a grave violation of the law of God, since it is the deliberate and morally unacceptable killing of a human person.\"", reflection: "", url: "43", saint: "Saint Ephrem : 06/09", saintURL: "https://www.franciscanmedia.org/saint-ephrem/", saintDate: "09-06"),
 
 
-                             "10-06" : Days(title: "", reflection: "", url: "44", saint: "Blessed Joachima : 06/10", saintURL: "https://www.franciscanmedia.org/blessed-joachima/", saintDate: "10-06"),
+                             "10-06" : Days(title: "Pope John Paul II once said, \"In the sacrifice which Jesus Christ makes of Himself on the Cross for His bride, the Church... there is entirely revealed that plan which God has imprinted on the humanity of man and woman since their creation.\"", reflection: "", url: "44", saint: "Blessed Joachima : 06/10", saintURL: "https://www.franciscanmedia.org/blessed-joachima/", saintDate: "10-06"),
 
 
-                             "11-06" : Days(title: "", reflection: "", url: "45", saint: "Saint Barnabas : 06/11", saintURL: "https://www.franciscanmedia.org/saint-barnabas/", saintDate: "11-06"),
+                             "11-06" : Days(title: "Pope John Paul II once said, \"It is the responsibility of Pastors to encourage, also by their personal witness, the practice of Eucharistic adoration, and exposition of the Blessed Sacrament in particular, as well as prayer of adoration before Christ present under the Eucharistic species.\"", reflection: "", url: "45", saint: "Saint Barnabas : 06/11", saintURL: "https://www.franciscanmedia.org/saint-barnabas/", saintDate: "11-06"),
 
 
-                             "12-06" : Days(title: "", reflection: "", url: "46", saint: "Blessed Jolenta (Yolanda) of Poland : 06/12", saintURL: "https://www.franciscanmedia.org/blessed-jolenta-yolanda-of-poland/", saintDate: "12-06"),
+                             "12-06" : Days(title: "Pope John Paul II once said, \"Prayer gives us light by which to see and to judge from God's perspective and from eternity. That is why you must not give up on praying!\"", reflection: "", url: "46", saint: "Blessed Jolenta (Yolanda) of Poland : 06/12", saintURL: "https://www.franciscanmedia.org/blessed-jolenta-yolanda-of-poland/", saintDate: "12-06"),
 
 
-                             "13-06" : Days(title: "", reflection: "", url: "47", saint: "Saint Anthony of Padua : 06/13", saintURL: "https://www.franciscanmedia.org/saint-anthony-of-padua/", saintDate: "13-06"),
+                             "13-06" : Days(title: "Pope John Paul II tells us, \"The new evangelization calls for followers of Christ who are unconditionally pro-life: who will proclaim, celebrate and serve the Gospel of life in every situation. A sign of hope is the increasing recognition that the dignity of human life must never be taken away, even in the case of someone who has done great evil. . . . I renew the appeal I made . . . for a consensus to end the death penalty, which is both cruel and unnecessary.\"", reflection: "", url: "47", saint: "Saint Anthony of Padua : 06/13", saintURL: "https://www.franciscanmedia.org/saint-anthony-of-padua/", saintDate: "13-06"),
 
 
-                             "14-06" : Days(title: "", reflection: "", url: "48", saint: "Saint Albert Chmielowski : 06/14", saintURL: "https://www.franciscanmedia.org/saint-albert-chmielowski/", saintDate: "14-06"),
+                             "14-06" : Days(title: "Pope John Paul II once said, \"It is legitimate and necessary to ask oneself if this is not perhaps part of a new ideology of evil, perhaps more insidious and hidden, which attempts to pit human rights against the family and against man.\"", reflection: "", url: "48", saint: "Saint Albert Chmielowski : 06/14", saintURL: "https://www.franciscanmedia.org/saint-albert-chmielowski/", saintDate: "14-06"),
 
 
-                             "15-06" : Days(title: "", reflection: "", url: "49", saint: "Saint Marguerite d’Youville : 06/15", saintURL: "https://www.franciscanmedia.org/saint-marguerite-d-youville/", saintDate: "15-06"),
+                             "15-06" : Days(title: "Pope John Paul II once said, \"The purpose of art is nothing less than the upliftment of the human spirit.\"", reflection: "", url: "49", saint: "Saint Marguerite d’Youville : 06/15", saintURL: "https://www.franciscanmedia.org/saint-marguerite-d-youville/", saintDate: "15-06"),
 
 
-                             "16-06" : Days(title: "", reflection: "", url: "50", saint: "Saint John Francis Regis : 06/16", saintURL: "https://www.franciscanmedia.org/saint-john-francis-regis/", saintDate: "16-06"),
+                             "16-06" : Days(title: "Pope John Paul II tells us, \"We cannot interfere in one area of the ecosystem without paying due attention to both the consequences of such interference in other areas and to the well-being of future generations.\"", reflection: "I can't help but think of this when I don't feel compeled to recycle a bottle or paper. I it is a nice feeling to invest in the future generations.", url: "50", saint: "Saint John Francis Regis : 06/16", saintURL: "https://www.franciscanmedia.org/saint-john-francis-regis/", saintDate: "16-06"),
 
 
-                             "17-06" : Days(title: "", reflection: "", url: "51", saint: "Saint Joseph Cafasso : 06/17", saintURL: "https://www.franciscanmedia.org/saint-joseph-cafasso/", saintDate: "17-06"),
+                             "17-06" : Days(title: "Pope John Paul II told us, \"Deep within yourself, listen to your conscience which calls you to be pure...a home is not warmed by the fire of pleasure which burns quickly like a pile of withered grass. Passing encounters are only a caricature of love; they injure hearts and mock God's plan.\"", reflection: "", url: "51", saint: "Saint Joseph Cafasso : 06/17", saintURL: "https://www.franciscanmedia.org/saint-joseph-cafasso/", saintDate: "17-06"),
 
 
-                             "18-06" : Days(title: "", reflection: "", url: "52", saint: "Venerable Matt Talbot : 06/18", saintURL: "https://www.franciscanmedia.org/venerable-matt-talbot/", saintDate: "18-06"),
+                             "18-06" : Days(title: "Pope John Paul reminds us, \"Like so many pilgrims before us, we kneel in wonder and adoration before the ineffable mystery which. was accomplished here... In This Child - the Son who is given to us - we find rest for our souls and the true bread that never fails - the Eucharistic Bread foreshadowed even in the name of this town: Bethlehem, the house of bread. God lies hidden in the Child; divinity lies hidden in the Bread of Life\"", reflection: "Let us not forget our calling, Jesus telling us to become \"child-like\"", url: "52", saint: "Venerable Matt Talbot : 06/18", saintURL: "https://www.franciscanmedia.org/venerable-matt-talbot/", saintDate: "18-06"),
 
 
-                             "19-06" : Days(title: "", reflection: "", url: "53", saint: "Saint Romuald : 06/19", saintURL: "https://www.franciscanmedia.org/saint-romuald/", saintDate: "19-06"),
+                             "19-06" : Days(title: "Pope John Paul II once said, \"Deepen you knowledge of Jesus which ends loneliness, overcomes sadness and uncertainty, gives real meaning to life, curbs passions, exalts ideals, expands energies in charity, brings light into decisive choices. Let Christ be for you the Way, the Truth, and the Life.\"", reflection: "", url: "53", saint: "Saint Romuald : 06/19", saintURL: "https://www.franciscanmedia.org/saint-romuald/", saintDate: "19-06"),
 
 
-                             "20-06" : Days(title: "", reflection: "", url: "54", saint: "Saint Paulinus of Nola : 06/20", saintURL: "https://www.franciscanmedia.org/saint-paulinus-of-nola/", saintDate: "20-06"),
+                             "20-06" : Days(title: "Pope John Paul II once said, \"Art has a unique capacity to take one or other facet of the message and translate it into colors, shapes and sounds which nourish the intuition of those who look and listen.\"", reflection: "", url: "54", saint: "Saint Paulinus of Nola : 06/20", saintURL: "https://www.franciscanmedia.org/saint-paulinus-of-nola/", saintDate: "20-06"),
 
 
-                             "21-06" : Days(title: "", reflection: "", url: "55", saint: "Saint Aloysius Gonzaga : 06/21", saintURL: "https://www.franciscanmedia.org/saint-aloysius-gonzaga/", saintDate: "21-06"),
+                             "21-06" : Days(title: "Pope John Paul II reminds us, \"The measure of your success will be the measure of your generosity.\"", reflection: "", url: "55", saint: "Saint Aloysius Gonzaga : 06/21", saintURL: "https://www.franciscanmedia.org/saint-aloysius-gonzaga/", saintDate: "21-06"),
 
 
-                             "22-06" : Days(title: "", reflection: "", url: "56", saint: "Saint Thomas More : 06/22", saintURL: "https://www.franciscanmedia.org/saint-thomas-more/", saintDate: "22-06"),
+                             "22-06" : Days(title: "Pope John Paul II once said, \"The conviction which we must share and spread is that the call to holiness is directed to all Christians. This is not a question of privilege or of spiritual elitism. It is a question of a grace offered to all the baptized.\"", reflection: "", url: "56", saint: "Saint Thomas More : 06/22", saintURL: "https://www.franciscanmedia.org/saint-thomas-more/", saintDate: "22-06"),
 
 
-                             "23-06" : Days(title: "", reflection: "", url: "57", saint: "Saint John Fisher : 06/23", saintURL: "https://www.franciscanmedia.org/saint-john-fisher/", saintDate: "23-06"),
+                             "23-06" : Days(title: "Pope John Paul II once told us, \"I sense that the moment has come to commit all of the Church's energies to a new evangelization... No believer in Christ, no institution of the Church can avoid this supreme duty: to proclaim Christ to all peoples.\"", reflection: "", url: "57", saint: "Saint John Fisher : 06/23", saintURL: "https://www.franciscanmedia.org/saint-john-fisher/", saintDate: "23-06"),
 
 
-                             "24-06" : Days(title: "", reflection: "", url: "58", saint: "Nativity of Saint John the Baptist : 06/24", saintURL: "https://www.franciscanmedia.org/solemnity-of-the-nativity-of-saint-john-the-baptist/", saintDate: "24-06"),
+                             "24-06" : Days(title: "Pope John Paul II once said, \"He has chosen you, in a mysterious but real way, to make you saviors with Him and like Him. Yes, Christ calls you, but He calls you in truth. His call is demanding, because He invites you to let yourselves be 'captured' by Him completely, so that your whole lives will be seen in a different light.\"", reflection: "", url: "58", saint: "Nativity of Saint John the Baptist : 06/24", saintURL: "https://www.franciscanmedia.org/solemnity-of-the-nativity-of-saint-john-the-baptist/", saintDate: "24-06"),
 
 
-                             "25-06" : Days(title: "", reflection: "", url: "59", saint: "Blessed Jutta of Thuringia : 06/25", saintURL: "https://www.franciscanmedia.org/blessed-jutta-of-thuringia/", saintDate: "25-06"),
+                             "25-06" : Days(title: "Pope John Paul II once said, \"We are the people of life, because God, in His unconditional love, has given us the Gospel of Life, and we are called to act accordingly.\"", reflection: "", url: "59", saint: "Blessed Jutta of Thuringia : 06/25", saintURL: "https://www.franciscanmedia.org/blessed-jutta-of-thuringia/", saintDate: "25-06"),
 
 
-                             "26-06" : Days(title: "", reflection: "", url: "60", saint: "Blessed Raymond Lull : 06/26", saintURL: "https://www.franciscanmedia.org/blessed-raymond-lull/", saintDate: "26-06"),
+                             "26-06" : Days(title: "Pope John Paul II once told us, \"The only struggle which religions can justify, the only struggle worthy of humans, is the moral struggle against humanity's own disordered passions, against every kind of selfishness, against attempts to oppress others, against every type of hatred and violence.\"", reflection: "", url: "60", saint: "Blessed Raymond Lull : 06/26", saintURL: "https://www.franciscanmedia.org/blessed-raymond-lull/", saintDate: "26-06"),
 
 
-                             "27-06" : Days(title: "", reflection: "", url: "61", saint: "Saint Cyril of Alexandria : 06/27", saintURL: "https://www.franciscanmedia.org/saint-cyril-of-alexandria/", saintDate: "27-06"),
+                             "27-06" : Days(title: "Pope John Paul II once said, \"And everything else will then turn out to be unimportant and inessential except this: father, child, and love. And then, looking at the simplest things, we will all say, Could we have not learned this long ago? Has this not always been embedded in everything that is?\"", reflection: "", url: "61", saint: "Saint Cyril of Alexandria : 06/27", saintURL: "https://www.franciscanmedia.org/saint-cyril-of-alexandria/", saintDate: "27-06"),
 
 
-                             "28-06" : Days(title: "", reflection: "", url: "62", saint: "Saint Irenaeus : 06/28", saintURL: "https://www.franciscanmedia.org/saint-irenaeus/", saintDate: "28-06"),
+                             "28-06" : Days(title: "Pope John Paul II reminds us, \"Opting for peace does not mean a passive acquiescence to evil or compromise of principle. It demands an active struggle against hatred, oppression and disunity, but not by using methods of violence. Building peace requires creative and courageous action\"", reflection: "", url: "62", saint: "Saint Irenaeus : 06/28", saintURL: "https://www.franciscanmedia.org/saint-irenaeus/", saintDate: "28-06"),
 
 
-                             "29-06" : Days(title: "", reflection: "", url: "63", saint: "Solemnity of Saints Peter and Paul : 06/29", saintURL: "https://www.franciscanmedia.org/solemnity-of-saints-peter-and-paul/", saintDate: "29-06"),
+                             "29-06" : Days(title: "Pope John Paul II once said, \"Beauty is the vocation bestowed on the artist by the Creator in the gift of artistic talent.\"", reflection: "", url: "63", saint: "Solemnity of Saints Peter and Paul : 06/29", saintURL: "https://www.franciscanmedia.org/solemnity-of-saints-peter-and-paul/", saintDate: "29-06"),
 
 
-                             "30-06" : Days(title: "", reflection: "", url: "64", saint: "First Martyrs of the Church of Rome : 06/30", saintURL: "https://www.franciscanmedia.org/firsaint-martyrs-of-the-church-of-rome/", saintDate: "30-06"),
+                             "30-06" : Days(title: "Pope John Paul II reminds us, \"Take heed all of you who have at heart mankind's future! Take heed men and women of good will! May the temptation to seek revenge give way to the courage to forgive; may the culture of life and love render vain the logic of death; may trust once more give breath to the lives of peoples.\"", reflection: "", url: "64", saint: "First Martyrs of the Church of Rome : 06/30", saintURL: "https://www.franciscanmedia.org/firsaint-martyrs-of-the-church-of-rome/", saintDate: "30-06"),
 
 
                              "31-06" : Days(title: "", reflection: "", url: "65", saint: "", saintURL: "", saintDate: "31-06"),
@@ -711,7 +711,7 @@ class FirstViewController: UIViewController {
                              "16-07" : Days(title: "", reflection: "", url: "81", saint: "Our Lady of Mount Carmel : 07/16", saintURL: "https://www.franciscanmedia.org/our-lady-of-mount-carmel/", saintDate: "16-07"),
 
 
-                             "17-07" : Days(title: "", reflection: "", url: "82", saint: "Saint Francis Solano : 07/17", saintURL: "https://www.franciscanmedia.org/saint-francis-solano/", saintDate: "17-07"),
+                             "17-07" : Days(title: "Pope John Paul II once said, \"Those who perceive in themselves... the artistic vocation as poet, writer, sculptor, painter, musician, and actor feel at the same time an obligation not to waste this talent but to develop it, in order to put it to service of their neighbour and the humanity as a whole.\"", reflection: "", url: "82", saint: "Saint Francis Solano : 07/17", saintURL: "https://www.franciscanmedia.org/saint-francis-solano/", saintDate: "17-07"),
 
 
                              "18-07" : Days(title: "", reflection: "", url: "83", saint: "Saint Camillus de Lellis : 07/18", saintURL: "https://www.franciscanmedia.org/saint-camillus-de-lellis/", saintDate: "18-07"),
@@ -840,7 +840,7 @@ class FirstViewController: UIViewController {
                              "27-08" : Days(title: "", reflection: "", url: "2", saint: "Saint Monica : 08/27", saintURL: "https://www.franciscanmedia.org/saint-monica/", saintDate: "27-08"),
 
 
-                             "28-08" : Days(title: "", reflection: "", url: "3", saint: "Saint Augustine of Hippo : 08/28", saintURL: "https://www.franciscanmedia.org/saint-augustine-of-hippo/", saintDate: "28-08"),
+                             "28-08" : Days(title: "Pope John Paul II once said, \"Beauty is a key to the mystery and a call to transcendence. It is an invitation to savor life and to dream of the future. That is why the beauty of created things can never fully satisfy. It stirs that hidden nostalgia for God which a lover of beauty like Saint Augustine could express in incomparable terms: 'Late have I loved you, beauty so old and so new: late have I loved you!'.\"", reflection: "", url: "3", saint: "Saint Augustine of Hippo : 08/28", saintURL: "https://www.franciscanmedia.org/saint-augustine-of-hippo/", saintDate: "28-08"),
 
 
                              "29-08" : Days(title: "", reflection: "", url: "4", saint: "Martyrdom of John the Baptist : 08/29", saintURL: "https://www.franciscanmedia.org/martyrdom-of-john-the-baptist/", saintDate: "29-08"),
@@ -995,7 +995,7 @@ class FirstViewController: UIViewController {
                              "15-10" : Days(title: "", reflection: "", url: "52", saint: "Saint Teresa of Avila: 10/15", saintURL: "https://www.franciscanmedia.org/saint-teresa-of-avila/", saintDate: "15-10"),
 
 
-                             "16-10" : Days(title: "", reflection: "", url: "53", saint: "Saint Margaret Mary Alacoque: 10/16", saintURL: "https://www.franciscanmedia.org/saint-margaret-mary-alacoque/", saintDate: "16-10"),
+                             "16-10" : Days(title: "On this day in 2002 Pope St. John Paul II released his apostolic letter Rosarium Virginis Mariae (“The Rosary of the Virgin Mary”), which introduced to the Church a new set of mysteries for the Rosary to complement the traditional 15. In addition to the Joyful, Sorrowful and Glorious Mysteries, Pope John Paul II recommended the Luminous Mysteries, which he said brought out fully \"the Christological depth of the Rosary\" by including \"the mysteries of Christ’s public ministry between his baptism and his passion\"", reflection: "", url: "53", saint: "Saint Margaret Mary Alacoque: 10/16", saintURL: "https://www.franciscanmedia.org/saint-margaret-mary-alacoque/", saintDate: "16-10"),
 
 
                              "17-10" : Days(title: "", reflection: "", url: "54", saint: "Saint Ignatius of Antioch: 10/17", saintURL: "https://www.franciscanmedia.org/saint-ignatius-of-antioch/", saintDate: "17-10"),
