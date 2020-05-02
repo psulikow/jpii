@@ -244,7 +244,7 @@
                                 <state key="normal" title="Click to launch"/>
                                 <connections>
                                     <action selector="clickForSaint:" destination="yKI-dU-67a" eventType="touchUpInside" id="27Q-Tl-bjg"/>
-                                    <segue destination="07I-uE-bcs" kind="show" id="2d0-Tu-K3i"/>
+                                    <segue destination="07I-uE-bcs" kind="show" identifier="saints" id="2d0-Tu-K3i"/>
                                 </connections>
                             </button>
                             <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Axe-Im-g3b">

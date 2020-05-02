@@ -403,7 +403,7 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
 //        present(alertController, animated: true, completion: nil)
         
         
-        
+        showPopup(message: "You are about to leave Reflections and proceed to Franciscan Media, would you still like to proceed?")
     }
     
     /*
@@ -461,4 +461,20 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
         }
     }
     
+    func showPopup(message: String) {
+        
+        let title = "Leaving Reflections..."
+        
+        let alertController = UIAlertController(title: title, message: message, preferredStyle: .actionSheet)
+        
+        let cancelAction = UIAlertAction(title: "Cancel", style: .destructive, handler: nil)
+        
+        
+        let continueAction = UIAlertAction(title: "Continue", style: .default, handler: { action in self.performSegue(withIdentifier: "saints", sender:daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintURL) })
+        
+        alertController.addAction(continueAction)
+        alertController.addAction(cancelAction)
+
+        present(alertController, animated: true, completion: nil)
+    }
 }
