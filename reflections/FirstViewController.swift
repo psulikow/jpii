@@ -372,94 +372,94 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-04" : Days(title: "", reflection: "", url: "94", saint: "Saint Hugh of Grenoble : 04/01", saintURL: "https://www.franciscanmedia.org/saint-hugh-of-grenoble/", saintDate: "01-04"),
+                             "01-04" : Days(title: "Pope John Paul II once told us, \"In suffocating the voice of conscience, passion carries with itself a restlessness of the body and the senses: it is the restlessness of the \"external man.\" When the internal man has been reduced to silence, then passion, once it has been given freedom of action, so to speak, exhibits itself as an insistent tendency to satisfy the senses and the body.\"", reflection: "", url: "94", saint: "Saint Hugh of Grenoble : 04/01", saintURL: "https://www.franciscanmedia.org/saint-hugh-of-grenoble/", saintDate: "01-04"),
 
 
-                             "02-04" : Days(title: "", reflection: "", url: "95", saint: "Saint Francis of Paola : 04/02", saintURL: "https://www.franciscanmedia.org/saint-francis-of-paola/", saintDate: "02-04"),
+                             "02-04" : Days(title: "Pope John Paul II tells us, \"Laws which authorize and promote abortion and euthanasia are therefore radically opposed not only to the good of the individual but also to the common good; as such they are completely lacking in authentic juridical validity. Disregard for the right to life, precisely because it leads to the killing of the person whom society exists to serve, is what most directly conflicts with the possibility of achieving the common good. Consequently, a civil law authorizing abortion or euthanasia ceases by that very fact to be a true, morally binding civil law.\"", reflection: "", url: "95", saint: "Saint Francis of Paola : 04/02", saintURL: "https://www.franciscanmedia.org/saint-francis-of-paola/", saintDate: "02-04"),
 
 
-                             "03-04" : Days(title: "", reflection: "", url: "96", saint: "Saint Benedict the African : 04/03", saintURL: "https://www.franciscanmedia.org/saint-benedict-the-african/", saintDate: "03-04"),
+                             "03-04" : Days(title: "Pope John Paul II once said, \"It is manifestly unjust that a privileged few should continue to accumulate excess goods, squandering available resources, while masses of people are living in conditions of misery at the very lowest level of subsistence.\"", reflection: "", url: "96", saint: "Saint Benedict the African : 04/03", saintURL: "https://www.franciscanmedia.org/saint-benedict-the-african/", saintDate: "03-04"),
 
 
-                             "04-04" : Days(title: "", reflection: "", url: "97", saint: "Saint Isidore of Seville : 04/04", saintURL: "https://www.franciscanmedia.org/saint-isidore-of-seville/", saintDate: "04-04"),
+                             "04-04" : Days(title: "Pope John Paul II once said, \"Truth can prevail only in virtue of truth itself.\"", reflection: "", url: "97", saint: "Saint Isidore of Seville : 04/04", saintURL: "https://www.franciscanmedia.org/saint-isidore-of-seville/", saintDate: "04-04"),
 
 
-                             "05-04" : Days(title: "", reflection: "", url: "98", saint: "Saint Vincent Ferrer : 04/05", saintURL: "https://www.franciscanmedia.org/saint-vincent-ferrer/", saintDate: "05-04"),
+                             "05-04" : Days(title: "Pope John Paul II once told us, \"We are all one family in the world. Building a community that empowers everyone to attain their full potential through each of us respecting each other's dignity, rights and responsibilities makes the world a better place to live.\"", reflection: "", url: "98", saint: "Saint Vincent Ferrer : 04/05", saintURL: "https://www.franciscanmedia.org/saint-vincent-ferrer/", saintDate: "05-04"),
 
 
-                             "06-04" : Days(title: "", reflection: "", url: "99", saint: "Saint Crescentia Hoess : 04/06", saintURL: "https://www.franciscanmedia.org/saint-crescentia-hoess/", saintDate: "06-04"),
+                             "06-04" : Days(title: "Pope John Paul II tells us, \"Learning to think rigorously, so as to act rightly and to serve humanity better.\"", reflection: "", url: "99", saint: "Saint Crescentia Hoess : 04/06", saintURL: "https://www.franciscanmedia.org/saint-crescentia-hoess/", saintDate: "06-04"),
 
 
-                             "07-04" : Days(title: "", reflection: "", url: "100", saint: "Saint John Baptist de La Salle : 04/07", saintURL: "https://www.franciscanmedia.org/saint-john-baptist-de-la-salle/", saintDate: "07-04"),
+                             "07-04" : Days(title: "Pope John Paul II once said, \"When we go before Jesus in the Blessed Sacrament we represent the one in the world who is in most need of God's Mercy.\" We \"Stand in behalf of the one in the world who does not know Christ and who is farthest away from God and we bring down upon their soul the Precious Blood of The Lamb.\"", reflection: "", url: "100", saint: "Saint John Baptist de La Salle : 04/07", saintURL: "https://www.franciscanmedia.org/saint-john-baptist-de-la-salle/", saintDate: "07-04"),
 
 
-                             "08-04" : Days(title: "", reflection: "", url: "101", saint: "Saint Julie Billiart : 04/08", saintURL: "https://www.franciscanmedia.org/saint-julie-billiart/", saintDate: "08-04"),
+                             "08-04" : Days(title: "Pope John Paul II once said, \"The encouragement and the deepening of Eucharistic worship are proofs of the authentic renewal which the Council set itself as an aim and of which they are the central point.\"", reflection: "", url: "101", saint: "Saint Julie Billiart : 04/08", saintURL: "https://www.franciscanmedia.org/saint-julie-billiart/", saintDate: "08-04"),
 
 
-                             "09-04" : Days(title: "", reflection: "", url: "102", saint: "Saint Casilda : 04/09", saintURL: "https://www.franciscanmedia.org/saint-casilda/", saintDate: "09-04"),
+                             "09-04" : Days(title: "Pope John Paul II once said, \"Every act of reverence, every genuflection that you make before the Blessed Sacrament is important because it is an act of faith in Christ, and act of love for Christ. And every sign of the cross and gesture of respect made each time you pass a church is also an act of faith.\"", reflection: "", url: "102", saint: "Saint Casilda : 04/09", saintURL: "https://www.franciscanmedia.org/saint-casilda/", saintDate: "09-04"),
 
 
-                             "10-04" : Days(title: "", reflection: "", url: "103", saint: "Saint Magdalen of Canossa : 04/10", saintURL: "https://www.franciscanmedia.org/saint-magdalen-of-canossa/", saintDate: "10-04"),
+                             "10-04" : Days(title: "Pope John Paul II tells us that \"Eucharistic worship is not so much worship of the inaccessible transcendence as worship of the divine condescension, and it is also the merciful and redeeming transformation of the world in the human heart\"", reflection: "", url: "103", saint: "Saint Magdalen of Canossa : 04/10", saintURL: "https://www.franciscanmedia.org/saint-magdalen-of-canossa/", saintDate: "10-04"),
 
 
                              "11-04" : Days(title: "On this day in 2000, Easter Sunday Pope John Paul II, in URBI ET ORBI, related to us the following. \"May the temptation to seek revenge give way to the courage to forgive; may the culture of life and love render vain the logic of death; may trust once more give breath to the lives of peoples.\"", reflection: "", url: "104", saint: "Saint Stanislaus : 04/11", saintURL: "https://www.franciscanmedia.org/saint-stanislaus/", saintDate: "11-04"),
 
 
-                             "12-04" : Days(title: "", reflection: "", url: "105", saint: "Saint Teresa of Los Andes : 04/12", saintURL: "https://www.franciscanmedia.org/saint-teresa-of-los-andes/", saintDate: "12-04"),
+                             "12-04" : Days(title: "Pope John Paul II once said, \"Original sin is not only the violation of a positive command … but … attempts … to abolish fatherhood, destroying its rays which permeate the created world, placing in doubt the truth about God who is Love and leaving man with only a sense of the master-slave relationship.\"", reflection: "", url: "105", saint: "Saint Teresa of Los Andes : 04/12", saintURL: "https://www.franciscanmedia.org/saint-teresa-of-los-andes/", saintDate: "12-04"),
 
 
-                             "13-04" : Days(title: "", reflection: "", url: "106", saint: "Saint Martin I : 04/13", saintURL: "https://www.franciscanmedia.org/saint-martin-i/", saintDate: "13-04"),
+                             "13-04" : Days(title: "Pope John Paul II told us, \"When our whole life is one faith, hope, love, prayer and silence, a consecrated life always bound up in the Eucharist, then the 'urge' towards God springs...\"", reflection: "", url: "106", saint: "Saint Martin I : 04/13", saintURL: "https://www.franciscanmedia.org/saint-martin-i/", saintDate: "13-04"),
 
 
-                             "14-04" : Days(title: "", reflection: "", url: "107", saint: "Blessed Peter Gonzalez : 04/14", saintURL: "https://www.franciscanmedia.org/blessed-peter-gonzalez/", saintDate: "14-04"),
+                             "14-04" : Days(title: "Pope John Paul II reminds us, \"...if desire is predominant it can deform love between man and woman and rob them both of it.\"", reflection: "", url: "107", saint: "Blessed Peter Gonzalez : 04/14", saintURL: "https://www.franciscanmedia.org/blessed-peter-gonzalez/", saintDate: "14-04"),
 
 
-                             "15-04" : Days(title: "", reflection: "", url: "108", saint: "Blessed Caesar de Bus : 04/15", saintURL: "https://www.franciscanmedia.org/blessed-caesar-de-bus/", saintDate: "15-04"),
+                             "15-04" : Days(title: "Pope John Paul II tells us, \"Friendship, as has been said, consists in a full commitment of the will to another person with a view to that person's good.\"", reflection: "", url: "108", saint: "Blessed Caesar de Bus : 04/15", saintURL: "https://www.franciscanmedia.org/blessed-caesar-de-bus/", saintDate: "15-04"),
 
 
-                             "16-04" : Days(title: "", reflection: "", url: "109", saint: "Saint Bernadette Soubirous : 04/16", saintURL: "https://www.franciscanmedia.org/saint-bernadette-soubirous/", saintDate: "16-04"),
+                             "16-04" : Days(title: "Pope John Paul II once told us, \"Take away from love the fullness of self surrender, the completeness of personal commitment, and what remains will be a total denial and negation of it.\"", reflection: "", url: "109", saint: "Saint Bernadette Soubirous : 04/16", saintURL: "https://www.franciscanmedia.org/saint-bernadette-soubirous/", saintDate: "16-04"),
 
 
-                             "17-04" : Days(title: "", reflection: "", url: "110", saint: "Saint Benedict Joseph Labre : 04/17", saintURL: "https://www.franciscanmedia.org/saint-benedict-joseph-labre/", saintDate: "17-04"),
+                             "17-04" : Days(title: "Pope John Paul II once said, \"And so, like Moses (cf Ex 3, 5), in spirit we remove the shoes from our feet, on the threshold of the inner sanctuary that each of us must become as we meet the Lord.\"", reflection: "", url: "110", saint: "Saint Benedict Joseph Labre : 04/17", saintURL: "https://www.franciscanmedia.org/saint-benedict-joseph-labre/", saintDate: "17-04"),
 
 
-                             "18-04" : Days(title: "", reflection: "", url: "111", saint: "Blessed James Oldo : 04/18", saintURL: "https://www.franciscanmedia.org/blessed-james-oldo/", saintDate: "18-04"),
+                             "18-04" : Days(title: "Pope John Paul II once told us, \"The dramatic threat of ecological breakdown is teaching us the extent to which greed and selfishness are contrary to the order of creation. ...A given culture reveals its understanding of life through the choices it makes in production and consumption... a great deal of educational and cultural work is urgently needed, including the education of consumers in the responsible use of their power of choice...\"", reflection: "", url: "111", saint: "Blessed James Oldo : 04/18", saintURL: "https://www.franciscanmedia.org/blessed-james-oldo/", saintDate: "18-04"),
 
 
-                             "19-04" : Days(title: "", reflection: "", url: "112", saint: "Saint Gianna Beretta Molla : 04/19", saintURL: "https://www.franciscanmedia.org/saint-gianna-beretta-molla/", saintDate: "19-04"),
+                             "19-04" : Days(title: "Pope John Paul II once said, \"Limitation of one's freedom might seem to be something negative and unpleasant, but love makes it a positive, joyful and creative thing. Freedom exists for the sake of love.\"", reflection: "", url: "112", saint: "Saint Gianna Beretta Molla : 04/19", saintURL: "https://www.franciscanmedia.org/saint-gianna-beretta-molla/", saintDate: "19-04"),
 
 
-                             "20-04" : Days(title: "", reflection: "", url: "113", saint: "Saint Conrad of Parzham : 04/20", saintURL: "https://www.franciscanmedia.org/saint-conrad-of-parzham/", saintDate: "20-04"),
+                             "20-04" : Days(title: "Pope John Paul II reminds us, \"The dignity of the human person is a transcendent value, always recognized as such by those who sincerely search for the truth. Indeed, the whole of human history should be interpreted in the light of this certainty. Every person, created in the image and likeness of God (cf. Gn 1:26 28), is therefore radically oriented towards the Creator, and is constantly in relationship with those possessed of the same dignity. To promote the good of the individual is thus to serve the common good, which is that point where rights and duties converge and reinforce one another.\"", reflection: "", url: "113", saint: "Saint Conrad of Parzham : 04/20", saintURL: "https://www.franciscanmedia.org/saint-conrad-of-parzham/", saintDate: "20-04"),
 
 
-                             "21-04" : Days(title: "", reflection: "", url: "114", saint: "Saint Anselm : 04/21", saintURL: "https://www.franciscanmedia.org/saint-anselm/", saintDate: "21-04"),
+                             "21-04" : Days(title: "Pope John Paul II tells us, \"Our communal worship at Mass must go together with our personal worship of Jesus in Eucharistic adoration in order that our love may be complete\"", reflection: "", url: "114", saint: "Saint Anselm : 04/21", saintURL: "https://www.franciscanmedia.org/saint-anselm/", saintDate: "21-04"),
 
 
-                             "22-04" : Days(title: "", reflection: "", url: "115", saint: "Saint Adalbert of Prague : 04/22", saintURL: "https://www.franciscanmedia.org/saint-adalbert-of-prague/", saintDate: "22-04"),
+                             "22-04" : Days(title: "Pope John Paul II once said, \"Love consists of a commitment which limits one's freedom - it is a giving of the self, and to give oneself means just that: to limit one's freedom on behalf of another.\"", reflection: "", url: "115", saint: "Saint Adalbert of Prague : 04/22", saintURL: "https://www.franciscanmedia.org/saint-adalbert-of-prague/", saintDate: "22-04"),
 
 
-                             "23-04" : Days(title: "", reflection: "", url: "116", saint: "Saint George : 04/23", saintURL: "https://www.franciscanmedia.org/saint-george/", saintDate: "23-04"),
+                             "23-04" : Days(title: "Pope John Paul II tells us, \"Reason and faith cannot be separated without diminishing the capacity of men and women to know themselves, the world and God in an appropriate way.\"", reflection: "", url: "116", saint: "Saint George : 04/23", saintURL: "https://www.franciscanmedia.org/saint-george/", saintDate: "23-04"),
 
 
-                             "24-04" : Days(title: "", reflection: "", url: "117", saint: "Saint Fidelis of Sigmaringen : 04/24", saintURL: "https://www.franciscanmedia.org/saint-fidelis-of-sigmaringen/", saintDate: "24-04"),
+                             "24-04" : Days(title: "Pope John Paul II once said, \"The family, as the fundamental and essential educating community, is the privileged means for transmitting the religious and cultural values which help the person to acquire his or her own identity. Founded on love and open to the gift of life, the family contains in itself the very future of society; its most special task is to contribute effectively to a future of peace.\"", reflection: "", url: "117", saint: "Saint Fidelis of Sigmaringen : 04/24", saintURL: "https://www.franciscanmedia.org/saint-fidelis-of-sigmaringen/", saintDate: "24-04"),
 
 
-                             "25-04" : Days(title: "", reflection: "", url: "118", saint: "Saint Mark : 04/25", saintURL: "https://www.franciscanmedia.org/saint-mark/", saintDate: "25-04"),
+                             "25-04" : Days(title: "Pope John Paul II told us, \"The obligation to earn one's bread by the sweat of one's brow also presumes the right to do so. A society in which this right is systematically denied, in which economic policies do not allow workers to reach satisfactory levels of employment, cannot be justified from an ethical point of view, nor can that society attain social peace.\"", reflection: "", url: "118", saint: "Saint Mark : 04/25", saintURL: "https://www.franciscanmedia.org/saint-mark/", saintDate: "25-04"),
 
 
-                             "26-04" : Days(title: "", reflection: "", url: "119", saint: "Saint Pedro de San José Betancur : 04/26", saintURL: "https://www.franciscanmedia.org/saint-pedro-de-san-jos-eacute-betancur/", saintDate: "26-04"),
+                             "26-04" : Days(title: "Pope John Paul said, \"Amongst all unimportant subjects, football is by far the most important.\"", reflection: "Being that football (soccer) is a popular sport in Europe it is no surprise that Pope John Paul II was a fan. This is a nice humorous quote but also a good chance for us to be thankful for the little things in life that we take for granted that sometimes bring us together with friends and family.", url: "119", saint: "Saint Pedro de San José Betancur : 04/26", saintURL: "https://www.franciscanmedia.org/saint-pedro-de-san-jos-eacute-betancur/", saintDate: "26-04"),
 
 
-                             "27-04" : Days(title: "", reflection: "", url: "120", saint: "Saint Louis Mary Grignion de Montfort : 04/27", saintURL: "https://www.franciscanmedia.org/saint-louis-mary-grignion-de-montfort/", saintDate: "27-04"),
+                             "27-04" : Days(title: "Pope John Paul II once said, \"In the Eucharistic Sacrifice the Church venerates the memory of Mary the ever Virgin Mother of God and the memory of Saint Joseph, because he fed Him whom the faithful must eat as the Bread of Life.\"", reflection: "", url: "120", saint: "Saint Louis Mary Grignion de Montfort : 04/27", saintURL: "https://www.franciscanmedia.org/saint-louis-mary-grignion-de-montfort/", saintDate: "27-04"),
 
 
-                             "28-04" : Days(title: "", reflection: "", url: "121", saint: "Saint Peter Chanel : 04/28", saintURL: "https://www.franciscanmedia.org/saint-peter-chanel/", saintDate: "28-04"),
+                             "28-04" : Days(title: "Pope John Paul II reminds us, \"To believe in Jesus is to accept what he says, even when it runs contrary to what others are saying. It means rejecting the lure of sin, however attractive it may be, in order to set out on the difficult path of the Gospel virtues.\"", reflection: "", url: "121", saint: "Saint Peter Chanel : 04/28", saintURL: "https://www.franciscanmedia.org/saint-peter-chanel/", saintDate: "28-04"),
 
 
-                             "29-04" : Days(title: "", reflection: "", url: "1", saint: "Saint Catherine of Siena : 04/29", saintURL: "https://www.franciscanmedia.org/saint-catherine-of-siena/", saintDate: "29-04"),
+                             "29-04" : Days(title: "Pope John Paul II reminds us, \"The inviolability of the person which is a reflection of the absolute inviolability of God, finds its primary and fundamental expression in the inviolability of human life. Above all, the common outcry, which is justly made on behalf of human rights-for example, the right to health, to home, to work, to family, to culture- is false and illusory if the right to life, the most basic and fundamental right and the condition for all other personal rights, is not defended with maximum determination.\"", reflection: "", url: "1", saint: "Saint Catherine of Siena : 04/29", saintURL: "https://www.franciscanmedia.org/saint-catherine-of-siena/", saintDate: "29-04"),
 
 
-                             "30-04" : Days(title: "", reflection: "", url: "2", saint: "Saint Pius V : 04/30", saintURL: "https://www.franciscanmedia.org/saint-pius-v/", saintDate: "30-04"),
+                             "30-04" : Days(title: "Pope John Paul II once said, \"All human life-from the moment of conception and through all subsequent stages-is sacred, because human life is created in the image and likeness of God. Nothing surpasses the greatness or dignity of a human person...If a person's right to life is violated at the moment in which he is first conceived in his mother's womb, an indirect blow is struck also at the whole moral order.\"", reflection: "", url: "2", saint: "Saint Pius V : 04/30", saintURL: "https://www.franciscanmedia.org/saint-pius-v/", saintDate: "30-04"),
 
 
                              "31-04" : Days(title: "", reflection: "", url: "3", saint: "", saintURL: "", saintDate: "31-04"),
