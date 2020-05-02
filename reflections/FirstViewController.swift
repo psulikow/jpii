@@ -238,31 +238,31 @@ class FirstViewController: UIViewController {
                              "20-02" : Days(title: "Pope John Paul II once said, \"Sensitivity to the immense needs of humanity brings with it a spontaneous rejection of the arms race, which is incompatible with the all out struggle against hunger, sickness, under-development and illiteracy.\"", reflection: "", url: "51", saint: "Saints Jacinta and Francisco Marto : 02/20", saintURL: "https://www.franciscanmedia.org/saints-jacinta-and-francisco-marto/", saintDate: "20-02"),
 
 
-                             "21-02" : Days(title: "", reflection: "", url: "52", saint: "Saint Peter Damian : 02/21", saintURL: "https://www.franciscanmedia.org/saint-peter-damian/", saintDate: "21-02"),
+                             "21-02" : Days(title: "Pope John Paul II once said, \"Love the family! Defend and promote it as the basic cell of human society; nurture it as the prime sanctuary of life. Give great care to the preparation of engaged couples and be close to young married couples, so that they will be for their children and the whole community an eloquent testimony of God's love.\"", reflection: "", url: "52", saint: "Saint Peter Damian : 02/21", saintURL: "https://www.franciscanmedia.org/saint-peter-damian/", saintDate: "21-02"),
 
 
-                             "22-02" : Days(title: "", reflection: "", url: "53", saint: "Chair of Saint Peter : 02/22", saintURL: "https://www.franciscanmedia.org/chair-of-saint-peter/", saintDate: "22-02"),
+                             "22-02" : Days(title: "Pope John Paul II once said, \"Love the family! Defend and promote it as the basic cell of human society; nurture it as the prime sanctuary of life. Give great care to the preparation of engaged couples and be close to young married couples, so that they will be for their children and the whole community an eloquent testimony of God's love.\"", reflection: "", url: "53", saint: "Chair of Saint Peter : 02/22", saintURL: "https://www.franciscanmedia.org/chair-of-saint-peter/", saintDate: "22-02"),
 
 
-                             "23-02" : Days(title: "", reflection: "", url: "54", saint: "Saint Polycarp : 02/23", saintURL: "https://www.franciscanmedia.org/saint-polycarp/", saintDate: "23-02"),
+                             "23-02" : Days(title: "Pope John Paul II once said, \"None are so poor that they have nothing to give...and none are so rich that they have nothing to receive.\"", reflection: "", url: "54", saint: "Saint Polycarp : 02/23", saintURL: "https://www.franciscanmedia.org/saint-polycarp/", saintDate: "23-02"),
 
 
-                             "24-02" : Days(title: "", reflection: "", url: "55", saint: "Blessed Luke Belludi : 02/24", saintURL: "https://www.franciscanmedia.org/blessed-luke-belludi/", saintDate: "24-02"),
+                             "24-02" : Days(title: "Pope John Paul II once said, \"Condemning class struggle does not mean condemning every possible form of social conflict. Such conflicts inevitably arise and Christians must often take a position in the \"struggle for social justice.\" What is condemned is \"total war,\" which has no respect for the dignity of others (and consequently of oneself). It excludes reasonable compromise, does not pursue the common good but the good of a group, and sets out to destroy whatever stands in its way.\"", reflection: "", url: "55", saint: "Blessed Luke Belludi : 02/24", saintURL: "https://www.franciscanmedia.org/blessed-luke-belludi/", saintDate: "24-02"),
 
 
-                             "25-02" : Days(title: "", reflection: "", url: "56", saint: "Blessed Sebastian of Aparicio : 02/25", saintURL: "https://www.franciscanmedia.org/blessed-sebastian-of-aparicio/", saintDate: "25-02"),
+                             "25-02" : Days(title: "Pope John Paul II once said, \"It is not enough to long for a person as a good for oneself, one must also, and above all, long for that person's good.\"", reflection: "", url: "56", saint: "Blessed Sebastian of Aparicio : 02/25", saintURL: "https://www.franciscanmedia.org/blessed-sebastian-of-aparicio/", saintDate: "25-02"),
 
 
-                             "26-02" : Days(title: "", reflection: "", url: "57", saint: "Saint Maria Bertilla Boscardin : 02/26", saintURL: "https://www.franciscanmedia.org/saint-maria-bertilla-boscardin/", saintDate: "26-02"),
+                             "26-02" : Days(title: "Pope John Paul II once said, \"With supernatural intuition Blessed Josemaria untiringly preached the universal call to holiness and apostolate. Christ calls everyone to become holy in the realities of everyday life. Hence work too is a means of personal holiness and apostolate when it is done in union with Jesus Christ", reflection: "Josemaría Escrivá de Balaguer y Albás was a Spanish Roman Catholic priest who founded Opus Dei, an organization of laypeople and priests dedicated to the teaching that everyone is called to holiness by God and that ordinary life can result in sanctity.", url: "57", saint: "Saint Maria Bertilla Boscardin : 02/26", saintURL: "https://www.franciscanmedia.org/saint-maria-bertilla-boscardin/", saintDate: "26-02"),
 
 
-                             "27-02" : Days(title: "", reflection: "", url: "58", saint: "Saint Gabriel of Our Lady of Sorrows : 02/27", saintURL: "https://www.franciscanmedia.org/saint-gabriel-of-our-lady-of-sorrows/", saintDate: "27-02"),
+                             "27-02" : Days(title: "Pope John Paul II once said, \"Interdependence must be transformed into solidarity based upon the principle that the goods of creation are meant for all. That which human industry produces through the processing of raw materials with the contribution of work must serve equally for the good of all.\"", reflection: "", url: "58", saint: "Saint Gabriel of Our Lady of Sorrows : 02/27", saintURL: "https://www.franciscanmedia.org/saint-gabriel-of-our-lady-of-sorrows/", saintDate: "27-02"),
 
 
-                             "28-02" : Days(title: "", reflection: "", url: "59", saint: "Blessed Daniel Brottier : 02/28", saintURL: "https://www.franciscanmedia.org/blessed-daniel-brottier/", saintDate: "28-02"),
+                             "28-02" : Days(title: "Pope John Paul II once said, \"Man must reconcile himself to his natural greatness.... he must not forget that he is a person.\"", reflection: "", url: "59", saint: "Blessed Daniel Brottier : 02/28", saintURL: "https://www.franciscanmedia.org/blessed-daniel-brottier/", saintDate: "28-02"),
 
 
-                             "29-02" : Days(title: "", reflection: "", url: "60", saint: "Saint Oswald : 02/29", saintURL: "https://www.franciscanmedia.org/saint-oswald/", saintDate: "29-02"),
+                             "29-02" : Days(title: "Pope John Paul II once said, \"There is no need to be dismayed if love sometimes follows torturous ways. Grace has the power to make straight the paths of human love.\"", reflection: "", url: "60", saint: "Saint Oswald : 02/29", saintURL: "https://www.franciscanmedia.org/saint-oswald/", saintDate: "29-02"),
 
 
                              "30-02" : Days(title: "", reflection: "", url: "61", saint: "", saintURL: "", saintDate: "30-02"),
@@ -275,7 +275,7 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-03" : Days(title: "", reflection: "", url: "63", saint: "Saint David of Wales: 03/01", saintURL: "https://www.franciscanmedia.org/saint-david-of-wales/", saintDate: "01-03"),
+                             "01-03" : Days(title: "Pope John Paul II once said, \"The heart is our hidden center, beyond the grasp of our reason and of others; only the Spirit of God can fathom the human heart and know it fully. The heart is the place of decision, deeper than our psychic drives. It is the place of truth, where we choose life or death. It is the place of encounter...\"", reflection: "", url: "63", saint: "Saint David of Wales: 03/01", saintURL: "https://www.franciscanmedia.org/saint-david-of-wales/", saintDate: "01-03"),
 
 
                              "02-03" : Days(title: "", reflection: "", url: "64", saint: "Saint Agnes of Bohemia : 03/02", saintURL: "https://www.franciscanmedia.org/saint-agnes-of-bohemia/", saintDate: "02-03"),
@@ -347,7 +347,7 @@ class FirstViewController: UIViewController {
                              "24-03" : Days(title: "", reflection: "", url: "86", saint: "Saint Oscar Arnulfo Romero : 03/24", saintURL: "https://www.franciscanmedia.org/saint-oscar-arnulfo-romero/", saintDate: "24-03"),
 
 
-                             "25-03" : Days(title: "", reflection: "", url: "87", saint: "Annunciation of the Lord : 03/25", saintURL: "https://www.franciscanmedia.org/annunciation-of-the-lord/", saintDate: "25-03"),
+                             "25-03" : Days(title: "On this day in 1995, Pope John Paul wrote, \"Humanity, its dignity and its balance, will depend at every moment and on every place on the globe,on who man is for woman and who woman is for man.\"", reflection: "EVANGELIUM VITAE: To the Bishops, Priests and Deacons, Men and Women religious lay Faithful and all People of Good Will on the Value and Inviolability of Human Life", url: "87", saint: "Annunciation of the Lord : 03/25", saintURL: "https://www.franciscanmedia.org/annunciation-of-the-lord/", saintDate: "25-03"),
 
 
                              "26-03" : Days(title: "", reflection: "", url: "88", saint: "Saint Catherine of Genoa : 03/26", saintURL: "https://www.franciscanmedia.org/saint-catherine-of-genoa/", saintDate: "26-03"),
