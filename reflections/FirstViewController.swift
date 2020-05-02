@@ -81,97 +81,97 @@ class FirstViewController: UIViewController {
         // Do any additional setup after loading the view.
                 
                     daysOfTheYear["Days"] = [
-                             "01-01" : Days(title: "", reflection: "", url: "1", saint: "Mary, Mother of God : 01/01", saintURL: "https://www.franciscanmedia.org/mary-mother-of-god/", saintDate: "01-01"),
+                             "01-01" : Days(title: "Freedom consists not in doing what we like, but in having the right to do what we ought.", reflection: "", url: "1", saint: "Mary, Mother of God : 01/01", saintURL: "https://www.franciscanmedia.org/mary-mother-of-god/", saintDate: "01-01"),
 
 
-                             "02-01" : Days(title: "", reflection: "", url: "2", saint: "Saint Basil the Great : 01/02", saintURL: "https://www.franciscanmedia.org/saint-basil-the-great/", saintDate: "02-01"),
+                             "02-01" : Days(title: "Pope John Paul II once said, \"Have no fear of moving into the unknown. Simply step out fearlessly knowing that I am with you, therefore no harm can befall you; all is very, very well. Do this in complete faith and confidence.\"", reflection: "", url: "2", saint: "Saint Basil the Great : 01/02", saintURL: "https://www.franciscanmedia.org/saint-basil-the-great/", saintDate: "02-01"),
 
 
-                             "03-01" : Days(title: "", reflection: "", url: "3", saint: "Most Holy Name of Jesus : 01/03", saintURL: "https://www.franciscanmedia.org/mosaint-holy-name-of-jesus/", saintDate: "03-01"),
+                             "03-01" : Days(title: "Pope John Paul II once said, \"Marriage is an act of will that signifies and involves a mutual gift, which unites the spouses and binds them to their eventual souls, with whom they make up a sole family - a domestic church.\"", reflection: "", url: "3", saint: "Most Holy Name of Jesus : 01/03", saintURL: "https://www.franciscanmedia.org/mosaint-holy-name-of-jesus/", saintDate: "03-01"),
 
 
-                             "04-01" : Days(title: "", reflection: "", url: "4", saint: "Saint Elizabeth Ann Seton : 01/04", saintURL: "https://www.franciscanmedia.org/saint-elizabeth-ann-seton/", saintDate: "04-01"),
+                             "04-01" : Days(title: "Pope John Paul II once said, \"Wars generally do not resolve the problems for which they are fought and therefore... prove ultimately futile.\"", reflection: "", url: "4", saint: "Saint Elizabeth Ann Seton : 01/04", saintURL: "https://www.franciscanmedia.org/saint-elizabeth-ann-seton/", saintDate: "04-01"),
 
 
-                             "05-01" : Days(title: "", reflection: "", url: "5", saint: "Saint John Neumann : 01/05", saintURL: "https://www.franciscanmedia.org/saint-john-neumann/", saintDate: "05-01"),
+                             "05-01" : Days(title: "Pope John Paul II once said, \"Young people are threatened... by the evil use of advertising techniques that stimulate the natural inclination to avoid hard work by promising the immediate satisfaction of every desire.\"", reflection: "", url: "5", saint: "Saint John Neumann : 01/05", saintURL: "https://www.franciscanmedia.org/saint-john-neumann/", saintDate: "05-01"),
 
 
-                             "06-01" : Days(title: "", reflection: "", url: "6", saint: "Saint André Bessette : 01/06", saintURL: "https://www.franciscanmedia.org/saint-andr-eacute-bessette/", saintDate: "06-01"),
+                             "06-01" : Days(title: "Pope John Paul II once said, \"The historical experience of socialist countries has sadly demonstrated that collectivism does not do away with alienation but rather increases it, adding to it a lack of basic necessities and economic inefficiency.\"", reflection: "", url: "6", saint: "Saint André Bessette : 01/06", saintURL: "https://www.franciscanmedia.org/saint-andr-eacute-bessette/", saintDate: "06-01"),
 
 
-                             "07-01" : Days(title: "", reflection: "", url: "7", saint: "Saint Raymond of Peñafort : 01/07", saintURL: "https://www.franciscanmedia.org/saint-raymond-of-pe-afort/", saintDate: "07-01"),
+                             "07-01" : Days(title: "Pope John Paul II once said, \"Humanity should question itself, once more, about the absurd and always unfair phenomenon of war...\"", reflection: "", url: "7", saint: "Saint Raymond of Peñafort : 01/07", saintURL: "https://www.franciscanmedia.org/saint-raymond-of-pe-afort/", saintDate: "07-01"),
 
 
-                             "08-01" : Days(title: "", reflection: "", url: "8", saint: "Saint Angela of Foligno : 01/08", saintURL: "https://www.franciscanmedia.org/saint-angela-of-foligno/", saintDate: "08-01"),
+                             "08-01" : Days(title: "Pope John Paul II once said, \"As the family goes, so goes the nation and so goes the whole world in which we live.\"", reflection: "", url: "8", saint: "Saint Angela of Foligno : 01/08", saintURL: "https://www.franciscanmedia.org/saint-angela-of-foligno/", saintDate: "08-01"),
 
 
-                             "09-01" : Days(title: "", reflection: "", url: "9", saint: "Saint Adrian of Canterbury : 01/09", saintURL: "https://www.franciscanmedia.org/saint-adrian-of-canterbury/", saintDate: "09-01"),
+                             "09-01" : Days(title: "Pope John Paul II once said, \"Love is never defeated, and I could add, the history of Ireland proves it.\"", reflection: "", url: "9", saint: "Saint Adrian of Canterbury : 01/09", saintURL: "https://www.franciscanmedia.org/saint-adrian-of-canterbury/", saintDate: "09-01"),
 
 
-                             "10-01" : Days(title: "", reflection: "", url: "10", saint: "Saint Gregory of Nyssa : 01/10", saintURL: "https://www.franciscanmedia.org/saint-gregory-of-nyssa/", saintDate: "10-01"),
+                             "10-01" : Days(title: "Pope John Paul II once said, \"Do not abandon yourselves to despair. We are the Easter people and hallelujah is our song.\"", reflection: "", url: "10", saint: "Saint Gregory of Nyssa : 01/10", saintURL: "https://www.franciscanmedia.org/saint-gregory-of-nyssa/", saintDate: "10-01"),
 
 
-                             "11-01" : Days(title: "", reflection: "", url: "11", saint: "Blessed William Carter : 01/11", saintURL: "https://www.franciscanmedia.org/blessed-william-carter/", saintDate: "11-01"),
+                             "11-01" : Days(title: "Pope John Paul II once said, \"I kiss the soil as if I placed a kiss on the hands of a mother, for the homeland is our earthly mother. I consider it my duty to be with my compatriots in this sublime and difficult moment.\"", reflection: "", url: "11", saint: "Blessed William Carter : 01/11", saintURL: "https://www.franciscanmedia.org/blessed-william-carter/", saintDate: "11-01"),
 
 
-                             "12-01" : Days(title: "", reflection: "", url: "12", saint: "Saint Marguerite Bourgeoys : 01/12", saintURL: "https://www.franciscanmedia.org/saint-marguerite-bourgeoys/", saintDate: "12-01"),
+                             "12-01" : Days(title: "Pope John Paul II once said, \"When freedom does not have a purpose, when it does not wish to know anything about the rule of law engraved in the hearts of men and women, when it does not listen to the voice of conscience, it turns against humanity and society.\"", reflection: "", url: "12", saint: "Saint Marguerite Bourgeoys : 01/12", saintURL: "https://www.franciscanmedia.org/saint-marguerite-bourgeoys/", saintDate: "12-01"),
 
 
-                             "13-01" : Days(title: "", reflection: "", url: "13", saint: "Saint Hilary of Poitiers : 01/13", saintURL: "https://www.franciscanmedia.org/saint-hilary/", saintDate: "13-01"),
+                             "13-01" : Days(title: "Pope John Paul II once said, \"I hope to have communion with the people, that is the most important thing.\"", reflection: "", url: "13", saint: "Saint Hilary of Poitiers : 01/13", saintURL: "https://www.franciscanmedia.org/saint-hilary/", saintDate: "13-01"),
 
 
-                             "14-01" : Days(title: "", reflection: "", url: "14", saint: "Saint Gregory Nazianzen : 01/14", saintURL: "https://www.franciscanmedia.org/saint-gregory-nazianzen/", saintDate: "14-01"),
+                             "14-01" : Days(title: "Pope John Paul II once said, \"The vow of celibacy is a matter of keeping one's word to Christ and the Church. a duty and a proof of the priest's inner maturity; it is the expression of his personal dignity.\"", reflection: "", url: "14", saint: "Saint Gregory Nazianzen : 01/14", saintURL: "https://www.franciscanmedia.org/saint-gregory-nazianzen/", saintDate: "14-01"),
 
 
-                             "15-01" : Days(title: "", reflection: "", url: "15", saint: "Saint Paul the Hermit : 01/15", saintURL: "https://www.franciscanmedia.org/saint-paul-the-hermit/", saintDate: "15-01"),
+                             "15-01" : Days(title: "Pope John Paul II once said, \"The question confronting the Church today is not any longer whether the man in the street can grasp a religious message, but how to employ the communications media so as to let him have the full impact of the Gospel message.\"", reflection: "", url: "15", saint: "Saint Paul the Hermit : 01/15", saintURL: "https://www.franciscanmedia.org/saint-paul-the-hermit/", saintDate: "15-01"),
 
 
-                             "16-01" : Days(title: "", reflection: "", url: "16", saint: "Saint Berard and Companions : 01/16", saintURL: "https://www.franciscanmedia.org/saint-berard-and-companions/", saintDate: "16-01"),
+                             "16-01" : Days(title: "Pope John Paul II once said, \"I have a sweet tooth for song and music. This is my Polish sin.\"", reflection: "", url: "16", saint: "Saint Berard and Companions : 01/16", saintURL: "https://www.franciscanmedia.org/saint-berard-and-companions/", saintDate: "16-01"),
 
 
-                             "17-01" : Days(title: "", reflection: "", url: "17", saint: "Saint Anthony of Egypt : 01/17", saintURL: "https://www.franciscanmedia.org/saint-anthony-of-egypt/", saintDate: "17-01"),
+                             "17-01" : Days(title: "Pope John Paul II once said, \"From now on it is only through a conscious choice and through a deliberate policy that humanity can survive.\"", reflection: "", url: "17", saint: "Saint Anthony of Egypt : 01/17", saintURL: "https://www.franciscanmedia.org/saint-anthony-of-egypt/", saintDate: "17-01"),
 
 
-                             "18-01" : Days(title: "", reflection: "", url: "18", saint: "Saint Charles of Sezze : 01/18", saintURL: "https://www.franciscanmedia.org/saint-charles-of-sezze/", saintDate: "18-01"),
+                             "18-01" : Days(title: "Pope John Paul II once said, \"To maintain a joyful family requires much from both the parents and the children. Each member of the family has to become, in a special way, the servant of the others.\"", reflection: "", url: "18", saint: "Saint Charles of Sezze : 01/18", saintURL: "https://www.franciscanmedia.org/saint-charles-of-sezze/", saintDate: "18-01"),
 
 
-                             "19-01" : Days(title: "", reflection: "", url: "19", saint: "Saint Fabian : 01/19", saintURL: "https://www.franciscanmedia.org/saint-fabian/", saintDate: "19-01"),
+                             "19-01" : Days(title: "Pope John Paul II once said, \"Social justice cannot be attained by violence. Violence kills what it intends to create.\"", reflection: "", url: "19", saint: "Saint Fabian : 01/19", saintURL: "https://www.franciscanmedia.org/saint-fabian/", saintDate: "19-01"),
 
 
-                             "20-01" : Days(title: "", reflection: "", url: "20", saint: "Saint Sebastian : 01/20", saintURL: "https://www.franciscanmedia.org/saint-sebastian/", saintDate: "20-01"),
+                             "20-01" : Days(title: "Pope John Paul II once said, \"There are people and nations, Mother, that I would like to say to you by name. I entrust them to you in silence, I entrust them to you in the way that you know best.\"", reflection: "", url: "20", saint: "Saint Sebastian : 01/20", saintURL: "https://www.franciscanmedia.org/saint-sebastian/", saintDate: "20-01"),
 
 
-                             "21-01" : Days(title: "", reflection: "", url: "21", saint: "Saint Agnes : 01/21", saintURL: "https://www.franciscanmedia.org/saint-agnes/", saintDate: "21-01"),
+                             "21-01" : Days(title: "Pope John Paul II once said, \"Stupidity is also a gift of God, but one mustn't misuse it.\"", reflection: "", url: "21", saint: "Saint Agnes : 01/21", saintURL: "https://www.franciscanmedia.org/saint-agnes/", saintDate: "21-01"),
 
 
-                             "22-01" : Days(title: "", reflection: "", url: "22", saint: "Saint Vincent of Zaragossa : 01/22", saintURL: "https://www.franciscanmedia.org/saint-vincent-of-zaragossa/", saintDate: "22-01"),
+                             "22-01" : Days(title: "Pope John Paul II once said, \"Pervading nationalism imposes its dominion on man today in many different forms and with an aggressiveness that spares no one. The challenge that is already with us is the temptation to accept as true freedom what in reality is only a new form of slavery.\"", reflection: "", url: "22", saint: "Saint Vincent of Zaragossa : 01/22", saintURL: "https://www.franciscanmedia.org/saint-vincent-of-zaragossa/", saintDate: "22-01"),
 
 
-                             "23-01" : Days(title: "", reflection: "", url: "23", saint: "Saint Marianne Cope : 01/23", saintURL: "https://www.franciscanmedia.org/saint-marianne-cope/", saintDate: "23-01"),
+                             "23-01" : Days(title: "Pope John Paul II once said, \"The great danger for family life, in the midst of any society whose idols are pleasure, comfort and independence, lies in the fact that people close their hearts and become selfish.\"", reflection: "", url: "23", saint: "Saint Marianne Cope : 01/23", saintURL: "https://www.franciscanmedia.org/saint-marianne-cope/", saintDate: "23-01"),
 
 
-                             "24-01" : Days(title: "", reflection: "", url: "24", saint: "Saint Francis de Sales : 01/24", saintURL: "https://www.franciscanmedia.org/saint-francis-de-sales/", saintDate: "24-01"),
+                             "24-01" : Days(title: "Pope John Paul II once said, \"Science can purify religion from error and superstition. Religion can purify science from idolatry and false absolutes.\"", reflection: "", url: "24", saint: "Saint Francis de Sales : 01/24", saintURL: "https://www.franciscanmedia.org/saint-francis-de-sales/", saintDate: "24-01"),
 
 
-                             "25-01" : Days(title: "", reflection: "", url: "25", saint: "Conversion of Saint Paul : 01/25", saintURL: "https://www.franciscanmedia.org/conversion-of-saint-paul/", saintDate: "25-01"),
+                             "25-01" : Days(title: "Pope John Paul II once said, \"Violence and arms can never resolve the problems of men.\"", reflection: "", url: "25", saint: "Conversion of Saint Paul : 01/25", saintURL: "https://www.franciscanmedia.org/conversion-of-saint-paul/", saintDate: "25-01"),
 
 
-                             "26-01" : Days(title: "", reflection: "", url: "26", saint: "Saints Timothy and Titus : 01/26", saintURL: "https://www.franciscanmedia.org/saints-timothy-and-titus/", saintDate: "26-01"),
+                             "26-01" : Days(title: "Pope John Paul II once said, \"You will reciprocally promise love, loyalty and matrimonial honesty. We only want for you this day that these words constitute the principle of your entire life and that with the help of divine grace you will observe these solemn vows that today, before God, you formulate.\"", reflection: "", url: "26", saint: "Saints Timothy and Titus : 01/26", saintURL: "https://www.franciscanmedia.org/saints-timothy-and-titus/", saintDate: "26-01"),
 
 
-                             "27-01" : Days(title: "", reflection: "", url: "27", saint: "Saint Angela Merici : 01/27", saintURL: "https://www.franciscanmedia.org/saint-angela-merici/", saintDate: "27-01"),
+                             "27-01" : Days(title: "Pope John Paul II once said, \"Radical changes in world politics leave America with a heightened responsibility to be, for the world, an example of a genuinely free, democratic, just and humane society.\"", reflection: "", url: "27", saint: "Saint Angela Merici : 01/27", saintURL: "https://www.franciscanmedia.org/saint-angela-merici/", saintDate: "27-01"),
 
 
-                             "28-01" : Days(title: "", reflection: "", url: "28", saint: "Saint Thomas Aquinas : 01/28", saintURL: "https://www.franciscanmedia.org/saint-thomas-aquinas/", saintDate: "28-01"),
+                             "28-01" : Days(title: "Pope John Paul II once said, \"You are our dearly beloved brothers, and in a certain way, it could be said that you are our elder brothers.\"", reflection: "", url: "28", saint: "Saint Thomas Aquinas : 01/28", saintURL: "https://www.franciscanmedia.org/saint-thomas-aquinas/", saintDate: "28-01"),
 
 
-                             "29-01" : Days(title: "", reflection: "", url: "29", saint: "Servant of God Brother Juniper : 01/29", saintURL: "https://www.franciscanmedia.org/servant-of-god-brother-juniper/", saintDate: "29-01"),
+                             "29-01" : Days(title: "Pope John Paul II once said, \"The unworthy successor of Peter who desires to benefit from the immeasurable wealth of Christ feels the great need of your assistance, your prayers, your sacrifice, and he most humbly asks this of you.\"", reflection: "", url: "29", saint: "Servant of God Brother Juniper : 01/29", saintURL: "https://www.franciscanmedia.org/servant-of-god-brother-juniper/", saintDate: "29-01"),
 
 
-                             "30-01" : Days(title: "", reflection: "", url: "30", saint: "Blessed Mary Angela Truszkowska : 01/30", saintURL: "https://www.franciscanmedia.org/blessed-mary-angela-truszkowska/", saintDate: "30-01"),
+                             "30-01" : Days(title: "Pope John Paul II once said, \"You are priests, not social or political leaders. Let us not be under the illusion that we are serving the Gospel through an exaggerated interest in the wide field of temporal problems.\"", reflection: "", url: "30", saint: "Blessed Mary Angela Truszkowska : 01/30", saintURL: "https://www.franciscanmedia.org/blessed-mary-angela-truszkowska/", saintDate: "30-01"),
 
 
-                             "31-01" : Days(title: "", reflection: "", url: "31", saint: "Saint John Bosco : 01/31", saintURL: "https://www.franciscanmedia.org/saint-john-bosco/", saintDate: "31-01"),
+                             "31-01" : Days(title: "Pope John Paul II once said, \"The cemetery of the victims of human cruelty in our century is extended to include yet another vast cemetery, that of the unborn.\"", reflection: "", url: "31", saint: "Saint John Bosco : 01/31", saintURL: "https://www.franciscanmedia.org/saint-john-bosco/", saintDate: "31-01"),
                              
 
 
@@ -472,7 +472,7 @@ class FirstViewController: UIViewController {
                              "01-05" : Days(title: "", reflection: "", url: "4", saint: "Saint Joseph the Worker : 05/01", saintURL: "https://www.franciscanmedia.org/saint-joseph-the-worker/", saintDate: "01-05"),
 
 
-                             "02-05" : Days(title: "", reflection: "", url: "5", saint: "Saint Athanasius : 05/02", saintURL: "https://www.franciscanmedia.org/saint-athanasius/", saintDate: "02-05"),
+                             "02-05" : Days(title: "Pope John Paul II tells us, \"Freedom consists not in doing what we like, but in having the right to do what we ought.\"", reflection: "Take a moment and try and really get to the bottom of what it means not only to your life but what you do for others.", url: "5", saint: "Saint Athanasius : 05/02", saintURL: "https://www.franciscanmedia.org/saint-athanasius/", saintDate: "02-05"),
 
 
                              "03-05" : Days(title: "", reflection: "", url: "6", saint: "Saints Philip and James : 05/03", saintURL: "https://www.franciscanmedia.org/saints-philip-and-james/", saintDate: "03-05"),
