@@ -759,97 +759,97 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-08" : Days(title: "", reflection: "", url: "97", saint: "Saint Alphonsus Liguori : 08/01", saintURL: "https://www.franciscanmedia.org/saint-alphonsus-liguori/", saintDate: "01-08"),
+                             "01-08" : Days(title: "Pope John Paul II once said, \"Faith and Reason are like two wings of the human spirit by which is soars to the truth.\"", reflection: "", url: "97", saint: "Saint Alphonsus Liguori : 08/01", saintURL: "https://www.franciscanmedia.org/saint-alphonsus-liguori/", saintDate: "01-08"),
 
 
-                             "02-08" : Days(title: "", reflection: "", url: "98", saint: "Saint Eusebius of Vercelli : 08/02", saintURL: "https://www.franciscanmedia.org/saint-eusebius-of-vercelli/", saintDate: "02-08"),
+                             "02-08" : Days(title: "Pope John Paul II reminds us, \"Only through the Eucharist is it possible to live the heroic virtues of Christianity: charity, to the point of forgiving one's enemies; love for those who make us suffer; chastity in every age and situation of life; patience in suffering and when one is shocked by the silence of God in the tragedies of history or of one's own personal existence. You must always be Eucharistic souls in order to be authentic Christians\"", reflection: "", url: "98", saint: "Saint Eusebius of Vercelli : 08/02", saintURL: "https://www.franciscanmedia.org/saint-eusebius-of-vercelli/", saintDate: "02-08"),
 
 
-                             "03-08" : Days(title: "", reflection: "", url: "99", saint: "Saint Peter Julian Eymard : 08/03", saintURL: "https://www.franciscanmedia.org/saint-peter-julian-eymard/", saintDate: "03-08"),
+                             "03-08" : Days(title: "Pope John Paul II once said, \"We are the sum of the Father's love for us\"", reflection: "", url: "99", saint: "Saint Peter Julian Eymard : 08/03", saintURL: "https://www.franciscanmedia.org/saint-peter-julian-eymard/", saintDate: "03-08"),
 
 
-                             "04-08" : Days(title: "", reflection: "", url: "100", saint: "Saint John Vianney : 08/04", saintURL: "https://www.franciscanmedia.org/saint-john-vianney/", saintDate: "04-08"),
+                             "04-08" : Days(title: "Pope John Paul II once said, \"Let us not accept violence as the way of peace. Let us instead begin by respecting true freedom: the resulting peace will be able to satisfy the world's expectations, for it will be a peace built on justice, a peace founded on the incomparable dignity of the free human being.\"", reflection: "", url: "100", saint: "Saint John Vianney : 08/04", saintURL: "https://www.franciscanmedia.org/saint-john-vianney/", saintDate: "04-08"),
 
 
-                             "05-08" : Days(title: "", reflection: "", url: "101", saint: "Dedication of Saint Mary Major Basilica : 08/05", saintURL: "https://www.franciscanmedia.org/dedication-of-saint-mary-major-basilica/", saintDate: "05-08"),
+                             "05-08" : Days(title: "Pope John Paul II once said, \"The lust of the flesh directs these desires [of personal union], however, to satisfaction of the body, often at the cost of a real and full communion of persons.\"", reflection: "", url: "101", saint: "Dedication of Saint Mary Major Basilica : 08/05", saintURL: "https://www.franciscanmedia.org/dedication-of-saint-mary-major-basilica/", saintDate: "05-08"),
 
 
-                             "06-08" : Days(title: "", reflection: "", url: "102", saint: "Transfiguration of the Lord : 08/06", saintURL: "https://www.franciscanmedia.org/transfiguration-of-the-lord/", saintDate: "06-08"),
+                             "06-08" : Days(title: "Pope John Paul II reminds us, \"Do not be afraid. Open wide the doors to Christ.\"", reflection: "In times of despair, we can always call on Christ. Lord Jesus Christ, Son of God, have mercy on me, a sinner.", url: "102", saint: "Transfiguration of the Lord : 08/06", saintURL: "https://www.franciscanmedia.org/transfiguration-of-the-lord/", saintDate: "06-08"),
 
 
-                             "07-08" : Days(title: "", reflection: "", url: "103", saint: "Saint Cajetan : 08/07", saintURL: "https://www.franciscanmedia.org/saint-cajetan/", saintDate: "07-08"),
+                             "07-08" : Days(title: "Pope John Paul II tells us, \"The fear of making permanent commitments can change the mutual love of husband and wife into two loves of self-two loves existing side by side, until they end in separation.\"", reflection: "", url: "103", saint: "Saint Cajetan : 08/07", saintURL: "https://www.franciscanmedia.org/saint-cajetan/", saintDate: "07-08"),
 
 
-                             "08-08" : Days(title: "", reflection: "", url: "104", saint: "Saint Dominic : 08/08", saintURL: "https://www.franciscanmedia.org/saint-dominic/", saintDate: "08-08"),
+                             "08-08" : Days(title: "Pope John Paul II once said, \"The film industry has become a universal medium exercising a profound influence on the development of people's attitudes and choices, and possessing a remarkable ability to influence public opinion and culture across all social and political frontiers.\"", reflection: "", url: "104", saint: "Saint Dominic : 08/08", saintURL: "https://www.franciscanmedia.org/saint-dominic/", saintDate: "08-08"),
 
 
-                             "09-08" : Days(title: "", reflection: "", url: "105", saint: "Saint Teresa Benedicta of the Cross : 08/09", saintURL: "https://www.franciscanmedia.org/saint-teresa-benedicta-of-the-cross-edith-stein/", saintDate: "09-08"),
+                             "09-08" : Days(title: "Pope John Paul II once said, \"The Church and the world have a great need of eucharistic worship. Jesus waits for us in this sacrament of love. Let us be generous with our time in going to meet Him in adoration and in contemplation that is full of faith and ready to make reparation for the great faults and crimes of the world. May our adoration never cease.\"", reflection: "", url: "105", saint: "Saint Teresa Benedicta of the Cross : 08/09", saintURL: "https://www.franciscanmedia.org/saint-teresa-benedicta-of-the-cross-edith-stein/", saintDate: "09-08"),
 
 
-                             "10-08" : Days(title: "", reflection: "", url: "106", saint: "Saint Lawrence : 08/10", saintURL: "https://www.franciscanmedia.org/saint-lawrence/", saintDate: "10-08"),
+                             "10-08" : Days(title: "Pope John Paul II once said, \"That is the dignity of America, the reason she exists, the condition of her survival, yes, the ultimate test of her greatness: to respect every human person, especially the weak and most defenseless ones, those as yet unborn.\"", reflection: "", url: "106", saint: "Saint Lawrence : 08/10", saintURL: "https://www.franciscanmedia.org/saint-lawrence/", saintDate: "10-08"),
 
 
-                             "11-08" : Days(title: "", reflection: "", url: "107", saint: "Saint Clare of Assisi : 08/11", saintURL: "https://www.franciscanmedia.org/saint-clare-of-assisi/", saintDate: "11-08"),
+                             "11-08" : Days(title: "Pope John Paul II tells us, \"To predispose our mind to welcome the Lord who, as we say in the Creed, one day will come to judge the living and the dead, we must learn to recognize him as present in the events of daily life. Therefore, Advent is, so to speak, an intense training that directs us decisively toward him who already came, who will come, and who comes continuously.\"", reflection: "", url: "107", saint: "Saint Clare of Assisi : 08/11", saintURL: "https://www.franciscanmedia.org/saint-clare-of-assisi/", saintDate: "11-08"),
 
 
-                             "12-08" : Days(title: "", reflection: "", url: "108", saint: "Saint Jane Frances de Chantal : 08/12", saintURL: "https://www.franciscanmedia.org/saint-jane-frances-de-chantal/", saintDate: "12-08"),
+                             "12-08" : Days(title: "Pope John Paul II reminds us, \"It is the duty of every man to uphold the dignity of every woman.\"", reflection: "", url: "108", saint: "Saint Jane Frances de Chantal : 08/12", saintURL: "https://www.franciscanmedia.org/saint-jane-frances-de-chantal/", saintDate: "12-08"),
 
 
-                             "13-08" : Days(title: "", reflection: "", url: "109", saint: "Saints Pontian and Hippolytus : 08/13", saintURL: "https://www.franciscanmedia.org/saints-pontian-and-hippolytus/", saintDate: "13-08"),
+                             "13-08" : Days(title: "Pope John Paul II once said, \"Prayer finds its source in God's holiness and it is at the same time our response to this holiness.\"", reflection: "", url: "109", saint: "Saints Pontian and Hippolytus : 08/13", saintURL: "https://www.franciscanmedia.org/saints-pontian-and-hippolytus/", saintDate: "13-08"),
 
 
-                             "14-08" : Days(title: "", reflection: "", url: "110", saint: "Saint Maximilian Mary Kolbe : 08/14", saintURL: "https://www.franciscanmedia.org/saint-maximilian-mary-kolbe/", saintDate: "14-08"),
+                             "14-08" : Days(title: "Pope John Paul II tells us, \"All of us experience the sad effects of blind submission to consumerism. In the first place it represents crass materialism. At the same time it represents a radical dissatisfaction because one quickly learns that the more one possesses, the more one wants, while deeper aspirations remain unsatisfied and perhaps even stifled.\"", reflection: "", url: "110", saint: "Saint Maximilian Mary Kolbe : 08/14", saintURL: "https://www.franciscanmedia.org/saint-maximilian-mary-kolbe/", saintDate: "14-08"),
 
 
                              "15-08" : Days(title: "On this day in 2000, Pope John Paul II reminded the youth, \"Do not be afraid to be the saints of the new mellineum!\"", reflection: "What does this mean to us? Maybe sainthood is attainable, do not give up and also, as Saint John Paul II told us, \"Be not afraid!\"", url: "111", saint: "Solemnity of the Assumption of Mary : 08/15", saintURL: "https://www.franciscanmedia.org/solemnity-of-the-assumption-of-mary/", saintDate: "15-08"),
 
 
-                             "16-08" : Days(title: "Saint John Paul II once told us, \"And Christ, through His own salvific suffering, is very much present in every human suffering, and can act from within that suffering by the powers of His Spirit of truth, His consoling spirit.\"", reflection: "Everyday, many of us suffer. We ask why, how, and we are dragged down by this. Let this quote, a beautiful reminder from this great saint lift us up in during our trials and tribulations.", url: "112", saint: "Saint Stephen of Hungary : 08/16", saintURL: "https://www.franciscanmedia.org/saint-stephen-of-hungary/", saintDate: "16-08"),
+                             "16-08" : Days(title: "Pope John Paul II once told us, \"And Christ, through His own salvific suffering, is very much present in every human suffering, and can act from within that suffering by the powers of His Spirit of truth, His consoling spirit.\"", reflection: "Everyday, many of us suffer. We ask why, how, and we are dragged down by this. Let this quote, a beautiful reminder from this great saint lift us up in during our trials and tribulations.", url: "112", saint: "Saint Stephen of Hungary : 08/16", saintURL: "https://www.franciscanmedia.org/saint-stephen-of-hungary/", saintDate: "16-08"),
 
 
-                             "17-08" : Days(title: "", reflection: "", url: "113", saint: "Saint Joan of the Cross : 08/17", saintURL: "https://www.franciscanmedia.org/saint-joan-of-the-cross/", saintDate: "17-08"),
+                             "17-08" : Days(title: "Pope John Paul II once told us, \"Faith and reason are like two wings on which the human spirit rises to the contemplation of truth; and God has placed in the human heart a desire to know the truth- in a word, to know himself- so that, by knowing and loving God, men and women may also come to the fullness of truth about themselves.\"", reflection: "", url: "113", saint: "Saint Joan of the Cross : 08/17", saintURL: "https://www.franciscanmedia.org/saint-joan-of-the-cross/", saintDate: "17-08"),
 
 
-                             "18-08" : Days(title: "", reflection: "", url: "114", saint: "Saint Louis of Toulouse : 08/18", saintURL: "https://www.franciscanmedia.org/saint-louis-of-toulouse/", saintDate: "18-08"),
+                             "18-08" : Days(title: "Pope John Paul once said, \"Dear young people, let yourselves be taken over by the light of Christ, and spread that light wherever you are.\"", reflection: "If you are young, take a moment to pray for your safety asking Jesus to watch over you. If you are old, take a moment to pray for the youth so they may be guided and protected by the light of Christ", url: "114", saint: "Saint Louis of Toulouse : 08/18", saintURL: "https://www.franciscanmedia.org/saint-louis-of-toulouse/", saintDate: "18-08"),
 
 
-                             "19-08" : Days(title: "", reflection: "", url: "115", saint: "Saint John Eudes : 08/19", saintURL: "https://www.franciscanmedia.org/saint-john-eudes/", saintDate: "19-08"),
+                             "19-08" : Days(title: "Pope John Paul II once said, \"Lord Jesus, Who in the Eucharist make your dwelling among us and become our traveling companion, sustain our Christian communities so that they may be ever more open to listening and accepting your Word. May they draw from the Eucharist a renewed commitment to spreading in society, by the proclamation of your Gospel, the signs and deeds of an attentive and active charity\"", reflection: "", url: "115", saint: "Saint John Eudes : 08/19", saintURL: "https://www.franciscanmedia.org/saint-john-eudes/", saintDate: "19-08"),
 
 
-                             "20-08" : Days(title: "", reflection: "", url: "116", saint: "Saint Bernard of Clairvaux : 08/20", saintURL: "https://www.franciscanmedia.org/saint-bernard-of-clairvaux/", saintDate: "20-08"),
+                             "20-08" : Days(title: "Pope John Paul II reminds us, \"Prayer joined to sacrifice constitutes the most powerful force in human history.\"", reflection: "", url: "116", saint: "Saint Bernard of Clairvaux : 08/20", saintURL: "https://www.franciscanmedia.org/saint-bernard-of-clairvaux/", saintDate: "20-08"),
 
 
-                             "21-08" : Days(title: "", reflection: "", url: "117", saint: "Saint Pius X : 08/21", saintURL: "https://www.franciscanmedia.org/saint-pius-x/", saintDate: "21-08"),
+                             "21-08" : Days(title: "Pope John Paul II tells us, \"Humanity looks to works of art to shed light upon its path and its destiny.\"", reflection: "Have you ever been to a Christian art exhibit? If not I would encourage you to experience the enlightment that may be found there.", url: "117", saint: "Saint Pius X : 08/21", saintURL: "https://www.franciscanmedia.org/saint-pius-x/", saintDate: "21-08"),
 
 
-                             "22-08" : Days(title: "", reflection: "", url: "118", saint: "Queenship of Mary : 08/22", saintURL: "https://www.franciscanmedia.org/queenship-of-mary/", saintDate: "22-08"),
+                             "22-08" : Days(title: "Pope John Paul II reminds us, \"Confidently open your most intimate aspirations to the Love of Christ who waits for you in the Eucharist. You will receive the answer to all your worries and you will see with joy that the consistency of your life which He asks of you is the door to fulfill the noblest dreams of your youth.\"", reflection: "", url: "118", saint: "Queenship of Mary : 08/22", saintURL: "https://www.franciscanmedia.org/queenship-of-mary/", saintDate: "22-08"),
 
 
-                             "23-08" : Days(title: "", reflection: "", url: "119", saint: "Saint Rose of Lima : 08/23", saintURL: "https://www.franciscanmedia.org/saint-rose-of-lima/", saintDate: "23-08"),
+                             "23-08" : Days(title: "Pope John Paul II once said, \"Truth must be the foundation stone, the cement to solidify the entire social edifice.\"", reflection: "", url: "119", saint: "Saint Rose of Lima : 08/23", saintURL: "https://www.franciscanmedia.org/saint-rose-of-lima/", saintDate: "23-08"),
 
 
-                             "24-08" : Days(title: "", reflection: "", url: "120", saint: "Saint Bartholomew : 08/24", saintURL: "https://www.franciscanmedia.org/saint-bartholomew/", saintDate: "24-08"),
+                             "24-08" : Days(title: "Pope John Paul II reminds us, \"Through Mary, we come to her Son more easily.\"", reflection: "A great way would be to pray to our Blessed Mother, through the most holy mysteries of the Rosary.", url: "120", saint: "Saint Bartholomew : 08/24", saintURL: "https://www.franciscanmedia.org/saint-bartholomew/", saintDate: "24-08"),
 
 
-                             "25-08" : Days(title: "", reflection: "", url: "121", saint: "Saint Louis of France : 08/25", saintURL: "https://www.franciscanmedia.org/saint-louis-of-france/", saintDate: "25-08"),
+                             "25-08" : Days(title: "Pope John Paul II reminds us, \"Faith leads us beyond ourselves. It leads us directly to God.\"", reflection: "In the end, it is not about us, it is as Bishop Barron says, the \"theo-drama\" not the \"ego-drama.\"", url: "121", saint: "Saint Louis of France : 08/25", saintURL: "https://www.franciscanmedia.org/saint-louis-of-france/", saintDate: "25-08"),
 
 
                              "26-08" : Days(title: "Pope John Paul II once said, \"Chess holds deep wisdoms of the people. It is truly an image of life, the reflection of human fate that has shown us the earthly way of suffering in darkness and permanent shortage of time. Like in chess, we encounter all kinds of traps, mistakes, settlements, sacrifices, kings, and queens, doubled pawns, and extraordinary moves while we are on the board ourselves.\"", reflection: "If you have ever played chess, you can relate to this. If not through a game of chess then most certainly through our daily life. Use times like those to ask Saint John Paul to interceed on our behalf, help us to persevere.", url: "1", saint: "Saint Joseph Calasanz : 08/26", saintURL: "https://www.franciscanmedia.org/saint-joseph-calasanz/", saintDate: "26-08"),
 
 
-                             "27-08" : Days(title: "", reflection: "", url: "2", saint: "Saint Monica : 08/27", saintURL: "https://www.franciscanmedia.org/saint-monica/", saintDate: "27-08"),
+                             "27-08" : Days(title: "Pope John Paul II reminds us, \"Do not be afraid to be holy! Have the courage and humility to present yourselves to the world determined to be holy, since full, true freedom is born from holiness.\"", reflection: "", url: "2", saint: "Saint Monica : 08/27", saintURL: "https://www.franciscanmedia.org/saint-monica/", saintDate: "27-08"),
 
 
                              "28-08" : Days(title: "Pope John Paul II once said, \"Beauty is a key to the mystery and a call to transcendence. It is an invitation to savor life and to dream of the future. That is why the beauty of created things can never fully satisfy. It stirs that hidden nostalgia for God which a lover of beauty like Saint Augustine could express in incomparable terms: 'Late have I loved you, beauty so old and so new: late have I loved you!'.\"", reflection: "", url: "3", saint: "Saint Augustine of Hippo : 08/28", saintURL: "https://www.franciscanmedia.org/saint-augustine-of-hippo/", saintDate: "28-08"),
 
 
-                             "29-08" : Days(title: "", reflection: "", url: "4", saint: "Martyrdom of John the Baptist : 08/29", saintURL: "https://www.franciscanmedia.org/martyrdom-of-john-the-baptist/", saintDate: "29-08"),
+                             "29-08" : Days(title: "Pope John Paul II once told us, \"Forgiveness is above all a personal choice, a decision of the heart to go against the natural instinct to pay back evil with evil.\"", reflection: "", url: "4", saint: "Martyrdom of John the Baptist : 08/29", saintURL: "https://www.franciscanmedia.org/martyrdom-of-john-the-baptist/", saintDate: "29-08"),
 
 
-                             "30-08" : Days(title: "", reflection: "", url: "5", saint: "Saint Jeanne Jugan : 08/30", saintURL: "https://www.franciscanmedia.org/saint-jeanne-jugan/", saintDate: "30-08"),
+                             "30-08" : Days(title: "Pope John Paul II once said, \"Darkness can only be scattered by light, hatred can only be conquered by love.\"", reflection: "", url: "5", saint: "Saint Jeanne Jugan : 08/30", saintURL: "https://www.franciscanmedia.org/saint-jeanne-jugan/", saintDate: "30-08"),
 
 
-                             "31-08" : Days(title: "", reflection: "", url: "6", saint: "Saints Joseph of Arimathea and Nicodemus : 08/31", saintURL: "https://www.franciscanmedia.org/saints-joseph-of-arimathea-and-nicodemus/", saintDate: "31-08"),
+                             "31-08" : Days(title: "Pope John Paul II tells us, \"It's better to cry than be angry, because anger hurts others while tears flow silently through the soul and cleans the heart.\"", reflection: "", url: "6", saint: "Saints Joseph of Arimathea and Nicodemus : 08/31", saintURL: "https://www.franciscanmedia.org/saints-joseph-of-arimathea-and-nicodemus/", saintDate: "31-08"),
 
 
 
