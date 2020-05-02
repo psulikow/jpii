@@ -469,7 +469,7 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-05" : Days(title: "", reflection: "", url: "", saint: "Saint Joseph the Worker : 05/01", saintURL: "https://www.franciscanmedia.org/saint-joseph-the-worker/", saintDate: "01-05"),
+                             "01-05" : Days(title: "", reflection: "", url: "1", saint: "Saint Joseph the Worker : 05/01", saintURL: "https://www.franciscanmedia.org/saint-joseph-the-worker/", saintDate: "01-05"),
 
 
                              "02-05" : Days(title: "", reflection: "", url: "", saint: "Saint Athanasius : 05/02", saintURL: "https://www.franciscanmedia.org/saint-athanasius/", saintDate: "02-05"),
@@ -1236,13 +1236,12 @@ class FirstViewController: UIViewController {
 
                      ]
         
-        mainImage.loadImageUsingCache(withUrl: daysOfTheYear["Days"]?[formatDate(date: Date())]?.url ?? " ")
+        mainImage.image = UIImage(named: daysOfTheYear["Days"]?[formatDate(date: Date())]?.url ?? " ")
         quoteLabel.sizeToFit()
         quoteLabel.text = daysOfTheYear["Days"]?[formatDate(date: Date())]?.title
         reflectonLabel.sizeToFit()
         reflectonLabel.text = daysOfTheYear["Days"]?[formatDate(date: Date())]?.reflection
     }
-    
     
     @IBAction func todayAction(_ sender: UIButton) {
         let currentGlobal = DesiredDate.shared.globalDate
@@ -1251,7 +1250,7 @@ class FirstViewController: UIViewController {
             DesiredDate.shared.globalDate = formatDate(date: Date())
         }
         let newDate = DesiredDate.shared.globalDate
-        mainImage.loadImageUsingCache(withUrl: daysOfTheYear["Days"]?[newDate]?.url ?? " ")
+        mainImage.image = UIImage(named: daysOfTheYear["Days"]?[newDate]?.url ?? " ")
         quoteLabel.sizeToFit()
         quoteLabel.text = daysOfTheYear["Days"]?[newDate]?.title
         reflectonLabel.sizeToFit()

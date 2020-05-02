@@ -29,7 +29,7 @@
 		7BE05A5F24146C2500D2FB60 /* ContactViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContactViewController.swift; sourceTree = "<group>"; };
 		7BE05A6B24156AA700D2FB60 /* SegueOneViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SegueOneViewController.swift; sourceTree = "<group>"; };
 		7BE05A6D2415738B00D2FB60 /* DateFromRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DateFromRow.swift; sourceTree = "<group>"; };
-		7BE84C1E2413491900A15F2F /* reflections.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = reflections.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		7BE84C1E2413491900A15F2F /* Reflections.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Reflections.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		7BE84C212413491900A15F2F /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		7BE84C232413491900A15F2F /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
 		7BE84C252413491900A15F2F /* FirstViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FirstViewController.swift; sourceTree = "<group>"; };
@@ -64,7 +64,7 @@
 		7BE84C1F2413491900A15F2F /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				7BE84C1E2413491900A15F2F /* reflections.app */,
+				7BE84C1E2413491900A15F2F /* Reflections.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
@@ -108,7 +108,7 @@
 			);
 			name = reflections;
 			productName = reflections;
-			productReference = 7BE84C1E2413491900A15F2F /* reflections.app */;
+			productReference = 7BE84C1E2413491900A15F2F /* Reflections.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -324,7 +324,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.sulpaumic;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Reflections;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
@@ -342,7 +342,7 @@
 					"@executable_path/Frameworks",
 				);
 				PRODUCT_BUNDLE_IDENTIFIER = com.sulpaumic;
-				PRODUCT_NAME = "$(TARGET_NAME)";
+				PRODUCT_NAME = Reflections;
 				SWIFT_VERSION = 5.0;
 				TARGETED_DEVICE_FAMILY = "1,2";
 			};
