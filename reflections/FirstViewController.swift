@@ -663,97 +663,97 @@ class FirstViewController: UIViewController {
 
 
 
-                             "01-07" : Days(title: "", reflection: "", url: "66", saint: "Saint Junipero Serra : 07/01", saintURL: "https://www.franciscanmedia.org/saint-junipero-serra/", saintDate: "01-07"),
+                             "01-07" : Days(title: "Pope John Paul II once said, \"Sacred scripture wishes simply to declare that the world was created by God, and in order to teach this truth it expressed itself in terms of the cosmology in use at the time of the writer. Any other teaching about the origin and makeup of the universe is so alien to the intentions of the Bible, which does not wish to teach how heaven was made but how one goes to heaven.\"", reflection: "", url: "66", saint: "Saint Junipero Serra : 07/01", saintURL: "https://www.franciscanmedia.org/saint-junipero-serra/", saintDate: "01-07"),
 
 
-                             "02-07" : Days(title: "", reflection: "", url: "67", saint: "Saint Oliver Plunkett : 07/02", saintURL: "https://www.franciscanmedia.org/saint-oliver-plunkett/", saintDate: "02-07"),
+                             "02-07" : Days(title: "Pope John Paul II once said, \"Believers know that the presence of evil is always accompanied by the presence of good, by grace... Where evil grows, there the hope for good also grows... In the love that pours forth from the heart of Christ, we find hope for the future of the world. Christ has redeemed the world: 'By his wounds we are healed.' (Isaiah 53:5)\"", reflection: "", url: "67", saint: "Saint Oliver Plunkett : 07/02", saintURL: "https://www.franciscanmedia.org/saint-oliver-plunkett/", saintDate: "02-07"),
 
 
-                             "03-07" : Days(title: "", reflection: "", url: "68", saint: "Saint Thomas the Apostle : 07/03", saintURL: "https://www.franciscanmedia.org/saint-thomas-the-apostle/", saintDate: "03-07"),
+                             "03-07" : Days(title: "Pope John Paul II tells us, \"Born and nurtured when the human being first asked questions about the reason for things and their purpose, philosophy shows in different modes and forms that the desire for truth is part of human nature itself.\"", reflection: "", url: "68", saint: "Saint Thomas the Apostle : 07/03", saintURL: "https://www.franciscanmedia.org/saint-thomas-the-apostle/", saintDate: "03-07"),
 
 
-                             "04-07" : Days(title: "", reflection: "", url: "69", saint: "Saint Elizabeth of Portugal : 07/04", saintURL: "https://www.franciscanmedia.org/saint-elizabeth-of-portugal/", saintDate: "04-07"),
+                             "04-07" : Days(title: "Pope John Paul II once said, \"When Sunday loses its fundamental meaning and becomes subordinate to a secular concept of weekend dominated by such things as entertainment and sport, people stay locked within a horizon so narrow that they can no longer see the heavens.\"", reflection: "", url: "69", saint: "Saint Elizabeth of Portugal : 07/04", saintURL: "https://www.franciscanmedia.org/saint-elizabeth-of-portugal/", saintDate: "04-07"),
 
 
-                             "05-07" : Days(title: "", reflection: "", url: "70", saint: "Saint Anthony Zaccaria : 07/05", saintURL: "https://www.franciscanmedia.org/saint-anthony-zaccaria/", saintDate: "05-07"),
+                             "05-07" : Days(title: "Pope John Paul II once told us, \"A good leader sees everything, overlooks a great deal, and corrects a little.\"", reflection: "", url: "70", saint: "Saint Anthony Zaccaria : 07/05", saintURL: "https://www.franciscanmedia.org/saint-anthony-zaccaria/", saintDate: "05-07"),
 
 
-                             "06-07" : Days(title: "", reflection: "", url: "71", saint: "Saint Maria Goretti : 07/06", saintURL: "https://www.franciscanmedia.org/saint-maria-goretti/", saintDate: "06-07"),
+                             "06-07" : Days(title: "Pope John Paul II once said, \"On the basis of his work each person is fully entitled to consider himself a part owner of the great workbench at which he is working with everyone else. A way toward that goal could be found by associating labor with the ownership of capital joint ownership of the means of work, sharing by the workers in the management and/or profits of businesses, so-called shareholding by labor, etc.\"", reflection: "", url: "71", saint: "Saint Maria Goretti : 07/06", saintURL: "https://www.franciscanmedia.org/saint-maria-goretti/", saintDate: "06-07"),
 
 
-                             "07-07" : Days(title: "", reflection: "", url: "72", saint: "Blessed Emmanuel Ruiz and Companions : 07/07", saintURL: "https://www.franciscanmedia.org/blessed-emmanuel-ruiz-and-companions/", saintDate: "07-07"),
+                             "07-07" : Days(title: "Pope John Paul II once said, \"The greater the feeling of responsibility for the person the more true love there is.\"", reflection: "", url: "72", saint: "Blessed Emmanuel Ruiz and Companions : 07/07", saintURL: "https://www.franciscanmedia.org/blessed-emmanuel-ruiz-and-companions/", saintDate: "07-07"),
 
 
-                             "08-07" : Days(title: "", reflection: "", url: "73", saint: "Saint Gregory Grassi and Companions : 07/08", saintURL: "https://www.franciscanmedia.org/saint-gregory-grassi-and-companions/", saintDate: "08-07"),
+                             "08-07" : Days(title: "Pope John Paul II reminds us, \"There is no peace without justice, and no justice without forgiveness.\"", reflection: "", url: "73", saint: "Saint Gregory Grassi and Companions : 07/08", saintURL: "https://www.franciscanmedia.org/saint-gregory-grassi-and-companions/", saintDate: "08-07"),
 
 
-                             "09-07" : Days(title: "", reflection: "", url: "74", saint: "Saint Augustine Zhao Rong and Companions : 07/09", saintURL: "https://www.franciscanmedia.org/saint-augustine-zhao-rong-and-companions/", saintDate: "09-07"),
+                             "09-07" : Days(title: "Pope John Paul II once said, \"Evangelization through the Eucharist, in the Eucharist, and from the Eucharist - these are three inseparable aspects of how the Church lives the mystery of Christ and fulfills her mission of communicating it to all people.... In addition to the preaching of the message, the consummation of evangelization consists in the building up of the Church, which has no real existence without the sacramental life culminating in the Blessed Eucharist\"", reflection: "", url: "74", saint: "Saint Augustine Zhao Rong and Companions : 07/09", saintURL: "https://www.franciscanmedia.org/saint-augustine-zhao-rong-and-companions/", saintDate: "09-07"),
 
 
-                             "10-07" : Days(title: "", reflection: "", url: "75", saint: "Saint Veronica Giuliani : 07/10", saintURL: "https://www.franciscanmedia.org/saint-veronica-giuliani/", saintDate: "10-07"),
+                             "10-07" : Days(title: "Pope John Paul II tells us, \"Prayer gives us strength for great ideals, for keeping up our faith, charity, purity, generosity; prayer gives us strength to rise up from indifference and guilt, if we have had the misfortune to give in to temptation and weakness. Prayer gives us light by which to see and to judge from God's perspective and from eternity. That is why you must not give up on praying!\"", reflection: "", url: "75", saint: "Saint Veronica Giuliani : 07/10", saintURL: "https://www.franciscanmedia.org/saint-veronica-giuliani/", saintDate: "10-07"),
 
 
-                             "11-07" : Days(title: "", reflection: "", url: "76", saint: "Saint Benedict : 07/11", saintURL: "https://www.franciscanmedia.org/saint-benedict/", saintDate: "11-07"),
+                             "11-07" : Days(title: "Pope John Paul II once said, \"We Christians joyfully recognize the religious values we have in common with Islam. I would like to repeat what I said to young Muslims some years ago in Casablanca: 'We believe in the same God, the one God, the living God, the God who created the world and brings his creatures to their perfection.\"", reflection: "", url: "76", saint: "Saint Benedict : 07/11", saintURL: "https://www.franciscanmedia.org/saint-benedict/", saintDate: "11-07"),
 
 
-                             "12-07" : Days(title: "", reflection: "", url: "77", saint: "Saints John Jones and John Wall : 07/12", saintURL: "https://www.franciscanmedia.org/saints-john-jones-and-john-wall/", saintDate: "12-07"),
+                             "12-07" : Days(title: "Pope John Paul II reminds us, \"It is Jesus who stirs in you the desire to do something great with your lives, the will to follow an ideal, the refusal to allow yourselves to be ground down by mediocrity, the courage to commit yourselves humbly and patiently to improving yourselves and society, making the world more human and more fraternal.\"", reflection: "", url: "77", saint: "Saints John Jones and John Wall : 07/12", saintURL: "https://www.franciscanmedia.org/saints-john-jones-and-john-wall/", saintDate: "12-07"),
 
 
-                             "13-07" : Days(title: "", reflection: "", url: "78", saint: "Saint Henry : 07/13", saintURL: "https://www.franciscanmedia.org/saint-henry/", saintDate: "13-07"),
+                             "13-07" : Days(title: "Pope John Paul tells us, \"The sacraments infuse holiness into the terrain of man's humanity: they penetrate the soul and body, the femininity and masculinity of the personal subject, with the power of holiness.\"", reflection: "", url: "78", saint: "Saint Henry : 07/13", saintURL: "https://www.franciscanmedia.org/saint-henry/", saintDate: "13-07"),
 
 
-                             "14-07" : Days(title: "", reflection: "", url: "79", saint: "Saint Kateri Tekakwitha : 07/14", saintURL: "https://www.franciscanmedia.org/saint-kateri-tekakwitha/", saintDate: "14-07"),
+                             "14-07" : Days(title: "Pope John Paul II once said, \"The Gospel of Life is not for believers alone: it is for everyone. The issue of life and its defense and promotion is not a concern of the Christian alone. Although faith provides special light and strength, this question arises in every human conscience which seeks the truth and which cares about the future of humanity. Life certainly has a sacred and religious value, but in no way is that value a concern only of believers. The value at stake is one which every human being can grasp by the light of reason; thus it necessarily concerns everyone.\"", reflection: "", url: "79", saint: "Saint Kateri Tekakwitha : 07/14", saintURL: "https://www.franciscanmedia.org/saint-kateri-tekakwitha/", saintDate: "14-07"),
 
 
-                             "15-07" : Days(title: "", reflection: "", url: "80", saint: "Saint Bonaventure : 07/15", saintURL: "https://www.franciscanmedia.org/saint-bonaventure/", saintDate: "15-07"),
+                             "15-07" : Days(title: "Pope John Paul II reminds us, \"The man who wishes to understand himself thoroughly must with his unrest, uncertainty, and even his weakness and sinfulness, with his life and death, draw near to Christ.\"", reflection: "", url: "80", saint: "Saint Bonaventure : 07/15", saintURL: "https://www.franciscanmedia.org/saint-bonaventure/", saintDate: "15-07"),
 
 
-                             "16-07" : Days(title: "", reflection: "", url: "81", saint: "Our Lady of Mount Carmel : 07/16", saintURL: "https://www.franciscanmedia.org/our-lady-of-mount-carmel/", saintDate: "16-07"),
+                             "16-07" : Days(title: "Pope John Paul II reminds us, \"The Eucharist is the full realization of the worship which humanity owes to God, and it cannot be compared to any other religious experience.... The risen Lord ... calls the faithful together to give them the light of His Word and the nourishment of His Body as the perennial sacramental wellspring of redemption. The grace flowing from this wellspring renews mankind, life, and history.\"", reflection: "", url: "81", saint: "Our Lady of Mount Carmel : 07/16", saintURL: "https://www.franciscanmedia.org/our-lady-of-mount-carmel/", saintDate: "16-07"),
 
 
                              "17-07" : Days(title: "Pope John Paul II once said, \"Those who perceive in themselves... the artistic vocation as poet, writer, sculptor, painter, musician, and actor feel at the same time an obligation not to waste this talent but to develop it, in order to put it to service of their neighbour and the humanity as a whole.\"", reflection: "", url: "82", saint: "Saint Francis Solano : 07/17", saintURL: "https://www.franciscanmedia.org/saint-francis-solano/", saintDate: "17-07"),
 
 
-                             "18-07" : Days(title: "", reflection: "", url: "83", saint: "Saint Camillus de Lellis : 07/18", saintURL: "https://www.franciscanmedia.org/saint-camillus-de-lellis/", saintDate: "18-07"),
+                             "18-07" : Days(title: "Pope John Paul II tells us, \"You are called to stand up for life! To respect and defend the mystery of life always and everywhere, including the lives of unborn babies, giving real help and encouragement to mothers in difficult situations. You are called to work and pray against abortion.\"", reflection: "", url: "83", saint: "Saint Camillus de Lellis : 07/18", saintURL: "https://www.franciscanmedia.org/saint-camillus-de-lellis/", saintDate: "18-07"),
 
 
-                             "19-07" : Days(title: "", reflection: "", url: "84", saint: "Saint Mary MacKillop : 07/19", saintURL: "https://www.franciscanmedia.org/saint-mary-mackillop/", saintDate: "19-07"),
+                             "19-07" : Days(title: "Pope John Paul II reminds us, \"The human person is a unique composite - a unity of spirit and matter, soul and body, fashioned in the image of God and destined to live forever. Every human life is sacred, because every human person is sacred.\"", reflection: "", url: "84", saint: "Saint Mary MacKillop : 07/19", saintURL: "https://www.franciscanmedia.org/saint-mary-mackillop/", saintDate: "19-07"),
 
 
-                             "20-07" : Days(title: "", reflection: "", url: "85", saint: "Saint Apollinaris : 07/20", saintURL: "https://www.franciscanmedia.org/saint-apollinaris/", saintDate: "20-07"),
+                             "20-07" : Days(title: "Pope John Paul II once said, \"It is pleasant to spend time with Him, to lie close to His breast like the Beloved Disciple and to feel the infinite love present in His Heart....how can we not feel a renewed need to spend time in spiritual converse, in silent adoration, in heartfelt love before Christ present in the Most Holy Sacrament?\"", reflection: "", url: "85", saint: "Saint Apollinaris : 07/20", saintURL: "https://www.franciscanmedia.org/saint-apollinaris/", saintDate: "20-07"),
 
 
-                             "21-07" : Days(title: "", reflection: "", url: "86", saint: "Saint Lawrence of Brindisi : 07/21", saintURL: "https://www.franciscanmedia.org/saint-lawrence-of-brindisi/", saintDate: "21-07"),
+                             "21-07" : Days(title: "Pope John Paul II tells us, \"Do not be afraid to be saints. Follow Jesus Christ who is the source of freedom and light. Be open to the Lord so that He may lighten all your ways.\"", reflection: "", url: "86", saint: "Saint Lawrence of Brindisi : 07/21", saintURL: "https://www.franciscanmedia.org/saint-lawrence-of-brindisi/", saintDate: "21-07"),
 
 
-                             "22-07" : Days(title: "", reflection: "", url: "87", saint: "Saint Mary Magdalene : 07/22", saintURL: "https://www.franciscanmedia.org/saint-mary-magdalene/", saintDate: "22-07"),
+                             "22-07" : Days(title: "Pope John Paul II once said, \"Jesus Christ has taken the lead on the way of the cross. He has suffered first. He does not drive us toward suffering but shares it with us, wanting us to have life and to have it in abundance.\"", reflection: "", url: "87", saint: "Saint Mary Magdalene : 07/22", saintURL: "https://www.franciscanmedia.org/saint-mary-magdalene/", saintDate: "22-07"),
 
 
-                             "23-07" : Days(title: "", reflection: "", url: "88", saint: "Saint Bridget of Sweden : 07/23", saintURL: "https://www.franciscanmedia.org/saint-bridget/", saintDate: "23-07"),
+                             "23-07" : Days(title: "Pope John Paul II tells us, \"To reach peace, teach peace.\"", reflection: "", url: "88", saint: "Saint Bridget of Sweden : 07/23", saintURL: "https://www.franciscanmedia.org/saint-bridget/", saintDate: "23-07"),
 
 
-                             "24-07" : Days(title: "", reflection: "", url: "89", saint: "Saint Sharbel Makhluf : 07/24", saintURL: "https://www.franciscanmedia.org/saint-sharbel-makhluf/", saintDate: "24-07"),
+                             "24-07" : Days(title: "Pope John Paul II once said, \"Although I have lived through much darkness, I have seen enough evidence to be unshakably convinced that no difficulty, no fear is so great that it can completely suffocate the hope that springs eternal in the hearts of the young... Do not let that hope die! Stake your lives on it! We are not the sum of our weaknesses and failures; we are the sum of the Father's love for us and our real capacity to become the image of his Son.\"", reflection: "", url: "89", saint: "Saint Sharbel Makhluf : 07/24", saintURL: "https://www.franciscanmedia.org/saint-sharbel-makhluf/", saintDate: "24-07"),
 
 
-                             "25-07" : Days(title: "", reflection: "", url: "90", saint: "Saint James the Apostle : 07/25", saintURL: "https://www.franciscanmedia.org/saint-james/", saintDate: "25-07"),
+                             "25-07" : Days(title: "Pope John Paul II tells us, \"In Christ and through Christ man has acquired full awareness of his dignity, of the heights to which he is raised, of the surpassing worth of his own humanity, and of the meaning of his existence.\"", reflection: "", url: "90", saint: "Saint James the Apostle : 07/25", saintURL: "https://www.franciscanmedia.org/saint-james/", saintDate: "25-07"),
 
 
-                             "26-07" : Days(title: "", reflection: "", url: "91", saint: "Saints Joachim and Anne : 07/26", saintURL: "https://www.franciscanmedia.org/saints-joachim-and-anne/", saintDate: "26-07"),
+                             "26-07" : Days(title: "Pope John Paul II once said, \"[Speaking of marriage and family] In this entire world there is not a more perfect, more complete image of God, Unity and Community. There is no other human reality which corresponds more, humanly speaking, to that divine mystery.\"", reflection: "", url: "91", saint: "Saints Joachim and Anne : 07/26", saintURL: "https://www.franciscanmedia.org/saints-joachim-and-anne/", saintDate: "26-07"),
 
 
-                             "27-07" : Days(title: "", reflection: "", url: "92", saint: "Blessed Antonio Lucci : 07/27", saintURL: "https://www.franciscanmedia.org/blessed-antonio-lucci/", saintDate: "27-07"),
+                             "27-07" : Days(title: "Pope John Paul II tells us, \"Chastity is a difficult long term matter, one must wait patiently for it to bear fruit for the happiness of loving kindness which it must bring. But at the same time chastity is the sure way to happiness.\"", reflection: "", url: "92", saint: "Blessed Antonio Lucci : 07/27", saintURL: "https://www.franciscanmedia.org/blessed-antonio-lucci/", saintDate: "27-07"),
 
 
-                             "28-07" : Days(title: "", reflection: "", url: "93", saint: "Blessed Stanley Rother : 07/28", saintURL: "https://www.franciscanmedia.org/blessed-stanley-rother/", saintDate: "28-07"),
+                             "28-07" : Days(title: "Pope John Paul II once said, \"Man's life comes from God: it is his image and imprint, as sharing in his breath of life. God therefore is the sole Lord of this life: Man cannot do with it as he wills.\"", reflection: "", url: "93", saint: "Blessed Stanley Rother : 07/28", saintURL: "https://www.franciscanmedia.org/blessed-stanley-rother/", saintDate: "28-07"),
 
 
-                             "29-07" : Days(title: "", reflection: "", url: "94", saint: "Saint Martha : 07/29", saintURL: "https://www.franciscanmedia.org/saint-martha/", saintDate: "29-07"),
+                             "29-07" : Days(title: "Pope John Paul II reminds us, \"In the Mass and in Eucharistic Adoration we meet the merciful love of God that passes through the Heart of Jesus Christ.\"", reflection: "", url: "94", saint: "Saint Martha : 07/29", saintURL: "https://www.franciscanmedia.org/saint-martha/", saintDate: "29-07"),
 
 
-                             "30-07" : Days(title: "", reflection: "", url: "95", saint: "Blessed Solanus Casey : 07/30", saintURL: "https://www.franciscanmedia.org/venerable-solanus-casey/", saintDate: "30-07"),
+                             "30-07" : Days(title: "Pope John Paul II reminds us, \"The Eucharist is the source and summit of the Christian life\"", reflection: "", url: "95", saint: "Blessed Solanus Casey : 07/30", saintURL: "https://www.franciscanmedia.org/venerable-solanus-casey/", saintDate: "30-07"),
 
 
-                             "31-07" : Days(title: "", reflection: "", url: "96", saint: "Saint Ignatius of Loyola : 07/31", saintURL: "https://www.franciscanmedia.org/saint-ignatius-of-loyola/", saintDate: "31-07"),
+                             "31-07" : Days(title: "Pope John Paul II once said, \"United with the angels and saints of the heavenly Church, let us adore the most Holy Sacrament of the Eucharist. Prostrate, we adore this great mystery that contains God's new and definitive covenant with humankind in Christ.\"", reflection: "", url: "96", saint: "Saint Ignatius of Loyola : 07/31", saintURL: "https://www.franciscanmedia.org/saint-ignatius-of-loyola/", saintDate: "31-07"),
 
 
 
