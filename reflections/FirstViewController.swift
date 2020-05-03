@@ -953,13 +953,13 @@ class FirstViewController: UIViewController {
                              "01-10" : Days(title: "Pope John Paul II told us, \"Where, if not in the Divine Mercy, can the world find refuge and the light of hope?\"", reflection: "", url: "38", saint: "Saint Thérèse of Lisieux: 10/01", saintURL: "https://www.franciscanmedia.org/saint-theresa-of-the-child-jesus/", saintDate: "01-10"),
 
 
-                             "02-10" : Days(title: "", reflection: "", url: "39", saint: "Feast of the Guardian Angels: 10/02", saintURL: "https://www.franciscanmedia.org/feasaint-of-the-guardian-angels/", saintDate: "02-10"),
+                             "02-10" : Days(title: "Pope John Paul II once said, \"The Gospel lives in conversation with culture, and if the Church holds back from the culture, the Gospel itself falls silent. Therefore, we must be fearless in crossing the threshold of the communication and information revolution now taking place.\"", reflection: "", url: "39", saint: "Feast of the Guardian Angels: 10/02", saintURL: "https://www.franciscanmedia.org/feasaint-of-the-guardian-angels/", saintDate: "02-10"),
 
 
-                             "03-10" : Days(title: "", reflection: "", url: "40", saint: "Saint Theodora Guérin: 10/03", saintURL: "https://www.franciscanmedia.org/saint-theodora-gu-eacute-rin/", saintDate: "03-10"),
+                             "03-10" : Days(title: "Pope John Paul II reminds us, \"There is no place for selfishness-and no place for fear! Do not be afraid, then, when love makes demands. Do not be afraid when love requires sacrifice\"", reflection: "", url: "40", saint: "Saint Theodora Guérin: 10/03", saintURL: "https://www.franciscanmedia.org/saint-theodora-gu-eacute-rin/", saintDate: "03-10"),
 
 
-                             "04-10" : Days(title: "", reflection: "", url: "41", saint: "Saint Francis of Assisi: 10/04", saintURL: "https://www.franciscanmedia.org/saint-francis-of-assisi/", saintDate: "04-10"),
+                             "04-10" : Days(title: "Pope John Paul II says, \"the path of goodness had a name it is called Love in it we find the key to every hope and has it's root in God Himself\"", reflection: "", url: "41", saint: "Saint Francis of Assisi: 10/04", saintURL: "https://www.franciscanmedia.org/saint-francis-of-assisi/", saintDate: "04-10"),
 
 
                              "05-10" : Days(title: "", reflection: "", url: "42", saint: "Saint Maria Faustina Kowalska: 10/05", saintURL: "https://www.franciscanmedia.org/saint-maria-faustina-kowalska/", saintDate: "05-10"),
@@ -974,73 +974,73 @@ class FirstViewController: UIViewController {
                              "08-10" : Days(title: "On this day in 1995 Pope John Paul gave a homily in Orioles Park at Camden Yards.  One thing he said that we can relfect on is, \"It is important for America that the moral truths which make freedom possible should be passed on to each new generation. Every generation of Americans needs to know that freedom consists not in doing what we like, but in having the right to do what we ought. ... Christ asks us to guard the truth because, as he promised us: 'You will know the truth and the truth will make you free.' Depositum custodi! We must guard the truth that is the condition of authentic freedom, the truth that allows freedoms to be fulfilled in goodness. We must guard the deposit of divine truth handed down to us.\"", reflection: "", url: "45", saint: "Saint John Leonardi: 10/08", saintURL: "https://www.franciscanmedia.org/saint-john-leonardi/", saintDate: "08-10"),
 
 
-                             "09-10" : Days(title: "", reflection: "", url: "46", saint: "Saint Denis and Companions: 10/09", saintURL: "https://www.franciscanmedia.org/saint-denis-and-companions/", saintDate: "09-10"),
+                             "09-10" : Days(title: "Pope John Paul II once said, \"The person who does not decide to love forever will find it very difficult to really love for even one day.\"", reflection: "", url: "46", saint: "Saint Denis and Companions: 10/09", saintURL: "https://www.franciscanmedia.org/saint-denis-and-companions/", saintDate: "09-10"),
 
 
-                             "10-10" : Days(title: "", reflection: "", url: "47", saint: "Saint Francis Borgia: 10/10", saintURL: "https://www.franciscanmedia.org/saint-francis-borgia/", saintDate: "10-10"),
+                             "10-10" : Days(title: "Pope John Paul II reminds us, \"The future is in your hearts and in your hands. God is entrusting to you the task, at once difficult and uplifting, of working with Him in the building of the civilization of love.\"", reflection: "", url: "47", saint: "Saint Francis Borgia: 10/10", saintURL: "https://www.franciscanmedia.org/saint-francis-borgia/", saintDate: "10-10"),
 
 
-                             "11-10" : Days(title: "", reflection: "", url: "48", saint: "Saint John XXIII: 10/11", saintURL: "https://www.franciscanmedia.org/saint-john-xxiii/", saintDate: "11-10"),
+                             "11-10" : Days(title: "Pope John Paul II reminds us, \"Christian holiness does not being sinless, but rather it means struggling not to give in and always getting up after every fall.\"", reflection: "", url: "48", saint: "Saint John XXIII: 10/11", saintURL: "https://www.franciscanmedia.org/saint-john-xxiii/", saintDate: "11-10"),
 
 
-                             "12-10" : Days(title: "", reflection: "", url: "49", saint: "Blessed Francis Xavier Seelos: 10/12", saintURL: "https://www.franciscanmedia.org/blessed-francis-xavier-seelos/", saintDate: "12-10"),
+                             "12-10" : Days(title: "Pope John Paul II once said, \"A person's rightful due is to be treated as an object of love, not as an object for use.\"", reflection: "", url: "49", saint: "Blessed Francis Xavier Seelos: 10/12", saintURL: "https://www.franciscanmedia.org/blessed-francis-xavier-seelos/", saintDate: "12-10"),
 
 
-                             "13-10" : Days(title: "", reflection: "", url: "50", saint: "Blessed Marie-Rose Durocher: 10/13", saintURL: "https://www.franciscanmedia.org/blessed-marie-rose-durocher/", saintDate: "13-10"),
+                             "13-10" : Days(title: "Pope John Paul II reminds us, \"In order to see Jesus, we first need to let him look at us!\"", reflection: "", url: "50", saint: "Blessed Marie-Rose Durocher: 10/13", saintURL: "https://www.franciscanmedia.org/blessed-marie-rose-durocher/", saintDate: "13-10"),
 
 
-                             "14-10" : Days(title: "", reflection: "", url: "51", saint: "Saint Callistus I: 10/14", saintURL: "https://www.franciscanmedia.org/saint-callistus-i/", saintDate: "14-10"),
+                             "14-10" : Days(title: "Pope John Paul II once said, \"The Eucharist is a priceless treasure: by not only celebrating it but also by praying before it outside of Mass we are enabled to make contact with the very wellspring of grace.\"", reflection: "", url: "51", saint: "Saint Callistus I: 10/14", saintURL: "https://www.franciscanmedia.org/saint-callistus-i/", saintDate: "14-10"),
 
 
-                             "15-10" : Days(title: "", reflection: "", url: "52", saint: "Saint Teresa of Avila: 10/15", saintURL: "https://www.franciscanmedia.org/saint-teresa-of-avila/", saintDate: "15-10"),
+                             "15-10" : Days(title: "Pope John Paul II tells us, \"Faced with the sacredness of life and of the human person, and before the marvels of the universe, wonder is the only appropriate attitude.\"", reflection: "", url: "52", saint: "Saint Teresa of Avila: 10/15", saintURL: "https://www.franciscanmedia.org/saint-teresa-of-avila/", saintDate: "15-10"),
 
 
-                             "16-10" : Days(title: "On this day in 2002 Pope St. John Paul II released his apostolic letter Rosarium Virginis Mariae (“The Rosary of the Virgin Mary”), which introduced to the Church a new set of mysteries for the Rosary to complement the traditional 15. In addition to the Joyful, Sorrowful and Glorious Mysteries, Pope John Paul II recommended the Luminous Mysteries, which he said brought out fully \"the Christological depth of the Rosary\" by including \"the mysteries of Christ’s public ministry between his baptism and his passion\"", reflection: "", url: "53", saint: "Saint Margaret Mary Alacoque: 10/16", saintURL: "https://www.franciscanmedia.org/saint-margaret-mary-alacoque/", saintDate: "16-10"),
+                             "16-10" : Days(title: "On this day in 2002 Pope John Paul II released his apostolic letter Rosarium Virginis Mariae (“The Rosary of the Virgin Mary”), which introduced to the Church a new set of mysteries for the Rosary to complement the traditional 15. In addition to the Joyful, Sorrowful and Glorious Mysteries, Pope John Paul II recommended the Luminous Mysteries, which he said brought out fully \"the Christological depth of the Rosary\" by including \"the mysteries of Christ’s public ministry between his baptism and his passion\"", reflection: "", url: "53", saint: "Saint Margaret Mary Alacoque: 10/16", saintURL: "https://www.franciscanmedia.org/saint-margaret-mary-alacoque/", saintDate: "16-10"),
 
 
-                             "17-10" : Days(title: "", reflection: "", url: "54", saint: "Saint Ignatius of Antioch: 10/17", saintURL: "https://www.franciscanmedia.org/saint-ignatius-of-antioch/", saintDate: "17-10"),
+                             "17-10" : Days(title: "Pope John Paul II once said, \"We must open our eyes to admire God who hides and at the same time reveals himself in things and introduces us into the realms of mystery... we must be pure and simple like children, capable of admiring, being astonished, of marveling, and being enchanted by the divine gestures of love and closeness we witness.\"", reflection: "", url: "54", saint: "Saint Ignatius of Antioch: 10/17", saintURL: "https://www.franciscanmedia.org/saint-ignatius-of-antioch/", saintDate: "17-10"),
 
 
-                             "18-10" : Days(title: "", reflection: "", url: "55", saint: "Saint Luke: 10/18", saintURL: "https://www.franciscanmedia.org/saint-luke/", saintDate: "18-10"),
+                             "18-10" : Days(title: "Pope John Paul II tells us, \"St. Joseph was a just man, a tireless worker, the upright guardian of those entrusted to his care. May he always guard, protect and enlighten families.\"", reflection: "", url: "55", saint: "Saint Luke: 10/18", saintURL: "https://www.franciscanmedia.org/saint-luke/", saintDate: "18-10"),
 
 
-                             "19-10" : Days(title: "", reflection: "", url: "56", saint: "Saints Isaac Jogues, Jean de Brébeuf, and Companions: 10/19", saintURL: "https://www.franciscanmedia.org/saint-isaac-jogues-jean-de-br-eacute-beuf-and-companions/", saintDate: "19-10"),
+                             "19-10" : Days(title: "Pope John Paul II tells us, \"Do not be afraid. Do not be satisfied with mediocrity. Put out into the deep and let down your nets for a catch.\"", reflection: "", url: "56", saint: "Saints Isaac Jogues, Jean de Brébeuf, and Companions: 10/19", saintURL: "https://www.franciscanmedia.org/saint-isaac-jogues-jean-de-br-eacute-beuf-and-companions/", saintDate: "19-10"),
 
 
-                             "20-10" : Days(title: "", reflection: "", url: "57", saint: "Saint Paul of the Cross: 10/20", saintURL: "https://www.franciscanmedia.org/saint-paul-of-the-cross/", saintDate: "20-10"),
+                             "20-10" : Days(title: "Pope John Paul II once said, \"This is the wonderful truth, my dear friends: the Word, which became flesh two thousand years ago, is present today in the Eucharist\"", reflection: "", url: "57", saint: "Saint Paul of the Cross: 10/20", saintURL: "https://www.franciscanmedia.org/saint-paul-of-the-cross/", saintDate: "20-10"),
 
 
-                             "21-10" : Days(title: "", reflection: "", url: "58", saint: "Saint Hilarion: 10/21", saintURL: "https://www.franciscanmedia.org/saint-hilarion/", saintDate: "21-10"),
+                             "21-10" : Days(title: "Pope John Paul II tells us, \"Only in Christ can men and women find answers to the ultimate questions that trouble them. Only in Christ can they fully understand their dignity as persons created and loved by God.\"", reflection: "", url: "58", saint: "Saint Hilarion: 10/21", saintURL: "https://www.franciscanmedia.org/saint-hilarion/", saintDate: "21-10"),
 
 
-                             "22-10" : Days(title: "", reflection: "", url: "59", saint: "Saint John Paul II: 10/22", saintURL: "https://www.franciscanmedia.org/saint-john-paul-ii/", saintDate: "22-10"),
+                             "22-10" : Days(title: "Pope John Paul II once said, \"The frenetic pace of modern life can lead to an obscuring or even a loss of what is truly human... Perhaps more than in other periods of history, our time is in need of that genius which belongs to women, and which can ensure sensitivity for human beings in every circumstance.\"", reflection: "", url: "59", saint: "Saint John Paul II: 10/22", saintURL: "https://www.franciscanmedia.org/saint-john-paul-ii/", saintDate: "22-10"),
 
 
-                             "23-10" : Days(title: "", reflection: "", url: "60", saint: "Saint John of Capistrano: 10/23", saintURL: "https://www.franciscanmedia.org/saint-john-of-capistrano/", saintDate: "23-10"),
+                             "23-10" : Days(title: "Pope John Paul II once said, \"The body in its masculinity and femininity has been called "from the beginning" to become the manifestation of the spirit. The body, in fact, and only the body, is capable of making visible what is invisible: the spiritual and the divine.\"", reflection: "", url: "60", saint: "Saint John of Capistrano: 10/23", saintURL: "https://www.franciscanmedia.org/saint-john-of-capistrano/", saintDate: "23-10"),
 
 
-                             "24-10" : Days(title: "", reflection: "", url: "61", saint: "Saint Anthony Mary Claret: 10/24", saintURL: "https://www.franciscanmedia.org/saint-anthony-claret/", saintDate: "24-10"),
+                             "24-10" : Days(title: "Pope John Paul II once said, \"Apart from the mercy of God, there is no other source of hope for mankind.\"", reflection: "", url: "61", saint: "Saint Anthony Mary Claret: 10/24", saintURL: "https://www.franciscanmedia.org/saint-anthony-claret/", saintDate: "24-10"),
 
 
-                             "25-10" : Days(title: "", reflection: "", url: "62", saint: "Saint Antônio de Sant’Anna Galvão: 10/25", saintURL: "https://www.franciscanmedia.org/saint-ant-ocirc-nio-de-sant-146-anna-galv-atilde-o/", saintDate: "25-10"),
+                             "25-10" : Days(title: "Pope John Paul II reminds us, \"The battle against the Devil, which is the principal task of Saint Michael the Archangel, is still being fought today, because the Devil is still alive and active in the world.\"", reflection: "", url: "62", saint: "Saint Antônio de Sant’Anna Galvão: 10/25", saintURL: "https://www.franciscanmedia.org/saint-ant-ocirc-nio-de-sant-146-anna-galv-atilde-o/", saintDate: "25-10"),
 
 
-                             "26-10" : Days(title: "", reflection: "", url: "63", saint: "Saint Peter of Alcantara: 10/26", saintURL: "https://www.franciscanmedia.org/saint-peter-of-alcantara/", saintDate: "26-10"),
+                             "26-10" : Days(title: "Pope John Paul II tells us, \"When you wonder about the mystery of yourself, look to Christ, who gives you the meaning of life. When you wonder what it means to be a mature person, look to Christ, who is the fulfillness of humanity. And when you wonder about your role in the future of the world look to Christ.\"", reflection: "", url: "63", saint: "Saint Peter of Alcantara: 10/26", saintURL: "https://www.franciscanmedia.org/saint-peter-of-alcantara/", saintDate: "26-10"),
 
 
-                             "27-10" : Days(title: "", reflection: "", url: "64", saint: "Blessed Bartholomew of Vicenza: 10/27", saintURL: "https://www.franciscanmedia.org/blessed-bartholomew-of-vicenza/", saintDate: "27-10"),
+                             "27-10" : Days(title: "Pope John Paul II once said, \"Life is entrusted to man as a treasure which must not be squandered, as a talent which must be used well.\"", reflection: "", url: "64", saint: "Blessed Bartholomew of Vicenza: 10/27", saintURL: "https://www.franciscanmedia.org/blessed-bartholomew-of-vicenza/", saintDate: "27-10"),
 
 
-                             "28-10" : Days(title: "", reflection: "", url: "65", saint: "Saints Simon and Jude: 10/28", saintURL: "https://www.franciscanmedia.org/saints-simon-and-jude/", saintDate: "28-10"),
+                             "28-10" : Days(title: "Pope John Paul II reminds us, \"Love demands a personal commitment to the will of God.\"", reflection: "", url: "65", saint: "Saints Simon and Jude: 10/28", saintURL: "https://www.franciscanmedia.org/saints-simon-and-jude/", saintDate: "28-10"),
 
 
-                             "29-10" : Days(title: "", reflection: "", url: "66", saint: "Saint Narcissus of Jerusalem: 10/29", saintURL: "https://www.franciscanmedia.org/saint-narcissus-of-jerusalem/", saintDate: "29-10"),
+                             "29-10" : Days(title: "Pope John Paul II tells us, \"Each individual in fact has moral responsibility for the acts which he personally performs; no one can be exempted from this responsibility, and on the basis of it everyone will be judged by God himself.\"", reflection: "", url: "66", saint: "Saint Narcissus of Jerusalem: 10/29", saintURL: "https://www.franciscanmedia.org/saint-narcissus-of-jerusalem/", saintDate: "29-10"),
 
 
-                             "30-10" : Days(title: "", reflection: "", url: "67", saint: "Saint Alphonsus Rodriguez: 10/30", saintURL: "https://www.franciscanmedia.org/saint-alphonsus-rodriguez/", saintDate: "30-10"),
+                             "30-10" : Days(title: "Pope John Paul II reminds us, \"From this moment on, live the Eucharist fully; be persons for whom the Holy Mass, Communion, and Eucharistic adoration are the center and summit of their whole life.\"", reflection: "", url: "67", saint: "Saint Alphonsus Rodriguez: 10/30", saintURL: "https://www.franciscanmedia.org/saint-alphonsus-rodriguez/", saintDate: "30-10"),
 
 
-                             "31-10" : Days(title: "", reflection: "", url: "68", saint: "Saint Wolfgang of Regensburg: 10/31", saintURL: "https://www.franciscanmedia.org/saint-wolfgang-of-regensburg/", saintDate: "31-10"),
+                             "31-10" : Days(title: "Pope John Paul II reminds us, \"Offer Christ your heart in meditation and personal prayer which is the foundation of the spiritual life.\"", reflection: "", url: "68", saint: "Saint Wolfgang of Regensburg: 10/31", saintURL: "https://www.franciscanmedia.org/saint-wolfgang-of-regensburg/", saintDate: "31-10"),
 
 
 
@@ -1136,7 +1136,7 @@ class FirstViewController: UIViewController {
                              "30-11" : Days(title: "", reflection: "", url: "98", saint: "Saint Andrew: 11/30", saintURL: "https://www.franciscanmedia.org/saint-andrew/", saintDate: "30-11"),
 
 
-                             "31-11" : Days(title: "", reflection: "", url: "99", saint: "", saintURL: "", saintDate: "31-11"),
+                             "31-11" : Days(title: "Pope John Paul II once said, \"The animals possess a soul and men must love and feel solidarity with our smaller brethren. All animals are fruit of the creative action of the Holy Spirit and merit respect and they are as near to God as men are.\"", reflection: "", url: "99", saint: "", saintURL: "", saintDate: "31-11"),
 
 
 
