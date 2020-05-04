@@ -11,11 +11,12 @@ let imageCache = NSCache<NSString, UIImage>()
 extension Date {
     static var yesterday: Date { return Date().dayBefore }
     static var tomorrow:  Date { return Date().dayAfter }
+    
     var dayBefore: Date {
-        return Calendar.current.date(byAdding: .day, value: -1, to: noon)!
+        return Calendar.current.date(byAdding: .day, value: -1, to: DesiredDate.shared.stringGlobalDate_)!
     }
     var dayAfter: Date {
-        return Calendar.current.date(byAdding: .day, value: 1, to: noon)!
+        return Calendar.current.date(byAdding: .day, value: 1, to: DesiredDate.shared.stringGlobalDate_)!
     }
     var noon: Date {
         return Calendar.current.date(bySettingHour: 12, minute: 0, second: 0, of: self)!
@@ -62,8 +63,10 @@ extension UIImageView {
         }).resume()
     }
 }
+
 class FirstViewController: UIViewController {
-    
+        
+    @IBOutlet weak var dateLabel: UILabel!
     
     @IBOutlet weak var reflectonLabel: UILabel!
     
@@ -1235,15 +1238,19 @@ class FirstViewController: UIViewController {
                              "31-12" : Days(title: "Pope John Paul II tells us, \"None of us is alone in this world; each of us is a vital piece of the great mosaic of humanity as a whole.\"", reflection: "", url: "9", saint: "Saint Sylvester I: 12/31", saintURL: "https://www.franciscanmedia.org/saint-sylvester-i/", saintDate: "31-12"),
 
                      ]
-        
+        DesiredDate.shared.stringGlobalDate_ = Date()
+        print(formatDate(date: DesiredDate.shared.stringGlobalDate_) + " is current string global date")
         mainImage.image = UIImage(named: daysOfTheYear["Days"]?[formatDate(date: Date())]?.url ?? " ")
         quoteLabel.sizeToFit()
         quoteLabel.text = daysOfTheYear["Days"]?[formatDate(date: Date())]?.title
         reflectonLabel.sizeToFit()
         reflectonLabel.text = daysOfTheYear["Days"]?[formatDate(date: Date())]?.reflection
+        dateLabel.sizeToFit()
+        dateLabel.text = formatDate2(date: DesiredDate.shared.stringGlobalDate_)
     }
     
     @IBAction func todayAction(_ sender: UIButton) {
+        DesiredDate.shared.stringGlobalDate_ = Date()
         let currentGlobal = DesiredDate.shared.globalDate
         if(currentGlobal != formatDate(date: Date())){
             print("not equal")
@@ -1255,26 +1262,35 @@ class FirstViewController: UIViewController {
         quoteLabel.text = daysOfTheYear["Days"]?[newDate]?.title
         reflectonLabel.sizeToFit()
         reflectonLabel.text = daysOfTheYear["Days"]?[newDate]?.reflection
+        dateLabel.text = formatDate2(date: DesiredDate.shared.stringGlobalDate_)
     }
     
     @IBAction func previousDayAction(_ sender: UIButton) {
         DesiredDate.shared.globalDate = formatDate(date: Date.yesterday)
+        DesiredDate.shared.globalDate2 = formatDate2(date: Date.yesterday)
+
+        dateLabel.text = DesiredDate.shared.globalDate2
         let newDate = DesiredDate.shared.globalDate
         mainImage.image = UIImage(named: daysOfTheYear["Days"]?[newDate]?.url ?? " ")
         quoteLabel.sizeToFit()
         quoteLabel.text = daysOfTheYear["Days"]?[newDate]?.title
         reflectonLabel.sizeToFit()
         reflectonLabel.text = daysOfTheYear["Days"]?[newDate]?.reflection
+        DesiredDate.shared.stringGlobalDate_ = Calendar.current.date(byAdding: .day, value: -1, to: DesiredDate.shared.stringGlobalDate_)!
     }
     
     @IBAction func nextDayAction(_ sender: UIButton) {
         DesiredDate.shared.globalDate = formatDate(date: Date.tomorrow)
+        DesiredDate.shared.globalDate2 = formatDate2(date: Date.tomorrow)
+        
+        dateLabel.text = DesiredDate.shared.globalDate2
         let newDate = DesiredDate.shared.globalDate
         mainImage.image = UIImage(named: daysOfTheYear["Days"]?[newDate]?.url ?? " ")
         quoteLabel.sizeToFit()
         quoteLabel.text = daysOfTheYear["Days"]?[newDate]?.title
         reflectonLabel.sizeToFit()
         reflectonLabel.text = daysOfTheYear["Days"]?[newDate]?.reflection
+        DesiredDate.shared.stringGlobalDate_ = Calendar.current.date(byAdding: .day, value: 1, to: DesiredDate.shared.stringGlobalDate_)!
     }
     
 //    func formatDate(date: Date) -> String {
