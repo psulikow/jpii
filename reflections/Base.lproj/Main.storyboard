@@ -259,15 +259,15 @@
                                 </constraints>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WTw-XO-37N">
-                                <rect key="frame" x="137" y="588" width="101" height="30"/>
-                                <state key="normal" title="Click to launch"/>
+                                <rect key="frame" x="127.5" y="568" width="122" height="30"/>
+                                <state key="normal" title="Click to visit Saint"/>
                                 <connections>
                                     <action selector="clickForSaint:" destination="yKI-dU-67a" eventType="touchUpInside" id="27Q-Tl-bjg"/>
                                     <segue destination="07I-uE-bcs" kind="show" identifier="saints" id="2d0-Tu-K3i"/>
                                 </connections>
                             </button>
                             <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Axe-Im-g3b">
-                                <rect key="frame" x="0.0" y="414" width="375" height="175"/>
+                                <rect key="frame" x="0.0" y="397" width="375" height="175"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="80" id="Dif-P2-sM2">
                                         <variation key="heightClass=compact-widthClass=compact" constant="80"/>
@@ -285,18 +285,27 @@
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Please select your desired Saint and then click below to learn more about them." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E0v-5U-zy6">
+                                <rect key="frame" x="16" y="302" width="342" height="41"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="w0r-Pk-uuU" firstAttribute="top" secondItem="hXR-Oe-L6k" secondAttribute="bottom" constant="8" id="7Kg-5I-VW4"/>
-                            <constraint firstItem="WTw-XO-37N" firstAttribute="centerX" secondItem="kBv-nY-1OB" secondAttribute="centerX" id="BjJ-i7-DB9"/>
+                            <constraint firstItem="WTw-XO-37N" firstAttribute="centerX" secondItem="kBv-nY-1OB" secondAttribute="centerX" constant="1" id="BjJ-i7-DB9"/>
+                            <constraint firstItem="E0v-5U-zy6" firstAttribute="top" secondItem="w0r-Pk-uuU" secondAttribute="bottom" constant="8" id="Ffg-DJ-nZg"/>
                             <constraint firstItem="Axe-Im-g3b" firstAttribute="leading" secondItem="lrL-2g-vgF" secondAttribute="leading" id="G0M-BR-6w7"/>
+                            <constraint firstItem="lrL-2g-vgF" firstAttribute="trailing" secondItem="E0v-5U-zy6" secondAttribute="trailing" constant="17" id="K5W-qk-jUU"/>
                             <constraint firstItem="Axe-Im-g3b" firstAttribute="trailing" secondItem="lrL-2g-vgF" secondAttribute="trailing" id="NtJ-T9-Sv3"/>
                             <constraint firstItem="lrL-2g-vgF" firstAttribute="trailing" secondItem="hXR-Oe-L6k" secondAttribute="trailing" constant="17" id="R1v-HW-YG0"/>
                             <constraint firstItem="hXR-Oe-L6k" firstAttribute="top" secondItem="lrL-2g-vgF" secondAttribute="top" constant="20" id="R7R-Rh-XeJ"/>
-                            <constraint firstItem="lrL-2g-vgF" firstAttribute="bottom" secondItem="WTw-XO-37N" secondAttribute="bottom" id="c4U-yR-Vq7"/>
-                            <constraint firstItem="WTw-XO-37N" firstAttribute="top" secondItem="Axe-Im-g3b" secondAttribute="bottom" constant="-1" id="ftd-lg-bip"/>
+                            <constraint firstItem="lrL-2g-vgF" firstAttribute="bottom" secondItem="WTw-XO-37N" secondAttribute="bottom" constant="20" id="c4U-yR-Vq7"/>
+                            <constraint firstItem="WTw-XO-37N" firstAttribute="top" secondItem="Axe-Im-g3b" secondAttribute="bottom" constant="-4" id="ftd-lg-bip"/>
                             <constraint firstItem="lrL-2g-vgF" firstAttribute="trailing" secondItem="w0r-Pk-uuU" secondAttribute="trailing" constant="16" id="fvS-7t-hXc"/>
+                            <constraint firstItem="E0v-5U-zy6" firstAttribute="leading" secondItem="lrL-2g-vgF" secondAttribute="leading" constant="16" id="lDY-1z-Sho"/>
                             <constraint firstItem="hXR-Oe-L6k" firstAttribute="leading" secondItem="lrL-2g-vgF" secondAttribute="leading" constant="16" id="lXX-X6-N2V"/>
                             <constraint firstItem="w0r-Pk-uuU" firstAttribute="leading" secondItem="lrL-2g-vgF" secondAttribute="leading" constant="17" id="x5n-43-Tw7"/>
                         </constraints>
