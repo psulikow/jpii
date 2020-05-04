@@ -259,7 +259,8 @@
                                 </constraints>
                             </imageView>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="WTw-XO-37N">
-                                <rect key="frame" x="127.5" y="568" width="122" height="30"/>
+                                <rect key="frame" x="111.5" y="562" width="154" height="36"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="20"/>
                                 <state key="normal" title="Click to visit Saint"/>
                                 <connections>
                                     <action selector="clickForSaint:" destination="yKI-dU-67a" eventType="touchUpInside" id="27Q-Tl-bjg"/>
@@ -267,7 +268,7 @@
                                 </connections>
                             </button>
                             <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Axe-Im-g3b">
-                                <rect key="frame" x="0.0" y="397" width="375" height="175"/>
+                                <rect key="frame" x="0.0" y="391" width="375" height="175"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="80" id="Dif-P2-sM2">
                                         <variation key="heightClass=compact-widthClass=compact" constant="80"/>
