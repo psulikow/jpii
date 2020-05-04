@@ -69,8 +69,6 @@ let datez = [
 "27-02",
 "28-02",
 "29-02",
-"30-02",
-"31-02",
 "01-03",
 "02-03",
 "03-03",
@@ -100,8 +98,6 @@ let datez = [
 "27-03",
 "28-03",
 "29-03",
-"30-03",
-"31-03",
 "01-04",
 "02-04",
 "03-04",
@@ -132,7 +128,6 @@ let datez = [
 "28-04",
 "29-04",
 "30-04",
-"31-04",
 "01-05",
 "02-05",
 "03-05",
@@ -194,7 +189,6 @@ let datez = [
 "28-06",
 "29-06",
 "30-06",
-"31-06",
 "01-07",
 "02-07",
 "03-07",
@@ -287,7 +281,6 @@ let datez = [
 "28-09",
 "29-09",
 "30-09",
-"31-09",
 "01-10",
 "02-10",
 "03-10",
@@ -349,7 +342,6 @@ let datez = [
 "28-11",
 "29-11",
 "30-11",
-"31-11",
 "01-12",
 "02-12",
 "03-12",
@@ -392,6 +384,8 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        let indexOfDate = datez.firstIndex(of: formatDate(date: Date()))
+        saintPicker.selectRow(indexOfDate!, inComponent: 0, animated: true)
 
         // Do any additional setup after loading the view.
     }
@@ -409,7 +403,7 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
 //        present(alertController, animated: true, completion: nil)
         
         
-        
+        showPopup(message: "You are about to leave Reflections and proceed to Franciscan Media, would you still like to proceed?")
     }
     
     /*
@@ -437,11 +431,29 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
         return daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saint
     }
     
-    func pickerView(_ pickerView: UIPickerView, attributedTitleForRow row: Int, forComponent component: Int) -> NSAttributedString? {
-        DateFromRow.shared.globalDateFromRow = datez[row]
-        return NSAttributedString(string: (daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]!.saint)!, attributes: [NSAttributedString.Key.foregroundColor:UIColor.white])
-    }
+//old way
+//    func pickerView(_ pickerView: UIPickerView, attributedTitleForRow row: Int, forComponent component: Int) -> NSAttributedString? {
+//        DateFromRow.shared.globalDateFromRow = datez[row]
+//        return NSAttributedString(string: (daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]!.saint)!, attributes: [NSAttributedString.Key.foregroundColor:UIColor.white])
+//    }
 
+    //new way to manipulate picker text
+    func pickerView(_ pickerView: UIPickerView, viewForRow row: Int, forComponent component: Int, reusing view: UIView?) -> UIView {
+
+      DateFromRow.shared.globalDateFromRow = datez[row]
+      var title = UILabel()
+         if let view = view {
+                title = view as! UILabel
+          }
+        title.font = UIFont.systemFont(ofSize: 17, weight: UIFont.Weight.bold)
+        title.textColor = UIColor.white
+        title.text =  (daysOfTheYear["Days"]![DateFromRow.shared.globalDateFromRow]?.saint)
+        title.textAlignment = .center
+
+    return title
+
+    }
+    
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 
         if let target = segue.destination as? SegueOneViewController {
@@ -449,4 +461,20 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
         }
     }
     
+    func showPopup(message: String) {
+        
+        let title = "Leaving Reflections..."
+        
+        let alertController = UIAlertController(title: title, message: message, preferredStyle: .actionSheet)
+        
+        let cancelAction = UIAlertAction(title: "Cancel", style: .destructive, handler: nil)
+        
+        
+        let continueAction = UIAlertAction(title: "Continue", style: .default, handler: { action in self.performSegue(withIdentifier: "saints", sender:daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintURL) })
+        
+        alertController.addAction(continueAction)
+        alertController.addAction(cancelAction)
+
+        present(alertController, animated: true, completion: nil)
+    }
 }

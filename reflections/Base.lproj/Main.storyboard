@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="15705" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="49e-Tb-3d3">
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.Storyboard.XIB" version="3.0" toolsVersion="16096" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES" initialViewController="49e-Tb-3d3">
     <device id="retina4_7" orientation="portrait" appearance="light"/>
     <dependencies>
-        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="15706"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="16087"/>
         <capability name="Safe area layout guides" minToolsVersion="9.0"/>
         <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
     </dependencies>
@@ -10,7 +10,7 @@
         <!--Contact Us-->
         <scene sceneID="DV6-rU-aYa">
             <objects>
-                <viewController id="FI2-JD-mbS" customClass="ContactViewController" customModule="reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="FI2-JD-mbS" customClass="ContactViewController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="zLA-XK-ddk">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -24,7 +24,7 @@
                                     <constraint firstAttribute="height" constant="36" id="EWh-Vg-nZX"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="30"/>
-                                <nil key="textColor"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8hf-2c-nGd">
@@ -74,7 +74,7 @@
         <!--Reflections-->
         <scene sceneID="hNz-n2-bh7">
             <objects>
-                <viewController id="9pv-A4-QxB" customClass="FirstViewController" customModule="reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="9pv-A4-QxB" customClass="FirstViewController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tsR-hK-woN">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -181,7 +181,7 @@
         <!--Bio-->
         <scene sceneID="wg7-f3-ORb">
             <objects>
-                <viewController id="8rJ-Kc-sve" customClass="SecondViewController" customModule="reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="8rJ-Kc-sve" customClass="SecondViewController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="QS5-Rx-YEW">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -225,7 +225,7 @@
         <!--Saints-->
         <scene sceneID="uVy-Kj-dhv">
             <objects>
-                <viewController id="yKI-dU-67a" customClass="SaintsViewController" customModule="reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="yKI-dU-67a" customClass="SaintsViewController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="kBv-nY-1OB">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -244,7 +244,7 @@
                                 <state key="normal" title="Click to launch"/>
                                 <connections>
                                     <action selector="clickForSaint:" destination="yKI-dU-67a" eventType="touchUpInside" id="27Q-Tl-bjg"/>
-                                    <segue destination="07I-uE-bcs" kind="show" id="2d0-Tu-K3i"/>
+                                    <segue destination="07I-uE-bcs" kind="show" identifier="saints" id="2d0-Tu-K3i"/>
                                 </connections>
                             </button>
                             <pickerView contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="Axe-Im-g3b">
@@ -260,9 +260,16 @@
                                     <outlet property="delegate" destination="yKI-dU-67a" id="rrw-Br-Qdc"/>
                                 </connections>
                             </pickerView>
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="&quot;Do not be afraid to be the Saints of the new millennium!&quot;| St. John Paul II" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="w0r-Pk-uuU">
+                                <rect key="frame" x="17" y="253" width="342" height="41"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
+                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+                                <nil key="highlightedColor"/>
+                            </label>
                         </subviews>
                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
+                            <constraint firstItem="w0r-Pk-uuU" firstAttribute="top" secondItem="hXR-Oe-L6k" secondAttribute="bottom" constant="8" id="7Kg-5I-VW4"/>
                             <constraint firstItem="WTw-XO-37N" firstAttribute="centerX" secondItem="kBv-nY-1OB" secondAttribute="centerX" id="BjJ-i7-DB9"/>
                             <constraint firstItem="Axe-Im-g3b" firstAttribute="leading" secondItem="lrL-2g-vgF" secondAttribute="leading" id="G0M-BR-6w7"/>
                             <constraint firstItem="Axe-Im-g3b" firstAttribute="trailing" secondItem="lrL-2g-vgF" secondAttribute="trailing" id="NtJ-T9-Sv3"/>
@@ -270,7 +277,9 @@
                             <constraint firstItem="hXR-Oe-L6k" firstAttribute="top" secondItem="lrL-2g-vgF" secondAttribute="top" constant="20" id="R7R-Rh-XeJ"/>
                             <constraint firstItem="lrL-2g-vgF" firstAttribute="bottom" secondItem="WTw-XO-37N" secondAttribute="bottom" id="c4U-yR-Vq7"/>
                             <constraint firstItem="WTw-XO-37N" firstAttribute="top" secondItem="Axe-Im-g3b" secondAttribute="bottom" constant="-1" id="ftd-lg-bip"/>
+                            <constraint firstItem="lrL-2g-vgF" firstAttribute="trailing" secondItem="w0r-Pk-uuU" secondAttribute="trailing" constant="16" id="fvS-7t-hXc"/>
                             <constraint firstItem="hXR-Oe-L6k" firstAttribute="leading" secondItem="lrL-2g-vgF" secondAttribute="leading" constant="16" id="lXX-X6-N2V"/>
+                            <constraint firstItem="w0r-Pk-uuU" firstAttribute="leading" secondItem="lrL-2g-vgF" secondAttribute="leading" constant="17" id="x5n-43-Tw7"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="lrL-2g-vgF"/>
                     </view>
@@ -281,12 +290,12 @@
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="3Tn-MN-ikh" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
             </objects>
-            <point key="canvasLocation" x="1573.125" y="-513.38028169014081"/>
+            <point key="canvasLocation" x="1572" y="-514.09295352323841"/>
         </scene>
         <!--Segue One View Controller-->
         <scene sceneID="1A9-ag-dx8">
             <objects>
-                <viewController id="07I-uE-bcs" customClass="SegueOneViewController" customModule="reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="07I-uE-bcs" customClass="SegueOneViewController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="OIP-Fh-fc1">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="647"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -330,7 +339,7 @@
         <!--My Tab Bar Controller-->
         <scene sceneID="yl2-sM-qoP">
             <objects>
-                <tabBarController id="49e-Tb-3d3" customClass="MyTabBarController" customModule="reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <tabBarController id="49e-Tb-3d3" customClass="MyTabBarController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" translucent="NO" id="W28-zg-YXA">
                         <rect key="frame" x="0.0" y="975" width="768" height="49"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
@@ -352,11 +361,11 @@
     </scenes>
     <resources>
         <image name="arms" width="495" height="600"/>
-        <image name="book" catalog="system" width="64" height="50"/>
-        <image name="envelope" catalog="system" width="32" height="32"/>
+        <image name="book" catalog="system" width="128" height="101"/>
+        <image name="envelope" catalog="system" width="128" height="93"/>
         <image name="family" width="982" height="991"/>
-        <image name="lightbulb" catalog="system" width="56" height="64"/>
-        <image name="person.3" catalog="system" width="72" height="35"/>
+        <image name="lightbulb" catalog="system" width="113" height="128"/>
+        <image name="person.3" catalog="system" width="128" height="62"/>
         <image name="saints" width="1200" height="630"/>
     </resources>
 </document>

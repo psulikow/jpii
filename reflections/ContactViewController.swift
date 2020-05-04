@@ -22,7 +22,7 @@ class ContactViewController: UIViewController {
     
     @IBAction func contactAction(_ sender: UIButton) {
         
-        let supportEmail = "abc@xyz.com"
+        let supportEmail = "sulpaumic@gmail.com"
         if let emailURL = URL(string: "mailto:\(supportEmail)"), UIApplication.shared.canOpenURL(emailURL)
         {
             UIApplication.shared.open(emailURL, options: [:], completionHandler: nil)
