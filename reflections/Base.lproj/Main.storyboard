@@ -30,7 +30,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8hf-2c-nGd">
                                 <rect key="frame" x="20" y="64" width="339" height="507"/>
                                 <string key="text">Reflections with JPII was an idea conceived years ago.  Our mission is to bring the life of this great Saint to others through his quotes and visual represntations of his life.  Without judgemnet or enmity we also offer up a daily reflection for our readers to ponder.  On behalf of reflections with JPII we invite you to contact us by clicking the link below.  We are continually looking to not only improve our own lives but also the appearance and content of this application.  God Bless. </string>
-                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
@@ -121,6 +121,7 @@
                                                 <constraints>
                                                     <constraint firstAttribute="height" constant="55" id="ef9-gz-tEr"/>
                                                 </constraints>
+                                                <fontDescription key="fontDescription" type="boldSystem" pointSize="25"/>
                                                 <state key="normal" title="Today">
                                                     <color key="titleColor" systemColor="linkColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
                                                 </state>
@@ -213,7 +214,7 @@
                                 <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <string key="text">St. John Paul II, Latin Johannes Paulus, original name Karol Józef Wojtyła, (born May 18, 1920, Wadowice, Poland—died April 2, 2005, Vatican City; beatified May 1, 2011; canonized April 27, 2014; feast day October 22), the bishop of Rome and head of the Roman Catholic Church (1978–2005), the first non-Italian pope in 455 years and the first from a Slavic country. His pontificate of more than 26 years was the third longest in history. As part of his effort to promote greater understanding between nations and between religions, he undertook numerous trips abroad, traveling far greater distances than had all other popes combined, and he extended his influence beyond the church by campaigning against political oppression and criticizing the materialism of the West. He also issued several unprecedented apologies to groups that historically had been wronged by Catholics, most notably Jews and Muslims. His unabashed Polish nationalism and his emphasis on nonviolent political activism aided the Solidarity movement in communist Poland in the 1980s and ultimately contributed to the peaceful dissolution of the Soviet Union in 1991. More generally, John Paul used his influence among Catholics and throughout the world to advance the recognition of human dignity and to deter the use of violence. His centralized style of church governance, however, dismayed some members of the clergy, who found it autocratic and stifling. He failed to reverse an overall decline in the numbers of priests and nuns, and his traditional interpretations of church teachings on personal and sexual morality alienated some segments of the laity.</string>
                                 <color key="textColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue-Bold" family="Helvetica Neue" pointSize="17"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="family" translatesAutoresizingMaskIntoConstraints="NO" id="DiB-77-THk">
