@@ -954,13 +954,13 @@ class FirstViewController: UIViewController {
                  "30-09" : Days(title: "Pope John Paul II once said, \"With the Rosary, the Christian people sits at the school of Mary and is led to contemplate the beauty on the face of Christ and to experience the depths of his love.\"", reflection: "", url: "36", saint: "Saint Jerome: 09/30", saintURL: "https://www.franciscanmedia.org/saint-jerome/", saintDate: "30-09"),
 
 
-                 "31-09" : Days(title: "Pope John Paul II reminds us, \"Beneath the Sacred Host, Christ is contained, the Redeemer of the world\"", reflection: "", url: "37", saint: "", saintURL: "", saintDate: "31-09"),
+                 "31-09" : Days(title: "Pope John Paul II reminds us, \"Beneath the Sacred Host, Christ is contained, the Redeemer of the world\"", reflection: "Has Christ redemed you from anything, give thanks to God.", url: "37", saint: "", saintURL: "", saintDate: "31-09"),
 
 
 
 
 
-                 "01-10" : Days(title: "Pope John Paul II told us, \"Where, if not in the Divine Mercy, can the world find refuge and the light of hope?\"", reflection: "", url: "38", saint: "Saint Thérèse of Lisieux: 10/01", saintURL: "https://www.franciscanmedia.org/saint-theresa-of-the-child-jesus/", saintDate: "01-10"),
+                 "01-10" : Days(title: "Pope John Paul II told us, \"Where, if not in the Divine Mercy, can the world find refuge and the light of hope?\"", reflection: "Have you ever recited the Chaplet of Divine Mercy? If not, I invite you to research it.", url: "38", saint: "Saint Thérèse of Lisieux: 10/01", saintURL: "https://www.franciscanmedia.org/saint-theresa-of-the-child-jesus/", saintDate: "01-10"),
 
 
                  "02-10" : Days(title: "Pope John Paul II once said, \"The Gospel lives in conversation with culture, and if the Church holds back from the culture, the Gospel itself falls silent. Therefore, we must be fearless in crossing the threshold of the communication and information revolution now taking place.\"", reflection: "", url: "39", saint: "Feast of the Guardian Angels: 10/02", saintURL: "https://www.franciscanmedia.org/feasaint-of-the-guardian-angels/", saintDate: "02-10"),
@@ -969,22 +969,22 @@ class FirstViewController: UIViewController {
                  "03-10" : Days(title: "Pope John Paul II reminds us, \"There is no place for selfishness-and no place for fear! Do not be afraid, then, when love makes demands. Do not be afraid when love requires sacrifice\"", reflection: "", url: "40", saint: "Saint Theodora Guérin: 10/03", saintURL: "https://www.franciscanmedia.org/saint-theodora-gu-eacute-rin/", saintDate: "03-10"),
 
 
-                 "04-10" : Days(title: "Pope John Paul II says, \"the path of goodness had a name it is called Love in it we find the key to every hope and has it's root in God Himself\"", reflection: "", url: "41", saint: "Saint Francis of Assisi: 10/04", saintURL: "https://www.franciscanmedia.org/saint-francis-of-assisi/", saintDate: "04-10"),
+                 "04-10" : Days(title: "Pope John Paul II says, \"the path of goodness had a name it is called Love in it we find the key to every hope and has it's root in God Himself\"", reflection: "Who do you love? Pray for the ones you love and even the ones you don't, eveyone needs God in their life!", url: "41", saint: "Saint Francis of Assisi: 10/04", saintURL: "https://www.franciscanmedia.org/saint-francis-of-assisi/", saintDate: "04-10"),
 
 
-                 "05-10" : Days(title: "", reflection: "", url: "42", saint: "Saint Maria Faustina Kowalska: 10/05", saintURL: "https://www.franciscanmedia.org/saint-maria-faustina-kowalska/", saintDate: "05-10"),
+                 "05-10" : Days(title: "Pope John Paul II reminds us, \"The cemetery of the victims of human cruelty in our century is extended to include yet another vast cemetery, that of the unborn.\"", reflection: "", url: "42", saint: "Saint Maria Faustina Kowalska: 10/05", saintURL: "https://www.franciscanmedia.org/saint-maria-faustina-kowalska/", saintDate: "05-10"),
 
 
-                 "06-10" : Days(title: "", reflection: "", url: "43", saint: "Saint Bruno: 10/06", saintURL: "https://www.franciscanmedia.org/saint-bruno/", saintDate: "06-10"),
+                 "06-10" : Days(title: "Pope John Paul II once said, \"We must guard the truth that is the condition of authentic freedom, the truth that allows freedoms to be fulfilled in goodness. We must guard the deposit of divine truth handed down to us.\"", reflection: "", url: "43", saint: "Saint Bruno: 10/06", saintURL: "https://www.franciscanmedia.org/saint-bruno/", saintDate: "06-10"),
 
 
-                 "07-10" : Days(title: "", reflection: "", url: "44", saint: "Our Lady of the Rosary: 10/07", saintURL: "https://www.franciscanmedia.org/our-lady-of-the-rosary/", saintDate: "07-10"),
+                 "07-10" : Days(title: "Pope John Paul II once said, \"The cemetery of the victims of human cruelty in our century is extended to include yet another vast cemetery, that of the unborn.\"", reflection: "What role does music play in your Christian life?", url: "44", saint: "Our Lady of the Rosary: 10/07", saintURL: "https://www.franciscanmedia.org/our-lady-of-the-rosary/", saintDate: "07-10"),
 
 
-                 "08-10" : Days(title: "On this day in 1995 Pope John Paul gave a homily in Orioles Park at Camden Yards.  One thing he said that we can relfect on is, \"It is important for America that the moral truths which make freedom possible should be passed on to each new generation. Every generation of Americans needs to know that freedom consists not in doing what we like, but in having the right to do what we ought. ... Christ asks us to guard the truth because, as he promised us: 'You will know the truth and the truth will make you free.' Depositum custodi! We must guard the truth that is the condition of authentic freedom, the truth that allows freedoms to be fulfilled in goodness. We must guard the deposit of divine truth handed down to us.\"", reflection: "", url: "45", saint: "Saint John Leonardi: 10/08", saintURL: "https://www.franciscanmedia.org/saint-john-leonardi/", saintDate: "08-10"),
+                 "08-10" : Days(title: "On this day in 1995 Pope John Paul gave a homily in Orioles Park at Camden Yards.  One thing he said that we can relfect on is, \"It is important for America that the moral truths which make freedom possible should be passed on to each new generation. Every generation of Americans needs to know that freedom consists not in doing what we like, but in having the right to do what we ought. ... Christ asks us to guard the truth because, as he promised us: 'You will know the truth and the truth will make you free.' Depositum custodi! \"", reflection: "", url: "45", saint: "Saint John Leonardi: 10/08", saintURL: "https://www.franciscanmedia.org/saint-john-leonardi/", saintDate: "08-10"),
 
 
-                 "09-10" : Days(title: "Pope John Paul II once said, \"The person who does not decide to love forever will find it very difficult to really love for even one day.\"", reflection: "", url: "46", saint: "Saint Denis and Companions: 10/09", saintURL: "https://www.franciscanmedia.org/saint-denis-and-companions/", saintDate: "09-10"),
+                 "09-10" : Days(title: "Pope John Paul II once said, \"The person who does not decide to love forever will find it very difficult to really love for even one day.\"", reflection: "This is quite powerful, pray that we all may find this type of joy in love", url: "46", saint: "Saint Denis and Companions: 10/09", saintURL: "https://www.franciscanmedia.org/saint-denis-and-companions/", saintDate: "09-10"),
 
 
                  "10-10" : Days(title: "Pope John Paul II reminds us, \"The future is in your hearts and in your hands. God is entrusting to you the task, at once difficult and uplifting, of working with Him in the building of the civilization of love.\"", reflection: "", url: "47", saint: "Saint Francis Borgia: 10/10", saintURL: "https://www.franciscanmedia.org/saint-francis-borgia/", saintDate: "10-10"),
