@@ -515,7 +515,7 @@ class FirstViewController: UIViewController {
                  "12-05" : Days(title: "Pope John Paul II once said, \"In the fulfillment of your duties, let your intentions be so pure that you reject from your actions any other motive than the glory of God and the salvation of souls.\"", reflection: "", url: "15", saint: "Saint Leopold Mandic : 05/12", saintURL: "https://www.franciscanmedia.org/saint-leopold-mandic/", saintDate: "12-05"),
 
 
-                 "13-05" : Days(title: "On this day in 1981 Pope John Paul II is shot by Turkish terrorist Mehmet Ali Agca. Pope John Paul II tells us, \"Dear young people of every language and culture, a high and exhilarating task awaits you: that of becoming men and women capable of solidarity, peace and love of life, with respect for everyone. Become craftsmen of a new humanity, where brothers and sisters - members all of the same family - are able at last to live in peace.\"", reflection: "How can we become craftsmen of a new humanity, we don't have to think big, usually some opportunities are right where we stand.", url: "111", saint: "Our Lady of Fatima : 05/13", saintURL: "https://www.franciscanmedia.org/our-lady-of-fatima/", saintDate: "13-05"),
+                 "13-05" : Days(title: "On this day in 1981 Pope John Paul II is shot by Turkish terrorist Mehmet Ali Agca. Pope John Paul II tells us, \"Dear young people of every language and culture, a high and exhilarating task awaits you: that of becoming men and women capable of solidarity, peace and love of life, with respect for everyone. Become craftsmen of a new humanity, where brothers and sisters - members all of the same family - are able at last to live in peace.\"", reflection: "", url: "111", saint: "Our Lady of Fatima : 05/13", saintURL: "https://www.franciscanmedia.org/our-lady-of-fatima/", saintDate: "13-05"),
 
 
                  "14-05" : Days(title: "Pope John Paul II once told us, \"Since Christ is the only way to the Father, in order to highlight His living and saving presence in the Church and the world, the International Eucharistic Congress will take place in Rome, on the occasion of the Great Jubilee. The Year 2000 will be intensely Eucharistic: in the Sacrament of the Eucharist the Savior, who took flesh in Mary's womb twenty centuries ago, continues to offer Himself to humanity as the source of Divine Life\"", reflection: "", url: "17", saint: "Saint Matthias : 05/14", saintURL: "https://www.franciscanmedia.org/saint-matthias/", saintDate: "14-05"),
@@ -1245,15 +1245,7 @@ class FirstViewController: UIViewController {
                  "31-12" : Days(title: "Pope John Paul II tells us, \"None of us is alone in this world; each of us is a vital piece of the great mosaic of humanity as a whole.\"", reflection: "", url: "9", saint: "Saint Sylvester I: 12/31", saintURL: "https://www.franciscanmedia.org/saint-sylvester-i/", saintDate: "31-12"),
 
          ]
-        DesiredDate.shared.stringGlobalDate_ = Date()
-        print(formatDate(date: DesiredDate.shared.stringGlobalDate_) + " is current string global date")
-        mainImage.image = UIImage(named: daysOfTheYear["Days"]?[formatDate(date: Date())]?.url ?? " ")
-        quoteLabel.sizeToFit()
-        quoteLabel.text = daysOfTheYear["Days"]?[formatDate(date: Date())]?.title
-        reflectonLabel.sizeToFit()
-        reflectonLabel.text = daysOfTheYear["Days"]?[formatDate(date: Date())]?.reflection
-        dateLabel.sizeToFit()
-        dateLabel.text = formatDate2(date: DesiredDate.shared.stringGlobalDate_)
+        performWhenLoadFirstTime()
     }
     
     @IBAction func todayAction(_ sender: UIButton) {
