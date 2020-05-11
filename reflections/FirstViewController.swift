@@ -864,7 +864,7 @@ class FirstViewController: UIViewController {
 
 
 
-                 "01-09" : Days(title: "Pope John Paul II reminds us, \"The cross means there is no shipwreck without hope; there is no dark without dawn; nor storm without haven.\"", reflection: "", url: "7", saint: "Saint Giles: 09/01", saintURL: "https://www.franciscanmedia.org/saint-giles/", saintDate: "01-09"),
+                 "01-09" : Days(title: "Pope John Paul II reminds us, \"The cross means there is no shipwreck without hope; there is no dark without dawn; nor storm without haven.\"", reflection: "What does the cross mean to you?", url: "7", saint: "Saint Giles: 09/01", saintURL: "https://www.franciscanmedia.org/saint-giles/", saintDate: "01-09"),
 
 
                  "02-09" : Days(title: "Pope John Paul II said once, \"God has, in fact, thought of us from eternity and has loved us as unique individuals. He has called every one of us by name, as the Good Shepherd 'calls His sheep by name.'\"", reflection: "", url: "8", saint: "Blessed John Francis Burté and Companions: 09/02", saintURL: "https://www.franciscanmedia.org/blessed-john-francis-burt-eacute-and-companions/", saintDate: "02-09"),
@@ -876,7 +876,7 @@ class FirstViewController: UIViewController {
                  "04-09" : Days(title: "Pope John Paul II tells us, \"Holiness is not reserved for a small number of exceptional persons. It is for everyone. It is the Lord who brings us to holiness when we are willing to collaborate in the salvation of the world for the glory of God, despite our sin and our sometimes rebellious temperament.\"", reflection: "", url: "10", saint: "Saint Rose of Viterbo: 09/04", saintURL: "https://www.franciscanmedia.org/saint-rose-of-viterbo/", saintDate: "04-09"),
 
 
-                 "05-09" : Days(title: "Pope John II once said, \"Pray and learn to pray! Deepen your knowledge of the Word of the Living God by reading and meditating on the Scriptures.\"", reflection: "", url: "11", saint: "Saint Teresa of Calcutta: 09/05", saintURL: "https://www.franciscanmedia.org/saint-teresa-of-calcutta/", saintDate: "05-09"),
+                 "05-09" : Days(title: "Pope John II once said, \"Pray and learn to pray! Deepen your knowledge of the Word of the Living God by reading and meditating on the Scriptures.\"", reflection: "Have you tried to make a commitment to read from the bible each day?", url: "11", saint: "Saint Teresa of Calcutta: 09/05", saintURL: "https://www.franciscanmedia.org/saint-teresa-of-calcutta/", saintDate: "05-09"),
 
 
                  "06-09" : Days(title: "Pope John Paul II once said, \"Mary is the sure path to our meeting with Christ. Devotion to the Mother of the Lord, when it is genuine, is always an impetus to a life guided by the spirit and values of the Gospel.\"", reflection: "", url: "12", saint: "Blessed Claudio Granzotto: 09/06", saintURL: "https://www.franciscanmedia.org/blessed-claudio-granzotto/", saintDate: "06-09"),
@@ -888,13 +888,13 @@ class FirstViewController: UIViewController {
                  "08-09" : Days(title: "Pope John Paul II once said' \"The Lord has given you a heart open to great horizons; do not be afraid to commit your life completely to the service of Christ and His Gospel! Listen to Him as He says again today: 'The harvest is abundant, but the laborers are few.\"", reflection: "", url: "14", saint: "Nativity of the Blessed Virgin Mary: 09/08", saintURL: "https://www.franciscanmedia.org/nativity-of-the-blessed-virgin-mary/", saintDate: "08-09"),
 
 
-                 "09-09" : Days(title: "Pope John Paul II tells us, \"We must reflect the light of Christ through lives of prayer and joyful service to others.\"", reflection: "", url: "15", saint: "Saint Peter Claver: 09/09", saintURL: "https://www.franciscanmedia.org/saint-peter-claver/", saintDate: "09-09"),
+                 "09-09" : Days(title: "Pope John Paul II tells us, \"We must reflect the light of Christ through lives of prayer and joyful service to others.\"", reflection: "It is important for us to realize that actions speak louder than words.", url: "15", saint: "Saint Peter Claver: 09/09", saintURL: "https://www.franciscanmedia.org/saint-peter-claver/", saintDate: "09-09"),
 
 
                  "10-09" : Days(title: "Pope John Paul II once said, \"The Eucharist is the secret of my day. It gives strength and meaning to all my activities of service to the Church and to the whole world. . . . Let Jesus in the Blessed Sacrament speak to your hearts. It is he who is the true answer of life that you seek. He stays here with us: he is God with us. Seek him without tiring, welcome him without reserve, love him without interruption: today, tomorrow, forever.\"", reflection: "", url: "16", saint: "Saint Thomas of Villanova: 09/10", saintURL: "https://www.franciscanmedia.org/saint-thomas-of-villanova/", saintDate: "10-09"),
 
 
-                 "11-09" : Days(title: "Pope John Paul II once said, \"War should belong to the tragic past, to history: it should find no place on humanity's agenda for the future.\"", reflection: "", url: "17", saint: "Saint Cyprian: 09/11", saintURL: "https://www.franciscanmedia.org/saint-cyprian/", saintDate: "11-09"),
+                 "11-09" : Days(title: "Pope John Paul II once said, \"War should belong to the tragic past, to history: it should find no place on humanity's agenda for the future.\"", reflection: "Take a moment to pray for anyone you know that has been impacted by war.", url: "17", saint: "Saint Cyprian: 09/11", saintURL: "https://www.franciscanmedia.org/saint-cyprian/", saintDate: "11-09"),
 
 
                  "12-09" : Days(title: "Pope John Paul reminds us, \"From the Eucharist comes strength to live the Christian life and zeal to share that life with others\"", reflection: "", url: "18", saint: "Most Holy Name of the Blessed Virgin Mary: 09/12", saintURL: "https://www.franciscanmedia.org/mosaint-holy-name-of-the-blessed-virgin-mary/", saintDate: "12-09"),
@@ -918,7 +918,7 @@ class FirstViewController: UIViewController {
                  "18-09" : Days(title: "Pope John Paul II once said, \"We can pray perfectly when we are out in the mountains or on a lake and we feel at one with nature. Nature speaks for us or rather speaks to us. We pray perfectly.\"", reflection: "Nature is one of Gods gifts to us. Even if we are not in the mountains or in a forest walkng along a path we can still pray and meditate becuase nature is always around us in many other ways.", url: "24", saint: "Saint Joseph of Cupertino: 09/18", saintURL: "https://www.franciscanmedia.org/saint-joseph-of-cupertino/", saintDate: "18-09"),
 
 
-                 "19-09" : Days(title: "Pope John Paul II reminds us, \"Through the Rosary the faithful receive abundant grace, as though from the very hands of the Mother of the Redeemer.\"", reflection: "", url: "25", saint: "Saint Januarius: 09/19", saintURL: "https://www.franciscanmedia.org/saint-januarius/", saintDate: "19-09"),
+                 "19-09" : Days(title: "Pope John Paul II reminds us, \"Through the Rosary the faithful receive abundant grace, as though from the very hands of the Mother of the Redeemer.\"", reflection: "How is the rosary giving you an abundance of grace?", url: "25", saint: "Saint Januarius: 09/19", saintURL: "https://www.franciscanmedia.org/saint-januarius/", saintDate: "19-09"),
 
 
                  "20-09" : Days(title: "Pope John Paul II once said, \"The Mother of Christ, who stands at the very center of this mystery...is given as mother to every single individual and all mankind.\"", reflection: "", url: "26", saint: "Saints Andrew Kim Taegon, Paul Chong Hasang, and Companions: 09/20", saintURL: "https://www.franciscanmedia.org/saints-andrew-kim-taegon-paul-chong-hasang-and-companions/", saintDate: "20-09"),
@@ -942,7 +942,7 @@ class FirstViewController: UIViewController {
                  "26-09" : Days(title: "Pope John Paul II tells us, \"Love of Christ does not distract us from interest in others, but rather invites us to responsibility for them, to the exclusion of no one...\"", reflection: "", url: "32", saint: "Saint Paul VIL 09/26", saintURL: "https://www.franciscanmedia.org/saint-paul-vi/", saintDate: "26-09"),
 
 
-                 "27-09" : Days(title: "Pope John Paul II reminds us, \"Violence is a crime against humanity, for it destroys the very fabric of society.\"", reflection: "", url: "33", saint: "Saint Vincent de Paul: 09/27", saintURL: "https://www.franciscanmedia.org/saint-vincent-de-paul/", saintDate: "27-09"),
+                 "27-09" : Days(title: "Pope John Paul II reminds us, \"Violence is a crime against humanity, for it destroys the very fabric of society.\"", reflection: "Let us take a moment to pray for people impacted by violence.", url: "33", saint: "Saint Vincent de Paul: 09/27", saintURL: "https://www.franciscanmedia.org/saint-vincent-de-paul/", saintDate: "27-09"),
 
 
                  "28-09" : Days(title: "On this day in 1958, Karol Wojtyla is ordained auxiliary Bishop of Krakow. Pope John Paul II once said, \"Christ remains primary in your life only when he enjoys the first place in your mind and heart. Thus you must continuously unite yourself to him in prayer.... Without prayer there can be no joy, no hope, no peace. For prayer is what keeps us in touch with Christ.\"", reflection: "", url: "34", saint: "Saint Wenceslaus: 09/28", saintURL: "https://www.franciscanmedia.org/saint-wenceslaus/", saintDate: "28-09"),
