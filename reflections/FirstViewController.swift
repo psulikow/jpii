@@ -86,8 +86,8 @@ class FirstViewController: UIViewController {
         super.viewDidLoad()
         // Do any additional setup after loading the view.
                 
-        observer = NotificationCenter.default.addObserver(forName: UIApplication.willEnterForegroundNotification, object: nil, queue: .main) { [unowned self] notification in
-            DesiredDate.shared.stringGlobalDate_ = Date()
+        observer = NotificationCenter.default.addObserver(forName: UIApplication.didEnterBackgroundNotification, object: nil, queue: .main) { [unowned self] notification in
+            self.performWhenLoadFirstTime()
         }
         
         daysOfTheYear["Days"] = [
@@ -1304,6 +1304,18 @@ class FirstViewController: UIViewController {
         if let observer = observer {
             NotificationCenter.default.removeObserver(observer)
         }
+    }
+    
+    func performWhenLoadFirstTime(){
+        DesiredDate.shared.stringGlobalDate_ = Date()
+        print(formatDate(date: DesiredDate.shared.stringGlobalDate_) + " is current string global date")
+        mainImage.image = UIImage(named: daysOfTheYear["Days"]?[formatDate(date: Date())]?.url ?? " ")
+        quoteLabel.sizeToFit()
+        quoteLabel.text = daysOfTheYear["Days"]?[formatDate(date: Date())]?.title
+        reflectonLabel.sizeToFit()
+        reflectonLabel.text = daysOfTheYear["Days"]?[formatDate(date: Date())]?.reflection
+        dateLabel.sizeToFit()
+        dateLabel.text = formatDate2(date: DesiredDate.shared.stringGlobalDate_)
     }
     
 //    func formatDate(date: Date) -> String {
