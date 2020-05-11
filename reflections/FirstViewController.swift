@@ -269,7 +269,7 @@ class FirstViewController: UIViewController {
                  "27-02" : Days(title: "Pope John Paul II once said, \"Interdependence must be transformed into solidarity based upon the principle that the goods of creation are meant for all. That which human industry produces through the processing of raw materials with the contribution of work must serve equally for the good of all.\"", reflection: "", url: "58", saint: "Saint Gabriel of Our Lady of Sorrows : 02/27", saintURL: "https://www.franciscanmedia.org/saint-gabriel-of-our-lady-of-sorrows/", saintDate: "27-02"),
 
 
-                 "28-02" : Days(title: "Pope John Paul II once said, \"Man must reconcile himself to his natural greatness.... he must not forget that he is a person.\"", reflection: "", url: "59", saint: "Blessed Daniel Brottier : 02/28", saintURL: "https://www.franciscanmedia.org/blessed-daniel-brottier/", saintDate: "28-02"),
+                 "28-02" : Days(title: "Pope John Paul II once said, \"Man must reconcile himself to his natural greatness.... he must not forget that he is a person.\"", reflection: "We are all people, but we are people created in the image of God.", url: "59", saint: "Blessed Daniel Brottier : 02/28", saintURL: "https://www.franciscanmedia.org/blessed-daniel-brottier/", saintDate: "28-02"),
 
 
                  "29-02" : Days(title: "Pope John Paul II once said, \"There is no need to be dismayed if love sometimes follows torturous ways. Grace has the power to make straight the paths of human love.\"", reflection: "", url: "60", saint: "Saint Oswald : 02/29", saintURL: "https://www.franciscanmedia.org/saint-oswald/", saintDate: "29-02"),
@@ -288,7 +288,7 @@ class FirstViewController: UIViewController {
                  "01-03" : Days(title: "Pope John Paul II once said, \"The heart is our hidden center, beyond the grasp of our reason and of others; only the Spirit of God can fathom the human heart and know it fully. The heart is the place of decision, deeper than our psychic drives. It is the place of truth, where we choose life or death. It is the place of encounter...\"", reflection: "", url: "63", saint: "Saint David of Wales: 03/01", saintURL: "https://www.franciscanmedia.org/saint-david-of-wales/", saintDate: "01-03"),
 
 
-                 "02-03" : Days(title: "Pope John Paul II once said, \"To the family is entrusted the task of striving, first and foremost, to unleash the forces of good...\"", reflection: "", url: "64", saint: "Saint Agnes of Bohemia : 03/02", saintURL: "https://www.franciscanmedia.org/saint-agnes-of-bohemia/", saintDate: "02-03"),
+                 "02-03" : Days(title: "Pope John Paul II once said, \"To the family is entrusted the task of striving, first and foremost, to unleash the forces of good...\"", reflection: "If you would like, pray for the strenght of your family.", url: "64", saint: "Saint Agnes of Bohemia : 03/02", saintURL: "https://www.franciscanmedia.org/saint-agnes-of-bohemia/", saintDate: "02-03"),
 
 
                  "03-03" : Days(title: "Pope John Paul II once said, \"Creating the human race in His own image and continually keeping it in being, God inscribed in the humanity of man and woman the vocation... of love and communion. Love is therefore the fundamental and innate vocation of every human being.\"", reflection: "", url: "65", saint: "Saint Katharine Drexel : 03/03", saintURL: "https://www.franciscanmedia.org/saint-katharine-drexel/", saintDate: "03-03"),
@@ -300,7 +300,7 @@ class FirstViewController: UIViewController {
                  "05-03" : Days(title: "On this day in 2000, Pope John Paul said, \"Young friends, do not hesitate to follow the example of Pedro, who 'pleased God and was loved by him' and who, having come to perfection in so short a time, lived a full life.\"", reflection: "Pope John Paul II was refering to Pedro Calungsod: A 17-year-old Filipino catechist who was killed for his faith.", url: "67", saint: "Saint John Joseph of the Cross : 03/05", saintURL: "https://www.franciscanmedia.org/saint-john-joseph-of-the-cross/", saintDate: "05-03"),
 
 
-                 "06-03" : Days(title: "Pope John Paul II once said, \"But sometimes it is necessary to do that which is too much.\"", reflection: "", url:"68", saint: "Saint Mary Ann of Jesus of Paredes : 03/06", saintURL: "https://www.franciscanmedia.org/saint-mary-ann-of-jesus-of-paredes/", saintDate: "06-03"),
+                 "06-03" : Days(title: "Pope John Paul II once said, \"But sometimes it is necessary to do that which is too much.\"", reflection: "Have you ever felt something you did was too much but for good reason?", url:"68", saint: "Saint Mary Ann of Jesus of Paredes : 03/06", saintURL: "https://www.franciscanmedia.org/saint-mary-ann-of-jesus-of-paredes/", saintDate: "06-03"),
 
 
                  "07-03" : Days(title: "Pope John Paul II once said, \"The modern world, a world which has experienced marvelous achievements but which seems to have lost its sense of ultimate realities and of existence itself.\"", reflection: "", url: "69", saint: "Saints Perpetua and Felicity : 03/07", saintURL: "https://www.franciscanmedia.org/saints-perpetua-and-felicity/", saintDate: "07-03"),
@@ -312,28 +312,28 @@ class FirstViewController: UIViewController {
                  "09-03" : Days(title: "Pope John Paul II once said, \"Yes, the civilization of love is possible; it is not a utopia. But it is only possible by a constant and ready reference to the \"Father from whom all fatherhood and motherhood on earth is named,\" from whom every human family comes.\"", reflection: "", url: "71", saint: "Saint Frances of Rome : 03/09", saintURL: "https://www.franciscanmedia.org/saint-frances-of-rome/", saintDate: "09-03"),
 
 
-                 "10-03" : Days(title: "Pope John Paul II once said, \"Only a socially just country has the right to exist.\"", reflection: "", url: "72", saint: "Saint Dominic Savio : 03/10", saintURL: "https://www.franciscanmedia.org/saint-dominic-savio/", saintDate: "10-03"),
+                 "10-03" : Days(title: "Pope John Paul II once said, \"Only a socially just country has the right to exist.\"", reflection: "If you would like, think and pray on something you would like to see more just.", url: "72", saint: "Saint Dominic Savio : 03/10", saintURL: "https://www.franciscanmedia.org/saint-dominic-savio/", saintDate: "10-03"),
 
 
                  "11-03" : Days(title: "Pope John Paul II once said, \"In the life of husband and wife together, fatherhood and motherhood represent such a sublime \"novelty\" and richness as can only be approached \"on one's knees\".\"", reflection: "", url: "73", saint: "Saint John Ogilvie : 03/11", saintURL: "https://www.franciscanmedia.org/saint-john-ogilvie/", saintDate: "11-03"),
 
 
-                 "12-03" : Days(title: "Pope John Paul II once said, \"Man matures through work which inspires him to difficult good.\"", reflection: "", url: "74", saint: "Blessed Angela Salawa : 03/12", saintURL: "https://www.franciscanmedia.org/blessed-angela-salawa/", saintDate: "12-03"),
+                 "12-03" : Days(title: "Pope John Paul II once said, \"Man matures through work which inspires him to difficult good.\"", reflection: "The words difficult and good are usually not synominous. What way can you bring these two words together?", url: "74", saint: "Blessed Angela Salawa : 03/12", saintURL: "https://www.franciscanmedia.org/blessed-angela-salawa/", saintDate: "12-03"),
 
 
                  "13-03" : Days(title: "Pope John Paul II once said, \"The true Christian can nurture a trustful optimism, because he is certain of not walking alone. In sending us Jesus, the eternal Son made man, God has drawn near to each of us. In Christ he has become our travelling companion.\"", reflection: "", url: "75", saint: "Saint Dominic Savio : 03/10", saintURL: "https://www.franciscanmedia.org/saint-dominic-savio/", saintDate: "10-03"),
 
 
-                 "14-03" : Days(title: "Pope John Paul II once said, \"Learning to think rigorously, so as to act rightly and to serve humanity better.\"", reflection: "", url: "76", saint: "Saint John of God : 03/08", saintURL: "https://www.franciscanmedia.org/saint-john-of-god/", saintDate: "08-03"),
+                 "14-03" : Days(title: "Pope John Paul II once said, \"Learning to think rigorously, so as to act rightly and to serve humanity better.\"", reflection: "What are some ways we can serve our fellow man and woman?", url: "76", saint: "Saint John of God : 03/08", saintURL: "https://www.franciscanmedia.org/saint-john-of-god/", saintDate: "08-03"),
 
 
                  "15-03" : Days(title: "Pope John Paul II once said, \"The challenge is to make the church's yes to life concrete and effective. The struggle will be long, and it needs each one of you. Place your intelligence, your talents, your enthusiasm, your compassion and your fortitude at the service of life!\"", reflection: "", url: "77", saint: "Saint Louise de Marillac : 03/15", saintURL: "https://www.franciscanmedia.org/saint-louise-de-marillac/", saintDate: "15-03"),
 
 
-                 "16-03" : Days(title: "Pope John Paul II once said, \"All are called to holiness, and holy people alone can renew humanity.\"", reflection: "", url: "78", saint: "Saint Clement Mary Hofbauer : 03/16", saintURL: "https://www.franciscanmedia.org/saint-clement-mary-hofbauer/", saintDate: "16-03"),
+                 "16-03" : Days(title: "Pope John Paul II once said, \"All are called to holiness, and holy people alone can renew humanity.\"", reflection: "How are you being called to holiness?", url: "78", saint: "Saint Clement Mary Hofbauer : 03/16", saintURL: "https://www.franciscanmedia.org/saint-clement-mary-hofbauer/", saintDate: "16-03"),
 
 
-                 "17-03" : Days(title: "Pope John Paul II once said, \"Never again war. Never again hatred and intolerance.\"", reflection: "", url: "79", saint: "Saint Patrick : 03/17", saintURL: "https://www.franciscanmedia.org/saint-patrick/", saintDate: "17-03"),
+                 "17-03" : Days(title: "Pope John Paul II once said, \"Never again war. Never again hatred and intolerance.\"", reflection: "If you would like, take a moment, say a prayer for peace.", url: "79", saint: "Saint Patrick : 03/17", saintURL: "https://www.franciscanmedia.org/saint-patrick/", saintDate: "17-03"),
 
 
                  "18-03" : Days(title: "Pope John Paul II once said, \"Christ called as his Apostles only men. He did this in a totally free and sovereign way.\"", reflection: "", url: "80", saint: "Saint Cyril of Jerusalem : 03/18", saintURL: "https://www.franciscanmedia.org/saint-cyril-of-jerusalem/", saintDate: "18-03"),
@@ -342,13 +342,13 @@ class FirstViewController: UIViewController {
                  "19-03" : Days(title: "Pope John Paul II once said, \"Faced with today's problems and disappointments , many people will try to escape from their responsibility. Escape in selfishness, escape in sexual pleasure, escape in drugs, escape in violence, escape in indifference and cynical attitudes. I propose to you the option of love, which is the opposite of escape.\"", reflection: "", url: "81", saint: "Saint Joseph, Husband of Mary : 03/19", saintURL: "https://www.franciscanmedia.org/saint-joseph-husband-of-mary/", saintDate: "19-03"),
 
 
-                 "20-03" : Days(title: "Pope John Paul II once said, Without wonder, men and women would lapse into deadening routine and little by little would become incapable of a life which is genuinely personal.", reflection: "", url: "82", saint: "Saint Salvator of Horta : 03/20", saintURL: "https://www.franciscanmedia.org/saint-salvator-of-horta/", saintDate: "20-03"),
+                 "20-03" : Days(title: "Pope John Paul II once said, Without wonder, men and women would lapse into deadening routine and little by little would become incapable of a life which is genuinely personal.", reflection: "What routines have you fallen into? Good or bad....", url: "82", saint: "Saint Salvator of Horta : 03/20", saintURL: "https://www.franciscanmedia.org/saint-salvator-of-horta/", saintDate: "20-03"),
 
 
                  "21-03" : Days(title: "Pope John Paul II once said, \"But responsibility likewise falls on the legislators who have promoted and approved abortion laws, and, to the extent that they have a say in the matter, on the administrators of the health-care centers where abortions are performed. In this sense abortion goes beyond the responsibility of individuals and beyond the harm done to them, and takes on a distinctly social dimension. It is a most serious wound inflicted on society and its culture by the very people who ought to be societys promoters and defenders.\"", reflection: "", url: "83", saint: "Blessed John of Parma : 03/21", saintURL: "https://www.franciscanmedia.org/blessed-john-of-parma/", saintDate: "21-03"),
 
 
-                 "22-03" : Days(title: "Pope John Paul II once said, \"Mary's role is to make Her Son Shine\"", reflection: "", url: "84", saint: "Saint Nicholas Owen : 03/22", saintURL: "https://www.franciscanmedia.org/saint-nicholas-owen/", saintDate: "22-03"),
+                 "22-03" : Days(title: "Pope John Paul II once said, \"Mary's role is to make Her Son Shine\"", reflection: "What role does the Blessed Mother play in your life?", url: "84", saint: "Saint Nicholas Owen : 03/22", saintURL: "https://www.franciscanmedia.org/saint-nicholas-owen/", saintDate: "22-03"),
 
 
                  "23-03" : Days(title: "Pope John Paul II once said, \"An effective proclamation of the Gospel in contemporary Western society will need to confront directly the widespread spirit of agnosticism and relativism which has cast doubt on reason's ability to know the truth, which alone satisfies the human heart's restless quest for meaning.\"", reflection: "", url: "85", saint: "Saint Turibius of Mogrovejo : 03/23", saintURL: "https://www.franciscanmedia.org/saint-turibius-of-mogrovejo/", saintDate: "23-03"),
@@ -385,7 +385,7 @@ class FirstViewController: UIViewController {
                  "01-04" : Days(title: "Pope John Paul II once told us, \"In suffocating the voice of conscience, passion carries with itself a restlessness of the body and the senses: it is the restlessness of the \"external man.\" When the internal man has been reduced to silence, then passion, once it has been given freedom of action, so to speak, exhibits itself as an insistent tendency to satisfy the senses and the body.\"", reflection: "", url: "94", saint: "Saint Hugh of Grenoble : 04/01", saintURL: "https://www.franciscanmedia.org/saint-hugh-of-grenoble/", saintDate: "01-04"),
 
 
-                 "02-04" : Days(title: "On this day in 2005, Pope John Paul II passes away at 9:37 PM. He served 26 years, 5 months and 17 days.", reflection: "Can you think of an impact this Pope made in your life? Let us take a moment and say a prayer for Pope John Paul II and thank God for bringing him into our lives.", url: "119", saint: "Saint Francis of Paola : 04/02", saintURL: "https://www.franciscanmedia.org/saint-francis-of-paola/", saintDate: "02-04"),
+                 "02-04" : Days(title: "On this day in 2005, Pope John Paul II passes away at 9:37 PM. He served 26 years, 5 months and 17 days.", reflection: "Can you think of an impact this Saint has made in your life? Let us take a moment and say a prayer for Pope John Paul II and thank God for bringing him into our lives.", url: "119", saint: "Saint Francis of Paola : 04/02", saintURL: "https://www.franciscanmedia.org/saint-francis-of-paola/", saintDate: "02-04"),
 
 
                  "03-04" : Days(title: "Pope John Paul II once said, \"It is manifestly unjust that a privileged few should continue to accumulate excess goods, squandering available resources, while masses of people are living in conditions of misery at the very lowest level of subsistence.\"", reflection: "", url: "96", saint: "Saint Benedict the African : 04/03", saintURL: "https://www.franciscanmedia.org/saint-benedict-the-african/", saintDate: "03-04"),
