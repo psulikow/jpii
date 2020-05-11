@@ -993,10 +993,10 @@ class FirstViewController: UIViewController {
                  "11-10" : Days(title: "Pope John Paul II reminds us, \"Christian holiness does not being sinless, but rather it means struggling not to give in and always getting up after every fall.\"", reflection: "", url: "48", saint: "Saint John XXIII: 10/11", saintURL: "https://www.franciscanmedia.org/saint-john-xxiii/", saintDate: "11-10"),
 
 
-                 "12-10" : Days(title: "Pope John Paul II once said, \"A person's rightful due is to be treated as an object of love, not as an object for use.\"", reflection: "", url: "49", saint: "Blessed Francis Xavier Seelos: 10/12", saintURL: "https://www.franciscanmedia.org/blessed-francis-xavier-seelos/", saintDate: "12-10"),
+                 "12-10" : Days(title: "Pope John Paul II once said, \"A person's rightful due is to be treated as an object of love, not as an object for use.\"", reflection: "Let us pray that we may not fall into this trap and pray for love.", url: "49", saint: "Blessed Francis Xavier Seelos: 10/12", saintURL: "https://www.franciscanmedia.org/blessed-francis-xavier-seelos/", saintDate: "12-10"),
 
 
-                 "13-10" : Days(title: "Pope John Paul II reminds us, \"In order to see Jesus, we first need to let him look at us!\"", reflection: "", url: "50", saint: "Blessed Marie-Rose Durocher: 10/13", saintURL: "https://www.franciscanmedia.org/blessed-marie-rose-durocher/", saintDate: "13-10"),
+                 "13-10" : Days(title: "Pope John Paul II reminds us, \"In order to see Jesus, we first need to let him look at us!\"", reflection: "Is there a way that you can make ourselves more visible to Jesus?", url: "50", saint: "Blessed Marie-Rose Durocher: 10/13", saintURL: "https://www.franciscanmedia.org/blessed-marie-rose-durocher/", saintDate: "13-10"),
 
 
                  "14-10" : Days(title: "Pope John Paul II once said, \"The Eucharist is a priceless treasure: by not only celebrating it but also by praying before it outside of Mass we are enabled to make contact with the very wellspring of grace.\"", reflection: "", url: "51", saint: "Saint Callistus I: 10/14", saintURL: "https://www.franciscanmedia.org/saint-callistus-i/", saintDate: "14-10"),
@@ -1011,7 +1011,7 @@ class FirstViewController: UIViewController {
                  "17-10" : Days(title: "Pope John Paul II once said, \"We must open our eyes to admire God who hides and at the same time reveals himself in things and introduces us into the realms of mystery... we must be pure and simple like children, capable of admiring, being astonished, of marveling, and being enchanted by the divine gestures of love and closeness we witness.\"", reflection: "", url: "54", saint: "Saint Ignatius of Antioch: 10/17", saintURL: "https://www.franciscanmedia.org/saint-ignatius-of-antioch/", saintDate: "17-10"),
 
 
-                 "18-10" : Days(title: "Pope John Paul II tells us, \"St. Joseph was a just man, a tireless worker, the upright guardian of those entrusted to his care. May he always guard, protect and enlighten families.\"", reflection: "", url: "55", saint: "Saint Luke: 10/18", saintURL: "https://www.franciscanmedia.org/saint-luke/", saintDate: "18-10"),
+                 "18-10" : Days(title: "Pope John Paul II tells us, \"St. Joseph was a just man, a tireless worker, the upright guardian of those entrusted to his care. May he always guard, protect and enlighten families.\"", reflection: "St. Thomas Aquinas once noted that St. Joseph is unique among patron saints in that he is able to assist us at any time for anything.", url: "55", saint: "Saint Luke: 10/18", saintURL: "https://www.franciscanmedia.org/saint-luke/", saintDate: "18-10"),
 
 
                  "19-10" : Days(title: "Pope John Paul II tells us, \"Do not be afraid. Do not be satisfied with mediocrity. Put out into the deep and let down your nets for a catch.\"", reflection: "", url: "56", saint: "Saints Isaac Jogues, Jean de Brébeuf, and Companions: 10/19", saintURL: "https://www.franciscanmedia.org/saint-isaac-jogues-jean-de-br-eacute-beuf-and-companions/", saintDate: "19-10"),
@@ -1029,7 +1029,7 @@ class FirstViewController: UIViewController {
                  "23-10" : Days(title: "Pope John Paul II once said, \"The body in its masculinity and femininity has been called \"from the beginning\" to become the manifestation of the spirit. The body, in fact, and only the body, is capable of making visible what is invisible: the spiritual and the divine.\"", reflection: "", url: "60", saint: "Saint John of Capistrano: 10/23", saintURL: "https://www.franciscanmedia.org/saint-john-of-capistrano/", saintDate: "23-10"),
 
 
-                 "24-10" : Days(title: "Pope John Paul II once said, \"Apart from the mercy of God, there is no other source of hope for mankind.\"", reflection: "", url: "61", saint: "Saint Anthony Mary Claret: 10/24", saintURL: "https://www.franciscanmedia.org/saint-anthony-claret/", saintDate: "24-10"),
+                 "24-10" : Days(title: "Pope John Paul II once said, \"Apart from the mercy of God, there is no other source of hope for mankind.\"", reflection: "If you would like, take a moment to pray that God can have mercy on all of us.", url: "61", saint: "Saint Anthony Mary Claret: 10/24", saintURL: "https://www.franciscanmedia.org/saint-anthony-claret/", saintDate: "24-10"),
 
 
                  "25-10" : Days(title: "Pope John Paul II reminds us, \"The battle against the Devil, which is the principal task of Saint Michael the Archangel, is still being fought today, because the Devil is still alive and active in the world.\"", reflection: "", url: "62", saint: "Saint Antônio de Sant’Anna Galvão: 10/25", saintURL: "https://www.franciscanmedia.org/saint-ant-ocirc-nio-de-sant-146-anna-galv-atilde-o/", saintDate: "25-10"),
@@ -1038,10 +1038,10 @@ class FirstViewController: UIViewController {
                  "26-10" : Days(title: "Pope John Paul II tells us, \"When you wonder about the mystery of yourself, look to Christ, who gives you the meaning of life. When you wonder what it means to be a mature person, look to Christ, who is the fulfillness of humanity. And when you wonder about your role in the future of the world look to Christ.\"", reflection: "", url: "63", saint: "Saint Peter of Alcantara: 10/26", saintURL: "https://www.franciscanmedia.org/saint-peter-of-alcantara/", saintDate: "26-10"),
 
 
-                 "27-10" : Days(title: "Pope John Paul II once said, \"Life is entrusted to man as a treasure which must not be squandered, as a talent which must be used well.\"", reflection: "", url: "64", saint: "Blessed Bartholomew of Vicenza: 10/27", saintURL: "https://www.franciscanmedia.org/blessed-bartholomew-of-vicenza/", saintDate: "27-10"),
+                 "27-10" : Days(title: "Pope John Paul II once said, \"Life is entrusted to man as a treasure which must not be squandered, as a talent which must be used well.\"", reflection: "How is your life a treasure, ask and pray on this becuase it IS true!", url: "64", saint: "Blessed Bartholomew of Vicenza: 10/27", saintURL: "https://www.franciscanmedia.org/blessed-bartholomew-of-vicenza/", saintDate: "27-10"),
 
 
-                 "28-10" : Days(title: "Pope John Paul II reminds us, \"Love demands a personal commitment to the will of God.\"", reflection: "", url: "65", saint: "Saints Simon and Jude: 10/28", saintURL: "https://www.franciscanmedia.org/saints-simon-and-jude/", saintDate: "28-10"),
+                 "28-10" : Days(title: "Pope John Paul II reminds us, \"Love demands a personal commitment to the will of God.\"", reflection: "How have you made a commitment to God?", url: "65", saint: "Saints Simon and Jude: 10/28", saintURL: "https://www.franciscanmedia.org/saints-simon-and-jude/", saintDate: "28-10"),
 
 
                  "29-10" : Days(title: "Pope John Paul II tells us, \"Each individual in fact has moral responsibility for the acts which he personally performs; no one can be exempted from this responsibility, and on the basis of it everyone will be judged by God himself.\"", reflection: "", url: "66", saint: "Saint Narcissus of Jerusalem: 10/29", saintURL: "https://www.franciscanmedia.org/saint-narcissus-of-jerusalem/", saintDate: "29-10"),
@@ -1050,7 +1050,7 @@ class FirstViewController: UIViewController {
                  "30-10" : Days(title: "Pope John Paul II reminds us, \"From this moment on, live the Eucharist fully; be persons for whom the Holy Mass, Communion, and Eucharistic adoration are the center and summit of their whole life.\"", reflection: "", url: "67", saint: "Saint Alphonsus Rodriguez: 10/30", saintURL: "https://www.franciscanmedia.org/saint-alphonsus-rodriguez/", saintDate: "30-10"),
 
 
-                 "31-10" : Days(title: "Pope John Paul II reminds us, \"Offer Christ your heart in meditation and personal prayer which is the foundation of the spiritual life.\"", reflection: "", url: "68", saint: "Saint Wolfgang of Regensburg: 10/31", saintURL: "https://www.franciscanmedia.org/saint-wolfgang-of-regensburg/", saintDate: "31-10"),
+                 "31-10" : Days(title: "Pope John Paul II reminds us, \"Offer Christ your heart in meditation and personal prayer which is the foundation of the spiritual life.\"", reflection: "How have you offerend your heart to Christ today?", url: "68", saint: "Saint Wolfgang of Regensburg: 10/31", saintURL: "https://www.franciscanmedia.org/saint-wolfgang-of-regensburg/", saintDate: "31-10"),
 
 
 
@@ -1065,7 +1065,7 @@ class FirstViewController: UIViewController {
                  "03-11" : Days(title: "Pope John Paul II asks us, \"What have I done with my baptism and confirmation? Is Christ really at the center of my life? Do I have time for prayer in my life? Do I live my life as a vocation and mission?\"", reflection: "", url: "71", saint: "Saint Martin de Porres: 11/03", saintURL: "https://www.franciscanmedia.org/saint-martin-de-porres/", saintDate: "03-11"),
 
 
-                 "04-11" : Days(title: "Pope John Paul II once said, \"Even if the forces of darkness appear to prevail, those who believe in God know that evil and death do not have the final say.\"", reflection: "", url: "72", saint: "Saint Charles Borromeo: 11/04", saintURL: "https://www.franciscanmedia.org/saint-charles-borromeo/", saintDate: "04-11"),
+                 "04-11" : Days(title: "Pope John Paul II once said, \"Even if the forces of darkness appear to prevail, those who believe in God know that evil and death do not have the final say.\"", reflection: "This is where faith comes in, let us pray for a strong faith in God for all.", url: "72", saint: "Saint Charles Borromeo: 11/04", saintURL: "https://www.franciscanmedia.org/saint-charles-borromeo/", saintDate: "04-11"),
 
 
                  "05-11" : Days(title: "Pope John Paul II tells us, \"People are made for happiness. Rightly, then, you thirst for happiness. Christ has the answer to this desire of yours. But he asks you to trust him.\"", reflection: "", url: "73", saint: "Saint Peter Chrysologus: 11/05", saintURL: "https://www.franciscanmedia.org/saint-peter-chrysologus/", saintDate: "05-11"),
@@ -1074,7 +1074,7 @@ class FirstViewController: UIViewController {
                  "06-11" : Days(title: "Pope John Paul II tells us, \"The Eucharist is the heart of the Church. Where Eucharistic life flourishes, there the life of the church will blossom.\"", reflection: "", url: "74", saint: "Saint Nicholas Tavelic and Companions: 11/06", saintURL: "https://www.franciscanmedia.org/saint-nicholas-tavelic-and-companions/", saintDate: "06-11"),
 
 
-                 "07-11" : Days(title: "Pope John Paul II once said, \"Confession is an act of honesty and courage - an act of entrusting ourselves, beyond sin, to the mercy of a loving and forgiving God.\"", reflection: "", url: "75", saint: "Saint Didacus: 11/07", saintURL: "https://www.franciscanmedia.org/saint-didacus/", saintDate: "07-11"),
+                 "07-11" : Days(title: "Pope John Paul II once said, \"Confession is an act of honesty and courage - an act of entrusting ourselves, beyond sin, to the mercy of a loving and forgiving God.\"", reflection: "Pope John Paul II also tells us that frequent confession is a must to acheive personal holiness", url: "75", saint: "Saint Didacus: 11/07", saintURL: "https://www.franciscanmedia.org/saint-didacus/", saintDate: "07-11"),
 
 
                  "08-11" : Days(title: "Pope John Paul II tells us, \"Allow the light and the healing presence of Christ to shine brightly through your lives. In that way, all those who come in contact with you will discover the loving kindness of God.\"", reflection: "", url: "76", saint: "Blessed John Duns Scotus: 11/08", saintURL: "https://www.franciscanmedia.org/blessed-john-duns-scotus/", saintDate: "08-11"),
@@ -1083,7 +1083,7 @@ class FirstViewController: UIViewController {
                  "09-11" : Days(title: "Pope John Paul II reminds us, \"Freedom is not the ability to do anything we want, whenever we want. Rather, FREEDOM is the ability to live responsibly the truth of our relationship with God and with one another.\"", reflection: "", url: "77", saint: "Dedication of St. John Lateran: 11/09", saintURL: "https://www.franciscanmedia.org/dedication-of-saint-john-lateran/", saintDate: "09-11"),
 
 
-                 "10-11" : Days(title: "Pope John Paul II reminds us, \"The only way to peace is forgiveness.\"", reflection: "", url: "78", saint: "Saint Leo the Great: 11/10", saintURL: "https://www.franciscanmedia.org/saint-leo-the-great/", saintDate: "10-11"),
+                 "10-11" : Days(title: "Pope John Paul II reminds us, \"The only way to peace is forgiveness.\"", reflection: "Is there anyone in our life that we have been thinking of forgiving, is now is a good time to reach out?", url: "78", saint: "Saint Leo the Great: 11/10", saintURL: "https://www.franciscanmedia.org/saint-leo-the-great/", saintDate: "10-11"),
 
 
                  "11-11" : Days(title: "Pope John Paul II tells us, \"An important day in a young person's life is the day on which he becomes convinced that Christ is the only Friend who will not disappoint him, on which he can always count.\"", reflection: "", url: "79", saint: "Saint Martin of Tours: 11/11", saintURL: "https://www.franciscanmedia.org/saint-martin-of-tours/", saintDate: "11-11"),
@@ -1107,10 +1107,10 @@ class FirstViewController: UIViewController {
                  "17-11" : Days(title: "Pope John Paul II once said, \"Catholic education aims not only to communicate facts but also to transmit a coherent, comprehensive vision of life, in the conviction that the truths contained in that vision liberate students in the most profound meaning of human freedom.\"", reflection: "", url: "85", saint: "Saint Elizabeth of Hungary: 11/17", saintURL: "https://www.franciscanmedia.org/saint-elizabeth-of-hungary/", saintDate: "17-11"),
 
 
-                 "18-11" : Days(title: "Pope John Paul II reminds us, \"Life with Christ is a wonderful adventure.\"", reflection: "", url: "86", saint: "Dedication of Churches of Saints Peter and Paul: 11/18", saintURL: "https://www.franciscanmedia.org/dedication-of-churches-of-saints-peter-and-paul/", saintDate: "18-11"),
+                 "18-11" : Days(title: "Pope John Paul II reminds us, \"Life with Christ is a wonderful adventure.\"", reflection: "How has this adventure been for you, of course, it is on going!", url: "86", saint: "Dedication of Churches of Saints Peter and Paul: 11/18", saintURL: "https://www.franciscanmedia.org/dedication-of-churches-of-saints-peter-and-paul/", saintDate: "18-11"),
 
 
-                 "19-11" : Days(title: "Pope John Paul II once said, \"Love between man and woman cannot be built without sacrifices and self-denial.\"", reflection: "", url: "87", saint: "Saint Agnes of Assisi: 11/19", saintURL: "https://www.franciscanmedia.org/saint-agnes-of-assisi/", saintDate: "19-11"),
+                 "19-11" : Days(title: "Pope John Paul II once said, \"Love between man and woman cannot be built without sacrifices and self-denial.\"", reflection: "Love is not easy, we all know, we need to pray for strength to persevere.", url: "87", saint: "Saint Agnes of Assisi: 11/19", saintURL: "https://www.franciscanmedia.org/saint-agnes-of-assisi/", saintDate: "19-11"),
 
 
                  "20-11" : Days(title: "Pope John Paul II once said, \"We are not the sum of our weaknesses and failures, we are the sum of the Father's love for us and our real capacity to become the image of His Son Jesus.\"", reflection: "", url: "88", saint: "Saint Rose Philippine Duchesne: 11/20", saintURL: "https://www.franciscanmedia.org/saint-rose-philippine-duchesne/", saintDate: "20-11"),
@@ -1119,7 +1119,7 @@ class FirstViewController: UIViewController {
                  "21-11" : Days(title: "Pope John Paul II tells us, \"True holiness does not mean a flight from the world; rather, it lies in the effort to incarnate the Gospel in everyday life, in the family, at school and at work, and in social and political involvement.\"", reflection: "", url: "89", saint: "Presentation of the Blessed Virgin Mary: 11/21", saintURL: "https://www.franciscanmedia.org/presentation-of-mary/", saintDate: "21-11"),
 
 
-                 "22-11" : Days(title: "Pope John Paul II reminds us, \"You must be strong, dear brothers and sisters. You must be strong with the strength that comes from faith.\"", reflection: "", url: "90", saint: "Saint Cecilia: 11/22", saintURL: "https://www.franciscanmedia.org/saint-cecilia/", saintDate: "22-11"),
+                 "22-11" : Days(title: "Pope John Paul II reminds us, \"You must be strong, dear brothers and sisters. You must be strong with the strength that comes from faith.\"", reflection: "This strength can come from many places, what has been the source of strength for you? We can always give thanks and pray for others as well.", url: "90", saint: "Saint Cecilia: 11/22", saintURL: "https://www.franciscanmedia.org/saint-cecilia/", saintDate: "22-11"),
 
 
                  "23-11" : Days(title: "Pope John Paul II once said, \"True holiness does not mean a flight from the world; rather, it lies in the effort to incarnate the Gospel in everyday life, in the family, at school and at work, and in social and political involvement.\"", reflection: "", url: "91", saint: "Blessed Miguel Agustín Pro: 11/23", saintURL: "https://www.franciscanmedia.org/blessed-miguel-agusaint-iacute-n-pro/", saintDate: "23-11"),
@@ -1158,7 +1158,7 @@ class FirstViewController: UIViewController {
                  "02-12" : Days(title: "Pope John Paul II reminds us, \"Let us remember the past with gratitude, live the present with enthusiasm, and look forward to the future with confidence.\"", reflection: "", url: "101", saint: "Blessed Rafal Chylinski: 12/02", saintURL: "https://www.franciscanmedia.org/blessed-rafal-chylinski/", saintDate: "02-12"),
 
 
-                 "03-12" : Days(title: "Pope John Paul II reminds us, \"Jesus himself has shown us by his own example that prayer and fasting are the first and most effective weapons against the forces of evil.\"", reflection: "", url: "21", saint: "Saint Francis Xavier: 12/03", saintURL: "https://www.franciscanmedia.org/saint-francis-xavier/", saintDate: "03-12"),
+                 "03-12" : Days(title: "Pope John Paul II reminds us, \"Jesus himself has shown us by his own example that prayer and fasting are the first and most effective weapons against the forces of evil.\"", reflection: "Fasting is not easy but sometimes giving up something small for God is a great start.", url: "21", saint: "Saint Francis Xavier: 12/03", saintURL: "https://www.franciscanmedia.org/saint-francis-xavier/", saintDate: "03-12"),
 
 
                  "04-12" : Days(title: "Pope John Paul II once said, \"In my reading and in my studies I always tried to achieve a harmony between faith, reason, and the heart. These are not separate areas, but are profoundly interconnected, each giving life to the other.\"", reflection: "", url: "103", saint: "Saint John Damascene: 12/04", saintURL: "https://www.franciscanmedia.org/saint-john-damascene/", saintDate: "04-12"),
@@ -1167,7 +1167,7 @@ class FirstViewController: UIViewController {
                  "05-12" : Days(title: "Pope John Paul II once said, \"The priest is not and must not be a civil servant of the Church. Above all the priest is a man who lives for the spirit for God. This being the case the Seminary is the place where he learns 'to be with Him.'\"", reflection: "", url: "104", saint: "Saint Sabas: 12/05", saintURL: "https://www.franciscanmedia.org/saint-sabas/", saintDate: "05-12"),
 
 
-                 "06-12" : Days(title: "Pope John Paul II reminds us, \"The Rosary is a prayer both so humble and simple and a theologically rich in Biblical content. I beg you to pray it.\"", reflection: "", url: "105", saint: "Saint Nicholas:12/06", saintURL: "https://www.franciscanmedia.org/saint-nicholas/", saintDate: "06-12"),
+                 "06-12" : Days(title: "Pope John Paul II reminds us, \"The Rosary is a prayer both so humble and simple and a theologically rich in Biblical content. I beg you to pray it.\"", reflection: "Have we answered this call to us from this great Saint?", url: "105", saint: "Saint Nicholas:12/06", saintURL: "https://www.franciscanmedia.org/saint-nicholas/", saintDate: "06-12"),
 
 
                  "07-12" : Days(title: "Pope John Paul II once said, \"Love the family! Defend and promote it as the basic cell of human society; nurture it as the prime sanctuary of life. Give great care to the preparation of engaged couples and be close to young married couples, so that they will be for their children and the whole community an eloquent testimony of God's love.\"", reflection: "", url: "106", saint: "Saint Ambrose: 12/07", saintURL: "https://www.franciscanmedia.org/saint-ambrose/", saintDate: "07-12"),
