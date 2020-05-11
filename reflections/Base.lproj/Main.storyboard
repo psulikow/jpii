@@ -10,7 +10,7 @@
         <!--Contact Us-->
         <scene sceneID="DV6-rU-aYa">
             <objects>
-                <viewController id="FI2-JD-mbS" customClass="ContactViewController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="FI2-JD-mbS" customClass="ContactViewController" customModule="John_Paul_II" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="zLA-XK-ddk">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -74,7 +74,7 @@
         <!--Reflections-->
         <scene sceneID="hNz-n2-bh7">
             <objects>
-                <viewController id="9pv-A4-QxB" customClass="FirstViewController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="9pv-A4-QxB" customClass="FirstViewController" customModule="John_Paul_II" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="tsR-hK-woN">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -204,17 +204,52 @@
         <!--Bio-->
         <scene sceneID="wg7-f3-ORb">
             <objects>
-                <viewController id="8rJ-Kc-sve" customClass="SecondViewController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="8rJ-Kc-sve" customClass="SecondViewController" customModule="John_Paul_II" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="QS5-Rx-YEW">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="center" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="N9v-FO-7GI">
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="N9v-FO-7GI">
                                 <rect key="frame" x="24" y="275" width="335" height="331"/>
                                 <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <string key="text">St. John Paul II, Latin Johannes Paulus, original name Karol Józef Wojtyła, (born May 18, 1920, Wadowice, Poland—died April 2, 2005, Vatican City; beatified May 1, 2011; canonized April 27, 2014; feast day October 22), the bishop of Rome and head of the Roman Catholic Church (1978–2005), the first non-Italian pope in 455 years and the first from a Slavic country. His pontificate of more than 26 years was the third longest in history. As part of his effort to promote greater understanding between nations and between religions, he undertook numerous trips abroad, traveling far greater distances than had all other popes combined, and he extended his influence beyond the church by campaigning against political oppression and criticizing the materialism of the West. He also issued several unprecedented apologies to groups that historically had been wronged by Catholics, most notably Jews and Muslims. His unabashed Polish nationalism and his emphasis on nonviolent political activism aided the Solidarity movement in communist Poland in the 1980s and ultimately contributed to the peaceful dissolution of the Soviet Union in 1991. More generally, John Paul used his influence among Catholics and throughout the world to advance the recognition of human dignity and to deter the use of violence. His centralized style of church governance, however, dismayed some members of the clergy, who found it autocratic and stifling. He failed to reverse an overall decline in the numbers of priests and nuns, and his traditional interpretations of church teachings on personal and sexual morality alienated some segments of the laity.</string>
+                                <mutableString key="text">Pope John Paul II made history in 1978 by becoming the first non-Italian pope in more than 400 years.
+
+Pope John Paul II was ordained in 1946, became the bishop of Ombi in 1958, and became the archbishop of Krakow in 1964. He was made a cardinal by Pope Paul VI in 1967, and in 1978 became the first non-Italian pope in more than 400 years. He was a vocal advocate for human rights and used his influence to effect political change. He died in Italy in 2005. It was announced in July 2013 that he would be declared a saint in April of the following year.
+
+Born Karol Józef Wojtyla on May 18, 1920, in Wadowice, Poland, Pope John Paul II's early life was marked by great loss. His mother died when he was nine years old, and his older brother Edmund died when he was 12.
+Growing up, John Paul was athletic and enjoyed skiing and swimming. He went to Krakow's Jagiellonian University in 1938 where he showed an interest in theater and poetry. The school was closed the next year by Nazi troops during the German occupation of Poland. Wanting to become a priest, John Paul began studying at a secret seminary run by the archbishop of Krakow. After World War II ended, he finished his religious studies at a Krakow seminary and was ordained in 1946.
+
+John Paul spent two years in Rome where he finished his doctorate in theology. He returned to his native Poland in 1948 and served in several parishes in and around Krakow. John Paul became the bishop of Ombi in 1958 and then the archbishop of Krakow six years later. Considered one of the Catholic Church's leading thinkers, he participated in the Second Vatican Council—sometimes called Vatican II. The council began reviewing church doctrine in 1962, holding several sessions over the course of the next few years. As a member of the council, John Paul helped the church to examine its position in the world. Well regarded for his contributions to the church, John Paul was made a cardinal in 1967 by Pope Paul VI.
+
+In 1978, John Paul made history by becoming the first non-Italian pope in more than four hundred years. As the leader of the Catholic Church, he traveled the world, visiting more than 100 countries to spread his message of faith and peace. But he was close to home when he faced the greatest threat to his life. In 1981, an assassin shot John Paul twice in St. Peter's Square in Vatican City. Fortunately, he was able to recover from his injuries and later forgave his attacker.
+
+A vocal advocate for human rights, John Paul often spoke out about suffering in the world. He held strong positions on many topics, including his opposition to capital punishment. A charismatic figure, John Paul used his influence to bring about political change and is credited with the fall of communism in his native Poland. He was not without critics, however. Some have stated that he could be harsh with those who disagreed with him and that he would not compromise his hard-line stance on certain issues, such as contraception.
+
+In his later years, John Paul's health appeared to be failing. At public appearances, he moved slowly and seemed unsteady on his feet. He also visibly trembled at times. One of his doctors also disclosed that John Paul had Parkinson's disease, a brain disorder often characterized by shaking, in 2001. But there was never any official announcement about his illness from the Vatican.
+
+Pope John Paul II died on April 2, 2005, at the age of 84, at his Vatican City residence. More than 3 million people waited in line to say good-bye to their beloved religious leader at St. Peter's Basilica before his funeral on April 8.
+
+On July 5, 2013, waving the usual five-year waiting period, the Vatican announced that the Roman Catholic Church would declare Pope John Paul II a saint and that the canonization ceremony would likely take place within the next 16 months. The Vatican also stated that Pope John XXIII, who headed the Catholic Church from 1958 until his death in 1963 and convened the Vatican II council, would also be declared a saint.
+
+On September 30, 2013, Pope Francis announced that the canonizations of Pope John Paul II and Pope John XXIII would occur on April 27, 2014. The announcement of Pope John Paul II's canonization came after the Vatican revealed that two miracles were attributed to the late pope. After a dying French nun, Sister Marie Simon-Pierre Normand, prayed to Pope John Paul II for during her battle with Parkinson's disease—the same illness that killed the pope—she was cured. The second miracle involved a 50-year-old woman, who claimed that she was cured of a brain aneurysm after a photograph of Pope John Paul II spoke to her.
+
+The official sainthood ceremony, held on April 27, 2014, brought together four popes. Pope Francis led the event to elevate Pope John Paul II and Pope John XXIII to sainthood, which was also attended by Francis's predecessor Emeritus Pope Benedict.  
+
+Article Title
+John Paul II Biography
+
+Author
+Biography.com Editors
+
+Website Name
+The Biography.com website
+
+URL
+https://www.biography.com/religious-figure/john-paul-ii
+
+</mutableString>
                                 <color key="textColor" red="0.99999600649999998" green="1" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="16"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                             <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" image="family" translatesAutoresizingMaskIntoConstraints="NO" id="DiB-77-THk">
@@ -248,7 +283,7 @@
         <!--Saints-->
         <scene sceneID="uVy-Kj-dhv">
             <objects>
-                <viewController id="yKI-dU-67a" customClass="SaintsViewController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="yKI-dU-67a" customClass="SaintsViewController" customModule="John_Paul_II" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="kBv-nY-1OB">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="618"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -328,7 +363,7 @@
         <!--Segue One View Controller-->
         <scene sceneID="1A9-ag-dx8">
             <objects>
-                <viewController id="07I-uE-bcs" customClass="SegueOneViewController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <viewController id="07I-uE-bcs" customClass="SegueOneViewController" customModule="John_Paul_II" customModuleProvider="target" sceneMemberID="viewController">
                     <view key="view" contentMode="scaleToFill" id="OIP-Fh-fc1">
                         <rect key="frame" x="0.0" y="0.0" width="375" height="647"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
@@ -373,7 +408,7 @@
         <!--My Tab Bar Controller-->
         <scene sceneID="yl2-sM-qoP">
             <objects>
-                <tabBarController id="49e-Tb-3d3" customClass="MyTabBarController" customModule="JPII_Reflections" customModuleProvider="target" sceneMemberID="viewController">
+                <tabBarController id="49e-Tb-3d3" customClass="MyTabBarController" customModule="John_Paul_II" customModuleProvider="target" sceneMemberID="viewController">
                     <tabBar key="tabBar" contentMode="scaleToFill" translucent="NO" id="W28-zg-YXA">
                         <rect key="frame" x="0.0" y="975" width="768" height="49"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" flexibleMinY="YES"/>
