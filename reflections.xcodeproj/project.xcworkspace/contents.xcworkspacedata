@@ -2,6 +2,6 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "self:reflections.xcodeproj">
+      location = "self:/Users/sularize/Desktop/development/jpii/reflections.xcodeproj">
    </FileRef>
 </Workspace>
