@@ -403,7 +403,7 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
 //        present(alertController, animated: true, completion: nil)
         
         
-        showPopup(message: "You are about to leave Reflections and proceed to Franciscan Media, would you still like to proceed?")
+        showPopup(message: "You will now visit your Saint provided by Franciscan Media, would you still like to proceed?")
     }
     
     /*
@@ -465,7 +465,7 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
         
         let title = "Leaving Reflections..."
         
-        let alertController = UIAlertController(title: title, message: message, preferredStyle: .actionSheet)
+        let alertController = UIAlertController(title: title, message: message, preferredStyle: .alert)
         
         let cancelAction = UIAlertAction(title: "Cancel", style: .destructive, handler: nil)
         
