@@ -22,6 +22,10 @@
 		7BE84C302413491B00A15F2F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 7BE84C2E2413491B00A15F2F /* LaunchScreen.storyboard */; };
 		7BE84C3E24137B1000A15F2F /* SaintsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BE84C3D24137B1000A15F2F /* SaintsViewController.swift */; };
 		7BE84C42241380CF00A15F2F /* MyTabBarController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 7BE84C41241380CF00A15F2F /* MyTabBarController.swift */; };
+		DB006D09249D2BFA00480416 /* CGFloatExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB006D08249D2BFA00480416 /* CGFloatExtension.swift */; };
+		DB006D0B249D2C1400480416 /* AdaptiveLayoutConstraint.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB006D0A249D2C1400480416 /* AdaptiveLayoutConstraint.swift */; };
+		DB006D0D249D2CCB00480416 /* StackViewExtension.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB006D0C249D2CCB00480416 /* StackViewExtension.swift */; };
+		DB006D0F249D2CDC00480416 /* TextFieldsFont.swift in Sources */ = {isa = PBXBuildFile; fileRef = DB006D0E249D2CDC00480416 /* TextFieldsFont.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -42,6 +46,10 @@
 		7BE84C312413491B00A15F2F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		7BE84C3D24137B1000A15F2F /* SaintsViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SaintsViewController.swift; sourceTree = "<group>"; };
 		7BE84C41241380CF00A15F2F /* MyTabBarController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyTabBarController.swift; sourceTree = "<group>"; };
+		DB006D08249D2BFA00480416 /* CGFloatExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CGFloatExtension.swift; sourceTree = "<group>"; };
+		DB006D0A249D2C1400480416 /* AdaptiveLayoutConstraint.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AdaptiveLayoutConstraint.swift; sourceTree = "<group>"; };
+		DB006D0C249D2CCB00480416 /* StackViewExtension.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StackViewExtension.swift; sourceTree = "<group>"; };
+		DB006D0E249D2CDC00480416 /* TextFieldsFont.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextFieldsFont.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -99,6 +107,10 @@
 				7BE05A6D2415738B00D2FB60 /* DateFromRow.swift */,
 				7BE05A5F24146C2500D2FB60 /* ContactViewController.swift */,
 				7BE05A6B24156AA700D2FB60 /* SegueOneViewController.swift */,
+				DB006D08249D2BFA00480416 /* CGFloatExtension.swift */,
+				DB006D0A249D2C1400480416 /* AdaptiveLayoutConstraint.swift */,
+				DB006D0C249D2CCB00480416 /* StackViewExtension.swift */,
+				DB006D0E249D2CDC00480416 /* TextFieldsFont.swift */,
 			);
 			path = reflections;
 			sourceTree = "<group>";
@@ -175,15 +187,19 @@
 			buildActionMask = 2147483647;
 			files = (
 				7BE84C3E24137B1000A15F2F /* SaintsViewController.swift in Sources */,
+				DB006D0F249D2CDC00480416 /* TextFieldsFont.swift in Sources */,
 				7BE84C282413491900A15F2F /* SecondViewController.swift in Sources */,
 				7BE84C262413491900A15F2F /* FirstViewController.swift in Sources */,
 				7BE05A5E24143A3900D2FB60 /* DesiredDate.swift in Sources */,
+				DB006D0B249D2C1400480416 /* AdaptiveLayoutConstraint.swift in Sources */,
+				DB006D0D249D2CCB00480416 /* StackViewExtension.swift in Sources */,
 				7BE84C222413491900A15F2F /* AppDelegate.swift in Sources */,
 				7BE05A6E2415738B00D2FB60 /* DateFromRow.swift in Sources */,
 				7BE05A6024146C2500D2FB60 /* ContactViewController.swift in Sources */,
 				7BE84C242413491900A15F2F /* SceneDelegate.swift in Sources */,
 				7BE05A5C2414166C00D2FB60 /* Days.swift in Sources */,
 				7BE84C42241380CF00A15F2F /* MyTabBarController.swift in Sources */,
+				DB006D09249D2BFA00480416 /* CGFloatExtension.swift in Sources */,
 				7BE05A6C24156AA700D2FB60 /* SegueOneViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
