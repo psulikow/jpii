@@ -415,6 +415,7 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
     
     @IBOutlet weak var saintPicker: UIPickerView!
     
+    var selectedSaintDate: String!
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -476,20 +477,27 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
          if let view = view {
                 title = view as! UILabel
           }
-        title.font = UIFont.systemFont(ofSize: 17, weight: UIFont.Weight.bold)
+        title.font = UIFont.systemFont(ofSize: 22, weight: UIFont.Weight.bold)
         title.textColor = UIColor.white
         title.text =  (daysOfTheYear["Days"]![DateFromRow.shared.globalDateFromRow]?.saint)
         title.textAlignment = .center
 
+        selectedSaintDate = (daysOfTheYear["Days"]![DateFromRow.shared.globalDateFromRow]?.saintDate)
     return title
 
+    }
+    
+    func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
+
+                DateFromRow.shared.globalDateFromRow = datez[row]
+        
     }
     
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 
         if let target = segue.destination as? SegueOneViewController {
             target.modalPresentationStyle = .pageSheet
-            target.saintImageUrl = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.url ?? " "
+            target.saintImageUrl = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintURL ?? " "
             target.saintInfo = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintInfo ?? " "
 
         }
