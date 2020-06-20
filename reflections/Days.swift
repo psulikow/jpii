@@ -10,7 +10,7 @@ import Foundation
 
 struct Days {
     var title: String
-    var reflection: String
+    var saintInfo: String
     var url: String
     var saint: String
     var saintURL: String

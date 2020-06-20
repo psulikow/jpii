@@ -13,7 +13,13 @@ class SegueOneViewController: UIViewController {
 
     @IBOutlet weak private var webView: WKWebView!
     
+    @IBOutlet weak var saintImage: UIImageView!
+    
+    @IBOutlet weak var saintText: UITextView!
+    
     var urlString: String?
+    var saintImageUrl: String?
+    var saintInfo: String?
 
     
     override func viewDidLoad() {
@@ -21,11 +27,9 @@ class SegueOneViewController: UIViewController {
 
         // Do any additional setup after loading the view.
         
-        if let unwrappedUrlString = urlString {
-            let urlRequest = URLRequest(url: URL(string: unwrappedUrlString)!)
-
-            webView.load(urlRequest)
-        }
+        saintImage.image = UIImage(named: saintImageUrl ?? " ")
+        saintText.text = saintInfo
+        
     }
     
     @IBAction func done(_ sender: Any) {

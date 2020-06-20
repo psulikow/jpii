@@ -7,7 +7,41 @@
 //
 
 import UIKit
+extension UIImageView {
+    func loadSaintImageUsingCache(withUrl urlString : String) {
+        let url = URL(string: urlString)
+        if url == nil {return}
+        self.image = nil
 
+        // check cached image
+        if let cachedImage = imageCache.object(forKey: urlString as NSString)  {
+            self.image = cachedImage
+            return
+        }
+
+        let activityIndicator: UIActivityIndicatorView = UIActivityIndicatorView.init(style: .medium)
+        addSubview(activityIndicator)
+        activityIndicator.startAnimating()
+        activityIndicator.center = self.center
+
+        // if not, download image from url
+        URLSession.shared.dataTask(with: url!, completionHandler: { (data, response, error) in
+            if error != nil {
+                print(error!)
+                return
+            }
+
+            DispatchQueue.main.async {
+                if let image = UIImage(data: data!) {
+                    imageCache.setObject(image, forKey: urlString as NSString)
+                    self.image = image
+                    activityIndicator.removeFromSuperview()
+                }
+            }
+
+        }).resume()
+    }
+}
 let datez = [
 "01-01",
 "02-01",
@@ -401,9 +435,6 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
 //        alertController.addAction(cancelAction)
 //        alertController.addAction(okayAction)
 //        present(alertController, animated: true, completion: nil)
-        
-        
-        showPopup(message: "You will now visit your Saint provided by Franciscan Media, would you still like to proceed?")
     }
     
     /*
@@ -457,25 +488,10 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 
         if let target = segue.destination as? SegueOneViewController {
-            target.modalPresentationStyle = .overFullScreen
-            target.urlString = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintURL
-        }
-    }
-    
-    func showPopup(message: String) {
-        
-        let title = "Leaving Reflections..."
-        
-        let alertController = UIAlertController(title: title, message: message, preferredStyle: .alert)
-        
-        let cancelAction = UIAlertAction(title: "Cancel", style: .destructive, handler: nil)
-        
-        
-        let continueAction = UIAlertAction(title: "Continue", style: .default, handler: { action in self.performSegue(withIdentifier: "saints", sender:daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintURL) })
-        
-        alertController.addAction(continueAction)
-        alertController.addAction(cancelAction)
+            target.modalPresentationStyle = .pageSheet
+            target.saintImageUrl = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.url ?? " "
+            target.saintInfo = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintInfo ?? " "
 
-        present(alertController, animated: true, completion: nil)
+        }
     }
 }
