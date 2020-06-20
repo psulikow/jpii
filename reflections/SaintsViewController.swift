@@ -457,6 +457,7 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 
         if let target = segue.destination as? SegueOneViewController {
+            target.modalPresentationStyle = .overFullScreen
             target.urlString = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintURL
         }
     }
