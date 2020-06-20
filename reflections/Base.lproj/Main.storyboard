@@ -197,12 +197,6 @@
                                     <constraint firstItem="t13-wS-Vpj" firstAttribute="leading" secondItem="Ko7-dV-pBd" secondAttribute="leadingMargin" id="kqM-Wh-2h6"/>
                                 </constraints>
                             </stackView>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="fjq-nh-Yof">
-                                <rect key="frame" x="20" y="782.5" width="378" height="20.5"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="17"/>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <nil key="highlightedColor"/>
-                            </label>
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" usesAttributedText="YES" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" minimumScaleFactor="0.5" translatesAutoresizingMaskIntoConstraints="NO" id="f1F-O1-eF2">
                                 <rect key="frame" x="20" y="752" width="378" height="20"/>
                                 <attributedString key="attributedText">
@@ -220,16 +214,6 @@
                         <constraints>
                             <constraint firstItem="Ko7-dV-pBd" firstAttribute="top" secondItem="PQr-Ze-W5v" secondAttribute="top" id="2G1-AE-YLN"/>
                             <constraint firstAttribute="bottom" secondItem="Ko7-dV-pBd" secondAttribute="bottom" constant="303" id="62V-DQ-Sei"/>
-                            <constraint firstItem="PQr-Ze-W5v" firstAttribute="bottom" secondItem="fjq-nh-Yof" secondAttribute="bottom" constant="10" id="EMM-iu-ChM" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                </userDefinedRuntimeAttributes>
-                            </constraint>
-                            <constraint firstItem="fjq-nh-Yof" firstAttribute="top" secondItem="f1F-O1-eF2" secondAttribute="bottom" constant="10.5" id="Fcf-BY-0nr" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                </userDefinedRuntimeAttributes>
-                            </constraint>
                             <constraint firstItem="PQr-Ze-W5v" firstAttribute="trailing" secondItem="f1F-O1-eF2" secondAttribute="trailing" constant="16" id="GAf-3I-BJr" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
@@ -240,17 +224,8 @@
                                     <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
                                 </userDefinedRuntimeAttributes>
                             </constraint>
-                            <constraint firstItem="PQr-Ze-W5v" firstAttribute="trailing" secondItem="fjq-nh-Yof" secondAttribute="trailing" constant="16" id="Vtb-zV-hSC" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                </userDefinedRuntimeAttributes>
-                            </constraint>
+                            <constraint firstItem="PQr-Ze-W5v" firstAttribute="bottom" secondItem="f1F-O1-eF2" secondAttribute="bottom" constant="41" id="Vut-lH-uHG"/>
                             <constraint firstItem="Ko7-dV-pBd" firstAttribute="leading" secondItem="PQr-Ze-W5v" secondAttribute="leading" constant="16" id="W8E-2p-kQa" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                </userDefinedRuntimeAttributes>
-                            </constraint>
-                            <constraint firstItem="fjq-nh-Yof" firstAttribute="leading" secondItem="PQr-Ze-W5v" secondAttribute="leading" constant="20" id="oeT-1j-UWw" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
                                 <userDefinedRuntimeAttributes>
                                     <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
                                 </userDefinedRuntimeAttributes>
@@ -268,7 +243,6 @@
                         <outlet property="dateLabel" destination="uVk-Zo-v6N" id="hgj-X0-rmk"/>
                         <outlet property="mainImage" destination="t13-wS-Vpj" id="oYt-yq-4vf"/>
                         <outlet property="quoteLabel" destination="f1F-O1-eF2" id="N4f-db-czJ"/>
-                        <outlet property="reflectonLabel" destination="fjq-nh-Yof" id="8T8-Z7-J2o"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="W5J-7L-Pyd" sceneMemberID="firstResponder"/>
@@ -523,7 +497,7 @@ https://www.biography.com/religious-figure/john-paul-ii
                         <rect key="frame" x="0.0" y="0.0" width="414" height="842"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
-                            <wkWebView opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleToFill" translatesAutoresizingMaskIntoConstraints="NO" id="kh2-V4-sZ7">
+                            <wkWebView opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="kh2-V4-sZ7">
                                 <rect key="frame" x="0.0" y="0.0" width="414" height="739"/>
                                 <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -547,22 +521,21 @@ https://www.biography.com/religious-figure/john-paul-ii
                                     <constraint firstAttribute="height" constant="254" id="gNf-zM-fU3"/>
                                 </constraints>
                             </imageView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hNM-ha-xEs">
-                                <rect key="frame" x="20" y="282" width="374" height="457"/>
+                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hNM-ha-xEs">
+                                <rect key="frame" x="20" y="282" width="374" height="386"/>
                                 <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="457" id="XFw-Ws-HkG"/>
+                                    <constraint firstAttribute="height" constant="386" id="XFw-Ws-HkG"/>
                                 </constraints>
                                 <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="14"/>
+                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
                                 <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
                             </textView>
                         </subviews>
                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
                             <constraint firstItem="kh2-V4-sZ7" firstAttribute="top" secondItem="WK2-44-JUN" secondAttribute="top" id="6Dj-8K-kXs"/>
-                            <constraint firstItem="c1w-Wa-qpP" firstAttribute="top" secondItem="kh2-V4-sZ7" secondAttribute="bottom" constant="20" id="B8q-Cc-kQb"/>
                             <constraint firstItem="hNM-ha-xEs" firstAttribute="trailing" secondItem="EiL-ty-Zau" secondAttribute="trailing" id="Gb2-mo-lrQ"/>
                             <constraint firstItem="c1w-Wa-qpP" firstAttribute="centerX" secondItem="OIP-Fh-fc1" secondAttribute="centerX" id="KAN-B3-f7F"/>
                             <constraint firstItem="WK2-44-JUN" firstAttribute="bottom" secondItem="c1w-Wa-qpP" secondAttribute="bottom" constant="10" id="LVH-w5-dhu"/>
@@ -572,6 +545,7 @@ https://www.biography.com/religious-figure/john-paul-ii
                             <constraint firstItem="EiL-ty-Zau" firstAttribute="top" secondItem="WK2-44-JUN" secondAttribute="top" constant="20" id="fKL-WV-v2r"/>
                             <constraint firstItem="EiL-ty-Zau" firstAttribute="leading" secondItem="WK2-44-JUN" secondAttribute="leading" constant="20" id="gV3-Vt-PMp"/>
                             <constraint firstItem="hNM-ha-xEs" firstAttribute="leading" secondItem="WK2-44-JUN" secondAttribute="leading" constant="20" id="gcb-mt-u8h"/>
+                            <constraint firstItem="c1w-Wa-qpP" firstAttribute="top" secondItem="kh2-V4-sZ7" secondAttribute="bottom" constant="20" id="oWQ-WV-Oex"/>
                             <constraint firstItem="hNM-ha-xEs" firstAttribute="centerX" secondItem="c1w-Wa-qpP" secondAttribute="centerX" id="rZ5-SY-BpE"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="WK2-44-JUN"/>
