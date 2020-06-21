@@ -498,7 +498,7 @@ https://www.biography.com/religious-figure/john-paul-ii
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
                         <subviews>
                             <wkWebView opaque="NO" clearsContextBeforeDrawing="NO" contentMode="scaleAspectFit" translatesAutoresizingMaskIntoConstraints="NO" id="kh2-V4-sZ7">
-                                <rect key="frame" x="0.0" y="0.0" width="414" height="739"/>
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="539"/>
                                 <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <color key="tintColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <wkWebViewConfiguration key="configuration">
@@ -522,10 +522,10 @@ https://www.biography.com/religious-figure/john-paul-ii
                                 </constraints>
                             </imageView>
                             <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" translatesAutoresizingMaskIntoConstraints="NO" id="hNM-ha-xEs">
-                                <rect key="frame" x="20" y="282" width="374" height="386"/>
+                                <rect key="frame" x="20" y="282" width="374" height="257"/>
                                 <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <constraints>
-                                    <constraint firstAttribute="height" constant="386" id="XFw-Ws-HkG"/>
+                                    <constraint firstAttribute="height" constant="257" id="XFw-Ws-HkG"/>
                                 </constraints>
                                 <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -545,7 +545,7 @@ https://www.biography.com/religious-figure/john-paul-ii
                             <constraint firstItem="EiL-ty-Zau" firstAttribute="top" secondItem="WK2-44-JUN" secondAttribute="top" constant="20" id="fKL-WV-v2r"/>
                             <constraint firstItem="EiL-ty-Zau" firstAttribute="leading" secondItem="WK2-44-JUN" secondAttribute="leading" constant="20" id="gV3-Vt-PMp"/>
                             <constraint firstItem="hNM-ha-xEs" firstAttribute="leading" secondItem="WK2-44-JUN" secondAttribute="leading" constant="20" id="gcb-mt-u8h"/>
-                            <constraint firstItem="c1w-Wa-qpP" firstAttribute="top" secondItem="kh2-V4-sZ7" secondAttribute="bottom" constant="20" id="oWQ-WV-Oex"/>
+                            <constraint firstItem="c1w-Wa-qpP" firstAttribute="top" secondItem="kh2-V4-sZ7" secondAttribute="bottom" constant="220" id="oWQ-WV-Oex"/>
                             <constraint firstItem="hNM-ha-xEs" firstAttribute="centerX" secondItem="c1w-Wa-qpP" secondAttribute="centerX" id="rZ5-SY-BpE"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="WK2-44-JUN"/>
