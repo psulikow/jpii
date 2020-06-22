@@ -477,7 +477,7 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
          if let view = view {
                 title = view as! UILabel
           }
-        title.font = UIFont.systemFont(ofSize: 20, weight: UIFont.Weight.bold)
+        title.font = UIFont.systemFont(ofSize: 18, weight: UIFont.Weight.bold)
         title.textColor = UIColor.white
         title.text =  (daysOfTheYear["Days"]![DateFromRow.shared.globalDateFromRow]?.saint)
         title.textAlignment = .center
@@ -496,7 +496,7 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
     override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
 
         if let target = segue.destination as? SegueOneViewController {
-            target.modalPresentationStyle = .pageSheet
+            target.modalPresentationStyle = .fullScreen
             target.saintImageUrl = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintURL ?? " "
             target.saintInfo = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintInfo ?? " "
 

@@ -20,7 +20,7 @@ class SegueOneViewController: UIViewController {
     var urlString: String?
     var saintImageUrl: String?
     var saintInfo: String?
-
+    var timerForShowScrollIndicator: Timer?
     
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -29,7 +29,6 @@ class SegueOneViewController: UIViewController {
         
         saintImage.image = UIImage(named: saintImageUrl ?? " ")
         saintText.text = saintInfo
-        
     }
     
     @IBAction func done(_ sender: Any) {
@@ -45,5 +44,20 @@ class SegueOneViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
-
+    
+    //the below will leave the scroll indicator on
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(true)
+        startTimerForShowScrollIndicator()
+    }
+    
+    @objc func showScrollIndicatorsInContacts() {
+        UIView.animate(withDuration: 0.00001) {
+            self.saintText.flashScrollIndicators()
+        }
+    }
+    
+    func startTimerForShowScrollIndicator() {
+        self.timerForShowScrollIndicator = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(self.showScrollIndicatorsInContacts), userInfo: nil, repeats: true)
+    }
 }
