@@ -34,12 +34,12 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="8hf-2c-nGd">
                                 <rect key="frame" x="20" y="108" width="378" height="658"/>
                                 <string key="text">Our mission is to bring the life of this great Saint to others through his quotes and visual represntations of his life. On behalf of reflections with JPII we invite you to contact us by clicking the link below.  We are continually looking to not only improve our own lives but also the appearance and content of this application.  God Bless. </string>
-                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="17"/>
+                                <fontDescription key="fontDescription" name="HelveticaNeue" family="Helvetica Neue" pointSize="18"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
                             <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="c1Q-Xo-YgE">
-                                <rect key="frame" x="121.5" y="764" width="171" height="39"/>
+                                <rect key="frame" x="119" y="764" width="176" height="39"/>
                                 <constraints>
                                     <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="171" id="FY5-AH-4MG" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
                                         <userDefinedRuntimeAttributes>
@@ -53,7 +53,7 @@
                                     </constraint>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="22"/>
-                                <state key="normal" title="click to contact us"/>
+                                <state key="normal" title="Click to contact us"/>
                                 <connections>
                                     <action selector="contactAction:" destination="FI2-JD-mbS" eventType="touchUpInside" id="REv-ZL-Dvh"/>
                                 </connections>
