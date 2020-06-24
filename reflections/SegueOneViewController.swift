@@ -13,19 +13,22 @@ class SegueOneViewController: UIViewController {
 
     @IBOutlet weak private var webView: WKWebView!
     
+    @IBOutlet weak var saintImage: UIImageView!
+    
+    @IBOutlet weak var saintText: UITextView!
+    
     var urlString: String?
-
+    var saintImageUrl: String?
+    var saintInfo: String?
+    var timerForShowScrollIndicator: Timer?
     
     override func viewDidLoad() {
         super.viewDidLoad()
 
         // Do any additional setup after loading the view.
         
-        if let unwrappedUrlString = urlString {
-            let urlRequest = URLRequest(url: URL(string: unwrappedUrlString)!)
-
-            webView.load(urlRequest)
-        }
+        saintImage.image = UIImage(named: saintImageUrl ?? " ")
+        saintText.text = saintInfo
     }
     
     @IBAction func done(_ sender: Any) {
@@ -41,5 +44,20 @@ class SegueOneViewController: UIViewController {
         // Pass the selected object to the new view controller.
     }
     */
-
+    
+    //the below will leave the scroll indicator on
+    override func viewDidAppear(_ animated: Bool) {
+        super.viewDidAppear(true)
+        startTimerForShowScrollIndicator()
+    }
+    
+    @objc func showScrollIndicatorsInContacts() {
+        UIView.animate(withDuration: 0.00001) {
+            self.saintText.flashScrollIndicators()
+        }
+    }
+    
+    func startTimerForShowScrollIndicator() {
+        self.timerForShowScrollIndicator = Timer.scheduledTimer(timeInterval: 0.1, target: self, selector: #selector(self.showScrollIndicatorsInContacts), userInfo: nil, repeats: true)
+    }
 }
