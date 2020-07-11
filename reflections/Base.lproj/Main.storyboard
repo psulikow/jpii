@@ -413,7 +413,7 @@ https://www.biography.com/religious-figure/john-paul-ii
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                                 <nil key="highlightedColor"/>
                             </label>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Please select your desired Saint and then click below to learn more about them." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E0v-5U-zy6">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="To view the saint(s) associated with a date, select a date below." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="0" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="E0v-5U-zy6">
                                 <rect key="frame" x="16" y="346" width="381" height="41"/>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
                                 <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
@@ -508,69 +508,34 @@ https://www.biography.com/religious-figure/john-paul-ii
                                     <action selector="done:" destination="07I-uE-bcs" eventType="touchUpInside" id="ige-Wo-on8"/>
                                 </connections>
                             </button>
-                            <imageView clipsSubviews="YES" userInteractionEnabled="NO" contentMode="scaleAspectFit" horizontalHuggingPriority="251" verticalHuggingPriority="251" translatesAutoresizingMaskIntoConstraints="NO" id="EiL-ty-Zau">
-                                <rect key="frame" x="20" y="20" width="374" height="254"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="254" id="gNf-zM-fU3" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                        <userDefinedRuntimeAttributes>
-                                            <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                        </userDefinedRuntimeAttributes>
-                                    </constraint>
-                                </constraints>
-                            </imageView>
-                            <textView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" editable="NO" textAlignment="natural" selectable="NO" translatesAutoresizingMaskIntoConstraints="NO" id="hNM-ha-xEs">
-                                <rect key="frame" x="20" y="282" width="374" height="257"/>
-                                <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <constraints>
-                                    <constraint firstAttribute="height" constant="257" id="XFw-Ws-HkG" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                        <userDefinedRuntimeAttributes>
-                                            <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                        </userDefinedRuntimeAttributes>
-                                    </constraint>
-                                </constraints>
-                                <string key="text">Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.</string>
-                                <color key="textColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
-                                <fontDescription key="fontDescription" type="system" pointSize="18"/>
-                                <textInputTraits key="textInputTraits" autocapitalizationType="sentences"/>
-                            </textView>
+                            <pageControl opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" numberOfPages="3" translatesAutoresizingMaskIntoConstraints="NO" id="NGt-IC-SDj">
+                                <rect key="frame" x="187.5" y="714" width="39" height="37"/>
+                                <color key="pageIndicatorTintColor" cocoaTouchSystemColor="darkTextColor"/>
+                                <color key="currentPageIndicatorTintColor" systemColor="linkColor" red="0.0" green="0.47843137250000001" blue="1" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
+                            </pageControl>
+                            <scrollView clipsSubviews="YES" multipleTouchEnabled="YES" contentMode="scaleToFill" bounces="NO" showsHorizontalScrollIndicator="NO" showsVerticalScrollIndicator="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9O7-bl-CnU">
+                                <rect key="frame" x="0.0" y="0.0" width="414" height="706"/>
+                            </scrollView>
                         </subviews>
                         <color key="backgroundColor" white="0.33333333333333331" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
                         <constraints>
-                            <constraint firstItem="hNM-ha-xEs" firstAttribute="trailing" secondItem="EiL-ty-Zau" secondAttribute="trailing" id="Gb2-mo-lrQ"/>
-                            <constraint firstItem="c1w-Wa-qpP" firstAttribute="centerX" secondItem="OIP-Fh-fc1" secondAttribute="centerX" id="KAN-B3-f7F"/>
-                            <constraint firstItem="WK2-44-JUN" firstAttribute="bottom" secondItem="c1w-Wa-qpP" secondAttribute="bottom" constant="10" id="LVH-w5-dhu" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                </userDefinedRuntimeAttributes>
-                            </constraint>
-                            <constraint firstItem="hNM-ha-xEs" firstAttribute="top" secondItem="EiL-ty-Zau" secondAttribute="bottom" constant="8" id="Ti3-cT-E04" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                </userDefinedRuntimeAttributes>
-                            </constraint>
-                            <constraint firstItem="EiL-ty-Zau" firstAttribute="top" secondItem="WK2-44-JUN" secondAttribute="top" constant="20" id="fKL-WV-v2r" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                </userDefinedRuntimeAttributes>
-                            </constraint>
-                            <constraint firstItem="EiL-ty-Zau" firstAttribute="leading" secondItem="WK2-44-JUN" secondAttribute="leading" constant="20" id="gV3-Vt-PMp" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                </userDefinedRuntimeAttributes>
-                            </constraint>
-                            <constraint firstItem="hNM-ha-xEs" firstAttribute="leading" secondItem="WK2-44-JUN" secondAttribute="leading" constant="20" id="gcb-mt-u8h" customClass="AdaptiveLayoutConstraint" customModule="John_Paul_II" customModuleProvider="target">
-                                <userDefinedRuntimeAttributes>
-                                    <userDefinedRuntimeAttribute type="boolean" keyPath="setAdaptiveLayout" value="YES"/>
-                                </userDefinedRuntimeAttributes>
-                            </constraint>
-                            <constraint firstItem="hNM-ha-xEs" firstAttribute="centerX" secondItem="c1w-Wa-qpP" secondAttribute="centerX" id="rZ5-SY-BpE"/>
+                            <constraint firstItem="c1w-Wa-qpP" firstAttribute="top" secondItem="NGt-IC-SDj" secondAttribute="bottom" constant="8" id="1v6-cD-8sn"/>
+                            <constraint firstItem="9O7-bl-CnU" firstAttribute="leading" secondItem="WK2-44-JUN" secondAttribute="leading" id="60R-B4-fXu"/>
+                            <constraint firstItem="9O7-bl-CnU" firstAttribute="centerX" secondItem="OIP-Fh-fc1" secondAttribute="centerX" id="6LR-Lk-wJB"/>
+                            <constraint firstItem="9O7-bl-CnU" firstAttribute="centerY" secondItem="OIP-Fh-fc1" secondAttribute="centerY" constant="-68" id="6XH-t2-uXf"/>
+                            <constraint firstItem="c1w-Wa-qpP" firstAttribute="centerX" secondItem="9O7-bl-CnU" secondAttribute="centerX" id="J8F-UK-3e9"/>
+                            <constraint firstItem="WK2-44-JUN" firstAttribute="bottom" secondItem="c1w-Wa-qpP" secondAttribute="bottom" constant="10" id="OgX-dG-bqu"/>
+                            <constraint firstItem="c1w-Wa-qpP" firstAttribute="centerX" secondItem="NGt-IC-SDj" secondAttribute="centerX" id="eJ2-r0-lfm"/>
+                            <constraint firstItem="9O7-bl-CnU" firstAttribute="trailing" secondItem="WK2-44-JUN" secondAttribute="trailing" id="uQc-7h-ksd"/>
+                            <constraint firstItem="9O7-bl-CnU" firstAttribute="top" secondItem="WK2-44-JUN" secondAttribute="top" id="vVW-J9-fnn"/>
+                            <constraint firstAttribute="bottom" secondItem="9O7-bl-CnU" secondAttribute="bottom" constant="136" id="yrS-7a-2Dn"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="WK2-44-JUN"/>
                     </view>
                     <navigationItem key="navigationItem" id="Bpt-yI-OBS"/>
                     <connections>
-                        <outlet property="saintImage" destination="EiL-ty-Zau" id="JTk-gi-UgJ"/>
-                        <outlet property="saintText" destination="hNM-ha-xEs" id="hre-lm-zGn"/>
+                        <outlet property="pageControl" destination="NGt-IC-SDj" id="p7K-Xk-gju"/>
+                        <outlet property="scrollView" destination="9O7-bl-CnU" id="r20-TS-cPs"/>
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="kjc-vZ-WGm" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>

@@ -10,11 +10,8 @@ import Foundation
 
 struct Days {
     var title: String
-    var saintInfo: String
     var url: String
-    var saint: String
-    var saintURL: String
-    var saintDate: String
+    var saints: [[String]]
 }
 
 var daysOfTheYear = [String : [String : Days]]()

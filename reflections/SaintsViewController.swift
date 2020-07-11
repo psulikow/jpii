@@ -411,14 +411,14 @@ let datez = [
 
 class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerViewDelegate {
 
-    
-    
     @IBOutlet weak var saintPicker: UIPickerView!
     
     var selectedSaintDate: String!
     
     override func viewDidLoad() {
         super.viewDidLoad()
+        
+        //this sets the current date on the picker
         let indexOfDate = datez.firstIndex(of: formatDate(date: Date()))
         saintPicker.selectRow(indexOfDate!, inComponent: 0, animated: true)
 
@@ -455,51 +455,31 @@ class SaintsViewController: UIViewController, UIPickerViewDataSource, UIPickerVi
     func pickerView(_ pickerView: UIPickerView, numberOfRowsInComponent component: Int) -> Int {
         return datez.count
     }
-    
-    // MARK: UIPickerViewDelegate
-    
-    func pickerView(_ pickerView: UIPickerView, titleForRow row: Int, forComponent component: Int) -> String? {
-        DateFromRow.shared.globalDateFromRow = datez[row]
-        return daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saint
-    }
-    
-//old way
-//    func pickerView(_ pickerView: UIPickerView, attributedTitleForRow row: Int, forComponent component: Int) -> NSAttributedString? {
-//        DateFromRow.shared.globalDateFromRow = datez[row]
-//        return NSAttributedString(string: (daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]!.saint)!, attributes: [NSAttributedString.Key.foregroundColor:UIColor.white])
-//    }
-
-    //new way to manipulate picker text
-    func pickerView(_ pickerView: UIPickerView, viewForRow row: Int, forComponent component: Int, reusing view: UIView?) -> UIView {
-
-      DateFromRow.shared.globalDateFromRow = datez[row]
-      var title = UILabel()
-         if let view = view {
-                title = view as! UILabel
-          }
-        title.font = UIFont.systemFont(ofSize: 18, weight: UIFont.Weight.bold)
-        title.textColor = UIColor.white
-        title.text =  (daysOfTheYear["Days"]![DateFromRow.shared.globalDateFromRow]?.saint)
-        title.textAlignment = .center
-
-        selectedSaintDate = (daysOfTheYear["Days"]![DateFromRow.shared.globalDateFromRow]?.saintDate)
-    return title
-
-    }
-    
+        
     func pickerView(_ pickerView: UIPickerView, didSelectRow row: Int, inComponent component: Int) {
 
                 DateFromRow.shared.globalDateFromRow = datez[row]
         
     }
     
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
+    //new way to manipulate picker text
+    func pickerView(_ pickerView: UIPickerView, viewForRow row: Int, forComponent component: Int, reusing view: UIView?) -> UIView {
+        DateFromRow.shared.globalDateFromRow = datez[row]
+        var title = UILabel()
+        if let view = view {
+            title = view as! UILabel
+        }
+        title.font = UIFont.systemFont(ofSize: 18, weight: UIFont.Weight.bold)
+        title.textColor = UIColor.white
+        title.text = formatDate3(date: DateFromRow.shared.globalDateFromRow)
+        title.textAlignment = .center
+        return title
+    }
 
+    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
         if let target = segue.destination as? SegueOneViewController {
             target.modalPresentationStyle = .fullScreen
-            target.saintImageUrl = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintURL ?? " "
-            target.saintInfo = daysOfTheYear["Days"]?[DateFromRow.shared.globalDateFromRow]?.saintInfo ?? " "
-
+            target.saints = daysOfTheYear["Days"]![DateFromRow.shared.globalDateFromRow]!.saints
         }
     }
 }

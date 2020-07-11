@@ -40,7 +40,8 @@ func formatDate(date: Date) -> String {
     // again convert your date to string
     return formatter.string(from: yourDate!)
 }
-    func formatDate2(date: Date) -> String {
+
+func formatDate2(date: Date) -> String {
     let formatter = DateFormatter()
     // initially set the format based on your datepicker date / server String
     formatter.dateFormat = "yyyy-MM-dd HH:mm:ss"
@@ -53,7 +54,13 @@ func formatDate(date: Date) -> String {
     formatter.dateFormat = "yyyy-MM-dd"
     // again convert your date to string
     return formatter.string(from: yourDate!)
-    
-    //test
-//    return "25-11"
 }
+
+func formatDate3(date: String) -> String {
+    let dateFormatter = DateFormatter()
+    dateFormatter.dateFormat = "dd-MM"
+    let date = dateFormatter.date(from: date)
+    dateFormatter.dateFormat = "dd MMMM"
+    return  dateFormatter.string(from: date!)
+}
+
